@@ -54,5 +54,9 @@
   "2025S2": {
     "name": "2025 2nd Extraordinary Session",
     "date_folder": "2025-2025"
+  },
+  "2026": {
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   }
 }
