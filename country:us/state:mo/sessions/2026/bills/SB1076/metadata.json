@@ -15,7 +15,18 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:30Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Schnelting",
@@ -48,6 +59,10 @@
       "note": ""
     },
     {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=362",
+      "note": ""
+    },
+    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=362",
       "note": ""
     }
@@ -60,6 +75,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T22:22:03Z"
+    "logs_latest_update": "2025-12-14T21:03:30Z"
   }
 }
