@@ -1,42 +1,32 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB 2442",
-  "title": "Modifies provisions governing responsibilities of the department of elementary and secondary education",
+  "identifier": "HB 2513",
+  "title": "Creates provisions relating to individualized care plans for children with rare or medically complex conditions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "CHILDREN AND MINORS",
-    "EDUCATION, ELEMENTARY AND SECONDARY",
-    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF"
+    "EMERGENCIES",
+    "HEALTH CARE",
+    "HEALTH CARE PROFESSIONALS",
+    "HOSPITALS"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2442"
+      "title": "HB 2513"
     }
   ],
   "other_identifiers": [],
   "actions": [
     {
       "description": "Prefiled (H)",
-      "date": "2025-12-16T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-17T09:24:20Z"
-      }
-    },
-    {
-      "description": "Withdrawn (H)",
       "date": "2025-12-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "withdrawal"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T09:24:28Z"
@@ -45,11 +35,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Cathy Jo Loy",
+      "name": "Tricia Byrnes",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cathy Jo Loy\"}",
+      "person_id": "~{\"name\": \"Tricia Byrnes\"}",
       "organization_id": null
     }
   ],
@@ -59,7 +49,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4313H.01I.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5089H.02I.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -67,27 +57,15 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "Bill Summary (Introduced)",
-      "links": [
-        {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2442I.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2442&year=2026&code=R&style=new",
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2513&year=2026&code=R&style=new",
       "note": ""
     },
     {
-      "url": "https://house.mo.gov/billactions.aspx?bill=HB2442&year=2026&code=R",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2513&year=2026&code=R",
       "note": ""
     }
   ],

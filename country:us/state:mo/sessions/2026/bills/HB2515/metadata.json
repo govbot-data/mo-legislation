@@ -1,41 +1,33 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB 1653",
-  "title": "Modifies provisions relating to the integrity of food products",
+  "identifier": "HB 2515",
+  "title": "Establishes a motor fuel tax exemption for certain government-owned vehicles when used for public service purposes",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "AGRICULTURE",
-    "HEALTH, PUBLIC"
+    "FIRE PROTECTION",
+    "MOTOR FUEL",
+    "REVENUE, DEPARTMENT OF",
+    "TAXATION AND REVENUE - GENERAL",
+    "TAXATION AND REVENUE - SALES AND USE",
+    "TRANSPORTATION"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1653"
+      "title": "HB 2515"
     }
   ],
   "other_identifiers": [],
   "actions": [
     {
       "description": "Prefiled (H)",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "Withdrawn (H)",
       "date": "2025-12-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "withdrawal"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T09:24:28Z"
@@ -44,11 +36,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Mike Steinmeyer",
+      "name": "Tricia Byrnes",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Mike Steinmeyer\"}",
+      "person_id": "~{\"name\": \"Tricia Byrnes\"}",
       "organization_id": null
     }
   ],
@@ -58,7 +50,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5356H.01I.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5999H.01I.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -66,27 +58,15 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "Bill Summary (Introduced)",
-      "links": [
-        {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1653I.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1653&year=2026&code=R&style=new",
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2515&year=2026&code=R&style=new",
       "note": ""
     },
     {
-      "url": "https://house.mo.gov/billactions.aspx?bill=HB1653&year=2026&code=R",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2515&year=2026&code=R",
       "note": ""
     }
   ],
