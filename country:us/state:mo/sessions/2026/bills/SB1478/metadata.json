@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1478",
-  "title": "Establishes the Missouri Statewide Mechanical Contractors Licensing Act",
+  "title": "WITHDRAWN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes the Missouri Statewide Mechanical Contractors Licensing Act"
+      "abstract": "WITHDRAWN"
     }
   ],
   "other_titles": [],
@@ -25,6 +25,18 @@
       "_processing": {
         "log_file_created": "2025-12-30T12:39:23Z"
       }
+    },
+    {
+      "description": "Bill Withdrawn",
+      "date": "2026-01-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-03T12:35:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -33,12 +45,24 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1478.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -63,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:39:23Z"
+    "logs_latest_update": "2026-01-03T12:35:47Z"
   }
 }
