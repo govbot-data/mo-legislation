@@ -1,41 +1,31 @@
 {
   "legislative_session": "2026",
-  "identifier": "HB 2638",
-  "title": "Creates provisions relating to funding of behavioral health services",
+  "identifier": "HB 2712",
+  "title": "Modifies provisions relating to pesticides by including pesticides registered by certain federal agencies as satisfying requirements for a warning label for cancer",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "MENTAL HEALTH",
-    "TELECOMMUNICATIONS"
+    "AGRICULTURE",
+    "ENVIRONMENTAL PROTECTION",
+    "TRANSPORTATION",
+    "TREES AND OTHER PLANTS"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2638"
+      "title": "HB 2712"
     }
   ],
   "other_identifiers": [],
   "actions": [
     {
       "description": "Prefiled (H)",
-      "date": "2026-01-02T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-03T12:35:47Z"
-      }
-    },
-    {
-      "description": "Withdrawn (H)",
       "date": "2026-01-06T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "withdrawal"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-07T12:40:42Z"
@@ -44,11 +34,11 @@
   ],
   "sponsorships": [
     {
-      "name": "John Black",
+      "name": "Dane Diehl",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"John Black\"}",
+      "person_id": "~{\"name\": \"Dane Diehl\"}",
       "organization_id": null
     }
   ],
@@ -58,7 +48,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6343H.01I.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6070H.01I.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -66,27 +56,15 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "Bill Summary (Introduced)",
-      "links": [
-        {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2638I.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2638&year=2026&code=R&style=new",
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2712&year=2026&code=R&style=new",
       "note": ""
     },
     {
-      "url": "https://house.mo.gov/billactions.aspx?bill=HB2638&year=2026&code=R",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2712&year=2026&code=R",
       "note": ""
     }
   ],
