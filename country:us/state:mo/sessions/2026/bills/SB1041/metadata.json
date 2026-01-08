@@ -15,39 +15,36 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Roberts",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Roberts\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Roberts\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1041.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
       "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=192",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=192",
       "note": ""
     },
     {
@@ -63,6 +60,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T22:15:04Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }

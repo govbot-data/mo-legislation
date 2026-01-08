@@ -30,6 +30,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T22:15:03Z"
       }
+    },
+    {
+      "description": "Read First Time (H)",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -56,6 +66,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Matthew Overcast\"}",
       "organization_id": null
+    },
+    {
+      "name": "Adrian Plank",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Plank\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregg Bush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregg Bush\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -72,7 +98,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1662I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -92,6 +130,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T22:15:03Z"
+    "logs_latest_update": "2026-01-08T12:41:19Z"
   }
 }

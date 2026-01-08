@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2535",
-  "title": "Authorizes the \"Veterans and Gold Star Family Property Tax Relief Act\" relating to a homestead exemption for certain veterans, establishes a \"Veterans Property Tax Relief Fund\" to offset lost property tax revenue, increases the cigarette tax $0.10 per pack of 20 cigarettes, subjects alternative nicotine products, vapor products, tobacco paraphernalia, and hemp-derived consumable products to an excise tax, with the additional proceeds to be deposited to the credit of such fund",
+  "title": "Authorizes a homestead tax exemption for certain veterans, and to offset lost property tax revenue, increases the cigarette tax and subjects alternative nicotine products, vapor products, tobacco paraphernalia, and hemp-derived consumable products to an excise tax",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -35,6 +35,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T09:24:28Z"
+      }
+    },
+    {
+      "description": "Read First Time (H)",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     }
   ],
@@ -82,6 +92,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T09:24:28Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }

@@ -30,6 +30,16 @@
       "_processing": {
         "log_file_created": "2025-12-31T12:38:29Z"
       }
+    },
+    {
+      "description": "Read First Time (H)",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +49,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mike Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brandon Phelps",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brandon Phelps\"}",
       "organization_id": null
     }
   ],
@@ -76,6 +94,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-31T12:38:29Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }

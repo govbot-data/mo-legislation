@@ -25,6 +25,18 @@
       "_processing": {
         "log_file_created": "2026-01-01T12:38:13Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,7 +50,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1485.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -63,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-01T12:38:13Z"
+    "logs_latest_update": "2026-01-08T12:41:19Z"
   }
 }

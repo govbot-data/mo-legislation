@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1399",
-  "title": "Requires employers to pay administration adjustments for purposes of unemployment benefits law",
+  "title": "Establishes the Unemployment Administration Adjustment Fund",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires employers to pay administration adjustments for purposes of unemployment benefits law"
+      "abstract": "Establishes the Unemployment Administration Adjustment Fund"
     }
   ],
   "other_titles": [],
@@ -25,6 +25,18 @@
       "_processing": {
         "log_file_created": "2025-12-04T22:13:19Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -33,12 +45,24 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Crawford\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crawford\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1399.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -63,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-04T22:13:19Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }

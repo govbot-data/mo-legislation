@@ -30,6 +30,16 @@
       "_processing": {
         "log_file_created": "2025-12-18T09:24:20Z"
       }
+    },
+    {
+      "description": "Read First Time (H)",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -56,7 +66,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note 4442H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4442H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,6 +98,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-18T09:24:20Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }

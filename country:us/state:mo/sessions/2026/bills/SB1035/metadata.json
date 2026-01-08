@@ -25,6 +25,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T22:15:03Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -33,7 +45,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bean\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bean\"}",
       "organization_id": null
     }
   ],
@@ -75,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T22:15:03Z"
+    "logs_latest_update": "2026-01-08T12:41:18Z"
   }
 }
