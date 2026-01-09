@@ -41,6 +41,18 @@
       "_processing": {
         "log_file_created": "2026-01-08T12:41:19Z"
       }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:40:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,6 +111,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:41:19Z"
+    "logs_latest_update": "2026-01-09T12:40:04Z"
   }
 }

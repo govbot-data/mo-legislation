@@ -41,13 +41,43 @@
       }
     },
     {
-      "description": "House Message (H)",
+      "description": "Reported to the Senate",
       "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-01-09T12:40:05Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:40:05Z"
+      }
+    },
+    {
+      "description": "Adopted (H)",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:40:05Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:40:05Z"
       }
     }
   ],
@@ -95,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:41:18Z"
+    "logs_latest_update": "2026-01-09T12:40:05Z"
   }
 }

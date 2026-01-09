@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HCR 29",
+  "title": "Urges the United States Congress to reinstate mandatory country of origin labeling",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "AGRICULTURE",
+    "FOOD"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "official",
+      "title": "HCR 29"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and Read First Time (H)",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:40:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Keith Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Keith Elliott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4299H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HCR29&year=2026&code=R&style=new",
+      "note": ""
+    },
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HCR29&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-01-09T12:40:05Z"
+  }
+}
