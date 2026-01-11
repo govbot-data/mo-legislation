@@ -15,7 +15,30 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:36:47Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:36:47Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Trent",
@@ -48,6 +71,10 @@
       "note": ""
     },
     {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=163",
+      "note": ""
+    },
+    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=163",
       "note": ""
     }
@@ -60,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:36:00Z"
+    "logs_latest_update": "2026-01-11T12:36:47Z"
   }
 }
