@@ -64,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:41:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +83,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mike McGirl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hardy Billington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hardy Billington\"}",
       "organization_id": null
     }
   ],
@@ -101,6 +119,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Note 5083H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5083H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -122,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-01-14T12:41:27Z"
   }
 }
