@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 891",
-  "title": "Requires the General Assembly to approve proposed administrative rules with a fiscal note over $250,000",
+  "title": "Modifies provisions relating to the administrative rules process",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires the General Assembly to approve proposed administrative rules with a fiscal note over $250,000"
+      "abstract": "Modifies provisions relating to the administrative rules process"
     }
   ],
   "other_titles": [],
@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Fiscal Oversight Committee",
+      "description": "Hearing Conducted S Government Efficiency Committee",
       "date": "2026-01-12T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-09T12:40:05Z"
+        "log_file_created": "2026-01-15T12:40:53Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 891 & 877) Government Efficiency Committee (4253S.02C)",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:40:53Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB891.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB891.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-01-15T12:40:53Z"
   }
 }

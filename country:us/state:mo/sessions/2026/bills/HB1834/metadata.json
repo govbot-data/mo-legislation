@@ -64,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:40:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,6 +111,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4020H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4020H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -122,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-01-15T12:40:53Z"
   }
 }

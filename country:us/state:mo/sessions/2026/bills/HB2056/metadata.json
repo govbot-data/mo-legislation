@@ -65,6 +65,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:40:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +92,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Christopher Warwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Hurlbert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Hurlbert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Barnes\"}",
       "organization_id": null
     }
   ],
@@ -110,6 +136,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Note 3950H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3950H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -131,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-01-15T12:40:53Z"
   }
 }

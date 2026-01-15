@@ -71,6 +71,18 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:41:27Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 8 NOES: 0 PRESENT: 0",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:40:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,7 +109,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HR3894Testimony1-13.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -117,6 +141,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:41:27Z"
+    "logs_latest_update": "2026-01-15T12:40:53Z"
   }
 }
