@@ -45,6 +45,18 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:41:27Z"
       }
+    },
+    {
+      "description": "Referred: Elementary and Secondary Education(H)",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:40:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:41:27Z"
+    "logs_latest_update": "2026-01-16T12:40:03Z"
   }
 }
