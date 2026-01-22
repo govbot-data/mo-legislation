@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
       }
+    },
+    {
+      "description": "Hearing Scheduled S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:43:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -100,6 +110,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-01-22T12:43:42Z"
   }
 }

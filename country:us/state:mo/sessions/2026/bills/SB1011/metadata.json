@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:35:55Z"
       }
+    },
+    {
+      "description": "Bill Combined w/SCS SBs 977 & 1011",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:43:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:35:55Z"
+    "logs_latest_update": "2026-01-22T12:43:42Z"
   }
 }

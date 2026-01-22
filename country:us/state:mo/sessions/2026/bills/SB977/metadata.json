@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
       "date": "2026-01-14T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-14T12:41:27Z"
+        "log_file_created": "2026-01-22T12:43:42Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 977 & 1011) Judiciary and Civil and Criminal Jurisprudence Committee (5434S.02C)",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:43:42Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB977.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB977.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:41:27Z"
+    "logs_latest_update": "2026-01-22T12:43:42Z"
   }
 }

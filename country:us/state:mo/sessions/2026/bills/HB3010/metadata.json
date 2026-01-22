@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:44:26Z"
       }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:43:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +51,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Melanie Stinnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Dean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Dean\"}",
       "organization_id": null
     }
   ],
@@ -76,6 +96,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:44:26Z"
+    "logs_latest_update": "2026-01-22T12:43:42Z"
   }
 }
