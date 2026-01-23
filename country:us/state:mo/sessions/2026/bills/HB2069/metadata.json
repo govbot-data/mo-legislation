@@ -107,6 +107,18 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:43:42Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Administrative(H)",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:42:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +177,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2069C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4899H.01I.ORG",
       "links": [
         {
@@ -206,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:43:42Z"
+    "logs_latest_update": "2026-01-23T12:42:11Z"
   }
 }
