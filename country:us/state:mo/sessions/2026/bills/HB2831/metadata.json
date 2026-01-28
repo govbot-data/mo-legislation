@@ -54,6 +54,16 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:42:11Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,6 +90,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Donna Barnes\"}",
       "organization_id": null
+    },
+    {
+      "name": "Marlene Terry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marlene Terry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony Ealy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony Ealy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Will Jobe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Will Jobe\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -96,7 +138,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2831I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 5836H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5836H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -116,6 +181,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:42:11Z"
+    "logs_latest_update": "2026-01-28T12:44:25Z"
   }
 }

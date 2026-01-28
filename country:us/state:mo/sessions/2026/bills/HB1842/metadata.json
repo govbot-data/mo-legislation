@@ -75,6 +75,28 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:43:42Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -100,6 +122,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Josh Hurlbert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Barnes\"}",
       "organization_id": null
     }
   ],
@@ -139,6 +169,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB1842Testimony1-21.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -160,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:43:42Z"
+    "logs_latest_update": "2026-01-28T12:44:25Z"
   }
 }

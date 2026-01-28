@@ -120,6 +120,28 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:42:11Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +200,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2641C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6366H.01I.ORG",
       "links": [
         {
@@ -193,6 +226,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6366H.01I.UPD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6366H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6366H.02C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -230,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:42:11Z"
+    "logs_latest_update": "2026-01-28T12:44:25Z"
   }
 }
