@@ -91,6 +91,16 @@
       }
     },
     {
+      "description": "Escort Committee - Representatives Haden, Griffith, Mayhew, McGirl, Murphy, Falkner, Bromley, Deaton, Applebaum, and Bosley",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
+    },
+    {
       "description": "Senate Message (S)",
       "date": "2026-01-27T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -101,13 +111,13 @@
       }
     },
     {
-      "description": "Escort Committee - Representatives Haden, Griffith, Mayhew, McGirl, Murphy, Falkner, Bromley, Deaton, Applebaum, and Bosley",
+      "description": "House Message (H)",
       "date": "2026-01-27T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2026-01-29T12:53:21Z"
       }
     }
   ],
@@ -155,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-29T12:53:21Z"
   }
 }

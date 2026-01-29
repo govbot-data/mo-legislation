@@ -141,6 +141,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported Do Pass - Consent (H) - AYES: 6 NOES: 0 PRESENT: 0",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:53:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-29T12:53:21Z"
   }
 }

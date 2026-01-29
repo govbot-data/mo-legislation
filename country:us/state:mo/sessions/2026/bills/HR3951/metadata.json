@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HR 3951",
-  "title": "Grants the use of the House Chamber to the Jefferson City Chapter of the Federalist Society on February 21, 2026, from 7:30 am to 4:30 pm",
+  "title": "Grants the use of the House Chamber to the Jefferson City Chapter of the Federalist Society on February 20, 2026, from 7:30 am to 4:30 pm",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HR 3951"
+      "title": "HCS HR 3951"
     }
   ],
   "other_identifiers": [],
@@ -71,6 +71,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 6 NOES: 0 PRESENT: 0",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:53:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,9 +107,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6657H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HR3951Testimony1-27.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -117,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-29T12:53:21Z"
   }
 }

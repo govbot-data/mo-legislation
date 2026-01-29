@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2384",
-  "title": "Prohibits political subdivisions from imposing certain requirements that threaten affordability of developments or improvements of property",
+  "title": "Creates provisions restricting political subdivisions from imposing requirements that threaten affordability of developments or improvements of property",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2384"
+      "title": "HCS HB 2384"
     }
   ],
   "other_identifiers": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 7 NOES: 3 PRESENT: 0",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:53:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,6 +132,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5770H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -128,6 +151,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2384I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2384C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -176,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-29T12:53:21Z"
   }
 }

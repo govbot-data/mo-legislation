@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:53:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +51,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jim Schulte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lane Roberts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lane Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Bromley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Bromley\"}",
       "organization_id": null
     }
   ],
@@ -76,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-29T12:53:21Z"
   }
 }
