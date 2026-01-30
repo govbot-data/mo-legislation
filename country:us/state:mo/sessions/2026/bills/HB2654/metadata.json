@@ -51,6 +51,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Referred: Economic Development(H)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -60,6 +72,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jeff Knight\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherri Gallick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sherri Gallick\"}",
       "organization_id": null
     }
   ],
@@ -97,6 +117,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }

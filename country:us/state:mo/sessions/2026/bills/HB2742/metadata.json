@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2742"
+      "title": "HCS HB 2742"
     }
   ],
   "other_identifiers": [],
@@ -96,6 +96,30 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 1",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
+    },
+    {
+      "description": "Referred: Rules - Administrative(H)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,6 +155,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6086H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6086H.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -192,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }

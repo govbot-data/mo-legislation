@@ -108,6 +108,18 @@
       "_processing": {
         "log_file_created": "2026-01-23T12:42:11Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,6 +175,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1977C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4478H.01I.ORG",
       "links": [
         {
@@ -204,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:42:11Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }

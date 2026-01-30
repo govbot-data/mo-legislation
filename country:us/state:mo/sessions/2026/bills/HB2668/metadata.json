@@ -75,6 +75,26 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:44:26Z"
       }
+    },
+    {
+      "description": "Executive Session Continued",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
+    },
+    {
+      "description": "Action Postponed (H)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +104,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ben Keathley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Meirath",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Meirath\"}",
       "organization_id": null
     }
   ],
@@ -123,6 +151,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2668Testimony1-20.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -144,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:44:26Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }

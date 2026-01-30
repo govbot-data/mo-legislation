@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2107",
-  "title": "Allows the general assembly, the house, and the senate to employ capitol security officers",
+  "title": "Allows the General Assembly, the House, and the Senate to employ capitol security officers",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -106,6 +106,18 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:44:26Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -146,6 +158,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2107I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2107C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:44:26Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }

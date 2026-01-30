@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 905",
-  "title": "Establishes a training program for Missouri Rangers",
+  "title": "Modifies language relating to school protection officers and creates Missouri Rangers training program",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes a training program for Missouri Rangers"
+      "abstract": "Modifies language relating to school protection officers and creates Missouri Rangers training program"
     }
   ],
   "other_titles": [],
@@ -60,6 +60,18 @@
       "_processing": {
         "log_file_created": "2026-01-26T12:43:10Z"
       }
+    },
+    {
+      "description": "SCS Voted Do Pass S Education Committee (5720S.02C)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB905.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB905.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-26T12:43:10Z"
+    "logs_latest_update": "2026-01-30T12:51:06Z"
   }
 }
