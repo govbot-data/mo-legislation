@@ -153,6 +153,16 @@
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +188,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Ron Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Hruza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Hruza\"}",
       "organization_id": null
     }
   ],
@@ -282,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:53:21Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

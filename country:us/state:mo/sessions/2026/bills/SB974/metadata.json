@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Veterans and Military Affairs Committee",
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
       "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Veterans and Military Affairs Committee (5639S.02C)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB974.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB974.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

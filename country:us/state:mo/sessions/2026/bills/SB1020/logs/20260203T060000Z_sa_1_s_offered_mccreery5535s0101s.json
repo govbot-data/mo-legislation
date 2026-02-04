@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 1 S offered (McCreery)--(5535S01.01S)",
+    "date": "2026-02-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1020"
+}

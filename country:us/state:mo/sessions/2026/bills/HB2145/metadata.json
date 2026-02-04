@@ -119,6 +119,40 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:51:06Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 1",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -240,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

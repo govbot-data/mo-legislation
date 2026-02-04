@@ -60,6 +60,18 @@
       "_processing": {
         "log_file_created": "2026-02-02T12:54:55Z"
       }
+    },
+    {
+      "description": "SCS Voted Do Pass S Progress and Development Committee (4285S.02C)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB871.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB871.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-02T12:54:55Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

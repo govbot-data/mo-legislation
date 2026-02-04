@@ -154,6 +154,46 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:51:06Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Perfected (H)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -204,6 +244,62 @@
       "primary": false,
       "person_id": "~{\"name\": \"Michael Davis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burt Whaley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard West",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard West\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Titus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barry Hovis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Hovis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Bromley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Bromley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -224,6 +320,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3882H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3882H.02P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -255,6 +362,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1667P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 3882H.01I.ORG",
       "links": [
         {
@@ -270,6 +388,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3882H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 3882H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3882H.02P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -307,6 +436,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

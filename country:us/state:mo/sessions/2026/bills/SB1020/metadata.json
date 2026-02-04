@@ -84,13 +84,33 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-02T06:00:00+00:00",
+      "description": "SA 1 S offered (McCreery)--(5535S01.01S)",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    },
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
       }
     }
   ],
@@ -142,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-04T12:54:35Z"
   }
 }

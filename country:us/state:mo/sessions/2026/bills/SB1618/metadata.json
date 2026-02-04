@@ -1,0 +1,82 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1618",
+  "title": "Provides appeals of preliminary injunctions issued by circuit or associate circuit judges",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "Provides appeals of preliminary injunctions issued by circuit or associate circuit judges"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brattin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1618.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=3237690",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=3237690",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=3237690",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-02-04T12:54:35Z"
+  }
+}
