@@ -153,6 +153,16 @@
       "_processing": {
         "log_file_created": "2026-02-03T12:55:07Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:57:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -274,6 +284,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:55:07Z"
+    "logs_latest_update": "2026-02-05T12:57:18Z"
   }
 }

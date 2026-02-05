@@ -88,6 +88,18 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:54:35Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-05T12:57:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +109,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tiffany Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Barnes\"}",
       "organization_id": null
     }
   ],
@@ -136,6 +156,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB3097Testimony2-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -157,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-05T12:57:18Z"
   }
 }
