@@ -1,19 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2155",
-  "title": "Requires municipalities and the department of transportation to reimburse non-rate regulated utilities for site relocation costs incurred due to road maintenance",
+  "title": "Requires municipalities and the department of transportation to reimburse non-rate regulated utilities for site relocation labor costs incurred due to road maintenance",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "ROADS AND HIGHWAYS",
     "UTILITIES"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2155"
+      "title": "HCS HB 2155"
     }
   ],
   "other_identifiers": [],
@@ -113,6 +114,18 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:57:18Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 8 NOES: 4 PRESENT: 0",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,6 +145,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5256H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5256H.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -193,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-06T12:54:36Z"
   }
 }

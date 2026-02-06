@@ -37,6 +37,19 @@
       "_processing": {
         "log_file_created": "2026-01-08T12:41:18Z"
       }
+    },
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +100,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:41:18Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }

@@ -13,7 +13,12 @@
       "abstract": "Modifies provisions relating to compensation for services rendered in veteran benefits matters"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 974"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -72,6 +77,26 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:54:35Z"
       }
+    },
+    {
+      "description": "Reported from S Veterans and Military Affairs Committee w/SCS",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,10 +123,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB974.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB974.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -133,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }

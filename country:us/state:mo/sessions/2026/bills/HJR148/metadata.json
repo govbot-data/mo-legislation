@@ -17,7 +17,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HJR 148"
+      "title": "HCS HJRs 148 & 111"
     }
   ],
   "other_identifiers": [],
@@ -75,6 +75,52 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:54:35Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 14 NOES: 3 PRESENT: 0",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +140,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4415H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4415H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,6 +180,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HJR148Testimony2-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -144,6 +212,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }

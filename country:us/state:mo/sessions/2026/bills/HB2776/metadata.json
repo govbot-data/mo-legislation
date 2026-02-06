@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2776",
-  "title": "Modifies provisions governing certificates of license to teach to add full certification for a temporary authorization certificate holder",
+  "title": "Establishes provisions relating to the granting of associate teacher certificates",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2776"
+      "title": "HCS HB 2776"
     }
   ],
   "other_identifiers": [],
@@ -87,6 +87,18 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:57:18Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 12 NOES: 5 PRESENT: 1",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +118,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5998H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5998H.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-06T12:54:36Z"
   }
 }

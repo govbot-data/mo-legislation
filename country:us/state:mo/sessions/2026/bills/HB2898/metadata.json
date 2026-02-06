@@ -43,6 +43,18 @@
       "_processing": {
         "log_file_created": "2026-01-14T12:41:27Z"
       }
+    },
+    {
+      "description": "Referred: Local Government(H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -52,6 +64,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bill Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Reed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ray Reed\"}",
       "organization_id": null
     }
   ],
@@ -89,6 +109,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T12:41:27Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }

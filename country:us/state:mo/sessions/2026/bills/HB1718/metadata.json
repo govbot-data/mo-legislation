@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1718"
+      "title": "HCS HB 1718"
     }
   ],
   "other_identifiers": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-02-03T12:55:07Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 7 NOES: 1 PRESENT: 0",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +127,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5078H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5078H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -176,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:55:07Z"
+    "logs_latest_update": "2026-02-06T12:54:36Z"
   }
 }

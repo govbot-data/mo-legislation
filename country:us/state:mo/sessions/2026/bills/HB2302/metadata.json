@@ -108,6 +108,18 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:44:26Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Administrative(H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +191,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2302C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5833H.01I.ORG",
       "links": [
         {
@@ -220,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:44:26Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }

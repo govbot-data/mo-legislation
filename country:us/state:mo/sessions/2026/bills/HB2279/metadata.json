@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-02-03T12:55:07Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +82,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bennie Cook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Doll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Doll\"}",
       "organization_id": null
     }
   ],
@@ -100,6 +118,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4854H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4854H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -121,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T12:55:07Z"
+    "logs_latest_update": "2026-02-06T12:54:36Z"
   }
 }

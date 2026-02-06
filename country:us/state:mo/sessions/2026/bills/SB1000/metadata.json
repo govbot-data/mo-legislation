@@ -72,6 +72,26 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:43:44Z"
       }
+    },
+    {
+      "description": "Reported from S Government Efficiency Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:43:44Z"
+    "logs_latest_update": "2026-02-06T12:54:35Z"
   }
 }
