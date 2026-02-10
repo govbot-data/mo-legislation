@@ -114,6 +114,40 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:54:35Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 10 NOES: 0 PRESENT: 2",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +157,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brad Christ\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty Joe Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty Joe Murray\"}",
       "organization_id": null
     }
   ],
@@ -146,6 +188,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2934I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2934C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,6 +247,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

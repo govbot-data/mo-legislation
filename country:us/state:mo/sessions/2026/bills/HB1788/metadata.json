@@ -203,6 +203,31 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:57:18Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -302,6 +327,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1788P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5473H.01I.ORG",
       "links": [
         {
@@ -317,6 +353,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5473H.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 5473H.03P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5473H.03P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -354,6 +401,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

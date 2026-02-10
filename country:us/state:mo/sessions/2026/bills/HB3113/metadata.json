@@ -59,6 +59,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:54:35Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -77,6 +87,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Barry Hovis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ron Fowler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Colin Wellenkamp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Colin Wellenkamp\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -93,7 +119,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3113I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6656H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6656H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -113,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

@@ -163,6 +163,46 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:57:18Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Perfected (H)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +220,86 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bill Hardwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Seitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deanna Self",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deanna Self\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Titus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burt Whaley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Durnell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Durnell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Simmons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Simmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Mayhew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Mayhew\"}",
       "organization_id": null
     }
   ],
@@ -201,6 +321,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5827H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5827H.02P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -284,6 +415,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

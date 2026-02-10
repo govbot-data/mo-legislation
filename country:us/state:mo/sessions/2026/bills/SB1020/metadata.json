@@ -104,13 +104,23 @@
       }
     },
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-02-04T06:00:00+00:00",
+      "description": "SA 1 S withdrawn",
+      "date": "2026-02-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-04T12:54:35Z"
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
       }
     }
   ],
@@ -131,6 +141,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1020.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1020.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -162,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:54:35Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

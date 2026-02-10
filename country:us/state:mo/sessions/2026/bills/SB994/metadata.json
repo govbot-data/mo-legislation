@@ -84,13 +84,43 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-02T06:00:00+00:00",
+      "description": "SA 1 S offered & adopted (Hudson)--(4828S01.08S)",
+      "date": "2026-02-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "SA 2 S offered & adopted (Beck)--(4828S01.01S)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "SA 3 S offered & adopted (Trent)--(4828S01.09S)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Perfected, as amended",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
       }
     }
   ],
@@ -116,6 +146,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "4828S01.08S - SA 1\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=42",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "4828S01.01S - SA 2 \u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=45",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "4828S01.09S - SA 3\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=46",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -142,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }

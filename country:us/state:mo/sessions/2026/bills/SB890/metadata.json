@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "SCS SB 890"
+      "title": "SS SCS SB 890"
     }
   ],
   "other_identifiers": [],
@@ -149,13 +149,35 @@
       }
     },
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-02-05T06:00:00+00:00",
+      "description": "SA 4 to SS for SCS S defeated",
+      "date": "2026-02-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-05T12:57:18Z"
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:07:47Z"
       }
     }
   ],
@@ -194,6 +216,28 @@
       "classification": ""
     },
     {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB890.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4254S.06F - SS SCS\u00a0Adopted, as amended",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=30",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
       "note": "4254S06.05S - SA 1 SS SCS\u00a0Adopted",
       "links": [
         {
@@ -229,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-10T13:07:47Z"
   }
 }
