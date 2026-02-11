@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HJR 169"
+      "title": "HCS HJR 169"
     }
   ],
   "other_identifiers": [],
@@ -86,6 +86,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 6 NOES: 3 PRESENT: 0",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
       }
     }
   ],
@@ -167,6 +179,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6035H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -223,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-02-11T13:04:38Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SBs 835 & 111) Insurance and Banking Committee (5285S.04C)",
+    "date": "2026-02-10T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 835"
+}

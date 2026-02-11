@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 971",
-  "title": "Creates, modifies, and repeals provisions relating to student transfers to nonresident districts",
+  "title": "Establishes provisions relating to student transfers to nonresident districts",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates, modifies, and repeals provisions relating to student transfers to nonresident districts"
+      "abstract": "Establishes provisions relating to student transfers to nonresident districts"
     }
   ],
   "other_titles": [],
@@ -62,13 +62,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Education Committee",
+      "description": "Hearing Conducted S Education Committee",
       "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 971 & 906) Education Committee (4698S.02C)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
       }
     }
   ],
@@ -89,6 +101,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB971.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB971.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -120,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:51:06Z"
+    "logs_latest_update": "2026-02-11T13:04:38Z"
   }
 }

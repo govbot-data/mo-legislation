@@ -31,6 +31,18 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
       }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -40,6 +52,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bill Hardwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chad Perkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chad Perkins\"}",
       "organization_id": null
     }
   ],
@@ -77,6 +97,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-02-11T13:04:38Z"
   }
 }

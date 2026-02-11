@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 1 to SS S offered (Brattin)--(3838S03.06S)",
+    "date": "2026-02-10T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 917"
+}

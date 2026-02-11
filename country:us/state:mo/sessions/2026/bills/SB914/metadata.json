@@ -13,7 +13,12 @@
       "abstract": "Modifies provisions relating to sewage regulation"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SS SB914"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -84,13 +89,23 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-09T06:00:00+00:00",
+      "description": "SS S offered & adopted (Gregory-21)--(5507S.02F)",
+      "date": "2026-02-10T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T12:54:35Z"
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
       }
     }
   ],
@@ -116,6 +131,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5507S.02F - SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=53",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -142,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-11T13:04:38Z"
   }
 }
