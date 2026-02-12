@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "SS SB914"
+      "title": "SS SB 914"
     }
   ],
   "other_identifiers": [],
@@ -107,6 +107,28 @@
       "_processing": {
         "log_file_created": "2026-02-11T13:04:38Z"
       }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,6 +148,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB914.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB914.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -168,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:04:38Z"
+    "logs_latest_update": "2026-02-12T13:02:32Z"
   }
 }

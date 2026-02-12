@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2901",
-  "title": "Removes the expiration date as it relates to the joint committee on child abuse and neglect",
+  "title": "Modifies provisions relating to the joint committee on child abuse and neglect",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2901"
+      "title": "HCS HB 2901"
     }
   ],
   "other_identifiers": [],
@@ -87,6 +87,18 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 13 NOES: 0 PRESENT: 0",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +118,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6643H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6643H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-02-12T13:02:32Z"
   }
 }

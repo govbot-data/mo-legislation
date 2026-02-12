@@ -93,6 +93,28 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:43:42Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +132,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Donna Barnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Sassmann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce Sassmann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Seitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seitz\"}",
       "organization_id": null
     }
   ],
@@ -181,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:43:42Z"
+    "logs_latest_update": "2026-02-12T13:02:32Z"
   }
 }

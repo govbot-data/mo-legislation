@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
       "date": "2026-02-04T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Economic and Workforce Development Committee (4511S.16C)",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR95.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SJR95.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-02T12:54:55Z"
+    "logs_latest_update": "2026-02-12T13:02:32Z"
   }
 }
