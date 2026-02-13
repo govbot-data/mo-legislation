@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2365"
+      "title": "HCS HBs 2365, 2490 & 2249"
     }
   ],
   "other_identifiers": [],
@@ -73,6 +73,40 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:35Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 18 NOES: 0 PRESENT: 0",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -105,6 +139,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5652H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -124,6 +169,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5652H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2365Testimony2-5.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }

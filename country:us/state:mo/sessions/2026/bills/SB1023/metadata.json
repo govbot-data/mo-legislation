@@ -13,7 +13,12 @@
       "abstract": "Modifies provisions relating to funding for certain libraries"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 1023"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -72,6 +77,26 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
       }
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,10 +123,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1023.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1023.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -133,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }

@@ -192,6 +192,18 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:02:32Z"
       }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,6 +245,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"John Simmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Titus\"}",
       "organization_id": null
     }
   ],
@@ -296,6 +316,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HJR0154P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6310H.01I.ORG",
       "links": [
         {
@@ -311,6 +342,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6310H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6310H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6310H.02P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -348,6 +390,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:02:32Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }

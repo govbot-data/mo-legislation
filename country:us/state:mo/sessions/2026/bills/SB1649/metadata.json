@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1649",
-  "title": "This act modifies procedures relating to the detention of a juvenile",
+  "title": "Modifies procedures relating to the detention of a juvenile",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "This act modifies procedures relating to the detention of a juvenile"
+      "abstract": "Modifies procedures relating to the detention of a juvenile"
     }
   ],
   "other_titles": [],
@@ -26,6 +26,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
       }
     }
   ],
@@ -77,6 +90,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:04:38Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }

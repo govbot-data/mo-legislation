@@ -72,6 +72,26 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:35Z"
       }
+    },
+    {
+      "description": "Reported from S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }

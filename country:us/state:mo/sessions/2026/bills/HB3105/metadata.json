@@ -42,6 +42,18 @@
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
       }
+    },
+    {
+      "description": "Referred: Crime and Public Safety(H)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -75,6 +87,126 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bob Bromley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dean Van Schoiack",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean Van Schoiack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barry Hovis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Hovis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Steinmeyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Steinmeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny Busick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny Busick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ann Kelley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ann Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Knight",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Knight\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Black",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Black\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Falkner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Falkner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Sassmann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce Sassmann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennie Cook",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennie Cook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Costlow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Costlow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike McGirl",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike McGirl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Pouche",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Pouche\"}",
       "organization_id": null
     }
   ],
@@ -112,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:53:21Z"
+    "logs_latest_update": "2026-02-13T12:54:33Z"
   }
 }
