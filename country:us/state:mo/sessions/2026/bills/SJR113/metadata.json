@@ -15,33 +15,7 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
-      "date": "2026-02-05T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-06T12:54:35Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Nicola",
@@ -74,10 +48,6 @@
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=104728",
-      "note": ""
-    },
-    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=104728",
       "note": ""
     }
@@ -90,6 +60,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-15T12:44:17Z"
   }
 }

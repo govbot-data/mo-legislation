@@ -15,42 +15,7 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "S Offered",
-      "date": "2026-01-08T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-01-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-06T12:54:35Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Fitzwater",
@@ -83,10 +48,6 @@
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=210896",
-      "note": ""
-    },
-    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=210896",
       "note": ""
     }
@@ -99,6 +60,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-15T12:44:17Z"
   }
 }

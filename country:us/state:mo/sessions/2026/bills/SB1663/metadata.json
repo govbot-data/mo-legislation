@@ -15,20 +15,7 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "S First Read",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-12T13:02:32Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Crawford",
@@ -61,10 +48,6 @@
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=4375279",
-      "note": ""
-    },
-    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=4375279",
       "note": ""
     }
@@ -77,6 +60,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:02:32Z"
+    "logs_latest_update": "2026-02-15T12:44:17Z"
   }
 }

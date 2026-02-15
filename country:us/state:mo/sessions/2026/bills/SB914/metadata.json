@@ -13,137 +13,9 @@
       "abstract": "Modifies provisions relating to sewage regulation"
     }
   ],
-  "other_titles": [
-    {
-      "note": "",
-      "title": "SS SB 914"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-01-08T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-01-28T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-04T12:54:35Z"
-      }
-    },
-    {
-      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-02-05T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-06T12:54:35Z"
-      }
-    },
-    {
-      "description": "SS S offered & adopted (Gregory-21)--(5507S.02F)",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Perfected",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-12T13:02:32Z"
-      }
-    },
-    {
-      "description": "S Third Read and Passed",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
-      }
-    },
-    {
-      "description": "H First Read",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Gregory (21)",
@@ -198,10 +70,6 @@
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=542",
-      "note": ""
-    },
-    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=542",
       "note": ""
     }
@@ -214,6 +82,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-02-15T12:44:17Z"
   }
 }
