@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 4 NOES: 2 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-16T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "478dd592-0be7-11f1-b753-7aa9a9dc54db",
+  "bill_action": null,
+  "bill_identifier": "HB 2780",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2780&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

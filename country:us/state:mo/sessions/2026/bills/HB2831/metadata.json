@@ -64,6 +64,28 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +144,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Will Jobe\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mark Sharp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Sharp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marla Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marla Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaKeySha Bosley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaKeySha Bosley\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -160,6 +206,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2831Testimony1-27.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -181,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

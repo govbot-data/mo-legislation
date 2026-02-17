@@ -53,6 +53,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
       }
+    },
+    {
+      "description": "Referred: Special Committee on Tax Reform(H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -78,6 +90,174 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lane Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Kimble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Kimble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ian Mackey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ian Mackey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Fowler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Overcast",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Overcast\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty Joe Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty Joe Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Reed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ray Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Amato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Amato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaDonna Appelbaum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaDonna Appelbaum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connie Steinmetz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connie Steinmetz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doyle Justus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doyle Justus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Boyko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Boyko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Barnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chad Perkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chad Perkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Dean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Dean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Doll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Doll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terri Violet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terri Violet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tonya Rush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tonya Rush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregg Bush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregg Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marla Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marla Smith\"}",
       "organization_id": null
     }
   ],
@@ -127,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

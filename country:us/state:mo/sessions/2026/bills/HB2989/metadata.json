@@ -147,6 +147,46 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:36Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, adopted",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,6 +217,303 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6459H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6459H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.01H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.01H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.02H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.03H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.04H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.04H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 7 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.06H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.09H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.09H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.11H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.11H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.12H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.12H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.13H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.13H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.17H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.17H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.18H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.19H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.19H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.20H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.20H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.22H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.22H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.23H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.23H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 9 (Withdrawn)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.24H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.25H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.25H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.26H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.26H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.27H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.27H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 4 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.29H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 3 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.31H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6459H03.32H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.32H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 8 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.33H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 2 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.34H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 5 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.37H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 6 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.38H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -260,6 +597,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:36Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

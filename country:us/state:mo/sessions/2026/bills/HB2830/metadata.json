@@ -65,6 +65,28 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,6 +112,46 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Marlene Terry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Black",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Black\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tonya Rush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tonya Rush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Hales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Hales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wick Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wick Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Jones\"}",
       "organization_id": null
     }
   ],
@@ -129,6 +191,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2830Testimony2-9.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -150,6 +223,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

@@ -74,6 +74,28 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:44:25Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,6 +121,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Anthony Ealy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marlene Terry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marlene Terry\"}",
       "organization_id": null
     }
   ],
@@ -138,6 +168,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2695Testimony1-27.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -159,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

@@ -229,6 +229,52 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:54:33Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 4 NOES: 2 PRESENT: 0",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Placed on the Informal Third Reading Calendar (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -356,6 +402,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2780P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4419H.02I.ORG",
       "links": [
         {
@@ -419,6 +476,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

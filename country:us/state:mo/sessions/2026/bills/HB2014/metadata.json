@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2014"
+      "title": "HCS HB 2014"
     }
   ],
   "other_identifiers": [],
@@ -61,6 +61,40 @@
       "_processing": {
         "log_file_created": "2026-02-05T12:57:18Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 24 NOES: 0 PRESENT: 1",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -85,9 +119,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2014H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2014Testimony2-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -107,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }

@@ -192,6 +192,31 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:02:32Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +242,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Renee Reuter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
       "organization_id": null
     }
   ],
@@ -332,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:02:32Z"
+    "logs_latest_update": "2026-02-17T12:58:31Z"
   }
 }
