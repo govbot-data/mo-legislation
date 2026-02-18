@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 6 NOES: 3 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-17T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "f1a4ff68-0cb1-11f1-b3e3-22a8a0603221",
+  "bill_action": null,
+  "bill_identifier": "HJR 169",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HJR169&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

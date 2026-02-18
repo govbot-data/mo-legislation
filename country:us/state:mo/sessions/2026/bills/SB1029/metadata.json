@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1029",
-  "title": "Requires school districts to maintain an easily accessible online record of all money the district receives and spends",
+  "title": "Establishes provisions relating to transparency of certain school district financial information",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires school districts to maintain an easily accessible online record of all money the district receives and spends"
+      "abstract": "Establishes provisions relating to transparency of certain school district financial information"
     }
   ],
   "other_titles": [],
@@ -60,6 +60,18 @@
       "_processing": {
         "log_file_created": "2026-02-15T12:44:17Z"
       }
+    },
+    {
+      "description": "SCS Voted Do Pass S Education Committee (5566S.03C)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1029.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1029.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-15T12:44:17Z"
+    "logs_latest_update": "2026-02-18T12:59:28Z"
   }
 }

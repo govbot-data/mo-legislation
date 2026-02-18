@@ -17,7 +17,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 2780 & 2668"
+      "title": "HB 2780"
     }
   ],
   "other_identifiers": [],
@@ -275,6 +275,16 @@
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
+    },
+    {
+      "description": "Re-committed to Committee: Special Committee on Property Tax Reform(H) - AYES: 13 NOES: 3 PRESENT: 1",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -476,6 +486,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-02-18T12:59:28Z"
   }
 }

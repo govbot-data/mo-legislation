@@ -72,6 +72,16 @@
       "_processing": {
         "log_file_created": "2026-02-11T13:04:38Z"
       }
+    },
+    {
+      "description": "Motion to pass bill as consent taken by S Emerging Issues and Professional Registration Committee - Consent vote adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:04:38Z"
+    "logs_latest_update": "2026-02-18T12:59:28Z"
   }
 }
