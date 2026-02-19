@@ -107,6 +107,18 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:36Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +128,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Phil Amato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Seitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seitz\"}",
       "organization_id": null
     }
   ],
@@ -150,6 +170,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2099I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2099C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -198,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:36Z"
+    "logs_latest_update": "2026-02-19T13:00:35Z"
   }
 }

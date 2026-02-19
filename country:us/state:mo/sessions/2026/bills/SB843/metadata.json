@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 843",
-  "title": "Modifies provisions relating to land banks",
+  "title": "Modifies provisions relating to unpaid taxes and fees",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to land banks"
+      "abstract": "Modifies provisions relating to unpaid taxes and fees"
     }
   ],
   "other_titles": [],
@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Local Government, Elections and Pensions Committee",
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
       "date": "2026-02-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-05T12:57:18Z"
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5505S.02C)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB843.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB843.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T12:57:18Z"
+    "logs_latest_update": "2026-02-19T13:00:35Z"
   }
 }

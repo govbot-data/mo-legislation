@@ -6,13 +6,7 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "BOARDS, COMMISSIONS, COMMITTEES, AND COUNCILS",
-    "ENTERTAINMENT, SPORTS AND AMUSEMENTS",
-    "GAMBLING",
-    "LOTTERIES",
-    "PUBLIC SAFETY, DEPARTMENT OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
@@ -187,6 +181,31 @@
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (H) - Motion to refer to Fiscal Review pursuant to Rule 24(17)(b) was defeated.",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:34Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed with Amendments (H) - HPA 1, adopted",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -228,6 +247,10 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6459H.03P.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6459H.03D.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -519,6 +542,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment HPA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6459H03.40H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -545,6 +579,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2989P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6459H.01I.ORG",
       "links": [
         {
@@ -560,6 +605,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6459H.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6459H.03P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6459H.03P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -597,6 +653,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-02-19T13:00:34Z"
   }
 }
