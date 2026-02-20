@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2412",
-  "title": "Prohibits the foreign remittance transfer of funds to unauthorized alien, with penalty provisions",
+  "title": "Prohibits the foreign remittance transfer of funds to unauthorized aliens",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2412"
+      "title": "HCS HB 2412"
     }
   ],
   "other_identifiers": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:00:35Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 10 NOES: 5 PRESENT: 0",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,6 +143,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4156H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4156H.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -192,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:00:35Z"
+    "logs_latest_update": "2026-02-20T12:54:32Z"
   }
 }

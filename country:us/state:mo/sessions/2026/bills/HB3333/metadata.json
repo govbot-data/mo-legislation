@@ -32,6 +32,18 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:00:35Z"
       }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -41,6 +53,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ian Mackey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty Joe Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty Joe Murray\"}",
       "organization_id": null
     }
   ],
@@ -78,6 +98,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:00:35Z"
+    "logs_latest_update": "2026-02-20T12:54:32Z"
   }
 }

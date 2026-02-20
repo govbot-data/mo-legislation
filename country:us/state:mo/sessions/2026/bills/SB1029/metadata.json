@@ -13,7 +13,12 @@
       "abstract": "Establishes provisions relating to transparency of certain school district financial information"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 1029"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -72,6 +77,26 @@
       "_processing": {
         "log_file_created": "2026-02-18T12:59:28Z"
       }
+    },
+    {
+      "description": "Reported from S Education Committee w/SCS",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,10 +123,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1029.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1029.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -133,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:59:28Z"
+    "logs_latest_update": "2026-02-20T12:54:32Z"
   }
 }

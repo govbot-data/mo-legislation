@@ -195,7 +195,7 @@
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (H) - HPA 1, adopted",
+      "description": "Third Read and Passed with Amendments (H) - HPA 1, adopted - AYES: 83 NOES: 66 PRESENT: 1",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -204,7 +204,27 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:34Z"
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Reported to the Senate",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Read First Time (S)",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
       }
     }
   ],
@@ -653,6 +673,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:00:34Z"
+    "logs_latest_update": "2026-02-20T12:54:32Z"
   }
 }
