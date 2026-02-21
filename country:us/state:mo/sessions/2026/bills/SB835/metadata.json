@@ -13,9 +13,169 @@
       "abstract": "Modifies provisions relating to attachment, execution, and garnishment in civil proceedings"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SS SCS SBs 835 & 1111"
+    }
+  ],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 835 & 1111) Insurance and Banking Committee (5285S.04C)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Reported from S Insurance and Banking Committee w/SCS",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Crawford)--(5285S.05F)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted  (Webber)--(5285S05.03S)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Crawford",
@@ -92,6 +252,10 @@
       "note": ""
     },
     {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=417",
+      "note": ""
+    },
+    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=417",
       "note": ""
     }
@@ -104,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-21T12:41:46Z"
   }
 }

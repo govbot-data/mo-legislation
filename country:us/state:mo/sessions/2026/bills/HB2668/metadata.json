@@ -139,6 +139,16 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:36Z"
       }
+    },
+    {
+      "description": "Re-committed to Committee: Special Committee on Property Tax Reform(H)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:36Z"
+    "logs_latest_update": "2026-02-21T12:41:46Z"
   }
 }

@@ -183,7 +183,7 @@
       }
     },
     {
-      "description": "Taken Up for Third Reading (H) - Motion to refer to Fiscal Review pursuant to Rule 24(17)(b) was defeated.",
+      "description": "Taken Up for Third Reading (H)",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -191,7 +191,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:34Z"
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SEE COMMENTS - Motion to refer to Fiscal Review pursuant to Rule 24(17)(b) was defeated.",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
       }
     },
     {
@@ -673,6 +683,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-21T12:41:46Z"
   }
 }

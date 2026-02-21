@@ -13,9 +13,112 @@
       "abstract": "Modifies provisions relating to elections"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 836"
+    }
+  ],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (4195S.03C)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:41:46Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Crawford",
@@ -59,6 +162,10 @@
       "note": ""
     },
     {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=418",
+      "note": ""
+    },
+    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=418",
       "note": ""
     }
@@ -71,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-21T12:41:46Z"
   }
 }
