@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to reconsider the adoption vote for SS S adopted (Trent)",
+    "date": "2026-02-23T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1233"
+}

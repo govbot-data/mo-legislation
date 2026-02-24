@@ -84,13 +84,23 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-17T06:00:00+00:00",
+      "description": "SA 1 S offered & adopted (May)--(5423S01.07S)",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Perfected, as amended",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -116,6 +126,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5423S01.07S - SA 1\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=115",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -142,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }

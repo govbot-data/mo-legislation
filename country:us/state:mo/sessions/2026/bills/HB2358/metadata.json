@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 2358 & 2889"
+      "title": "HB 2358"
     }
   ],
   "other_identifiers": [],
@@ -118,6 +118,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-06T12:54:35Z"
+      }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Voted to Return to the Committee of Origin (H)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Returned to Committee of Origin (H) - Crime and Public Safety",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -240,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }

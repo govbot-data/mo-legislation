@@ -89,7 +89,7 @@
       }
     },
     {
-      "description": "HCS Reported Do Pass (H)",
+      "description": "HCS Reported Do Pass (H) - AYES: 17 NOES: 0 PRESENT: 0",
       "date": "2026-01-28T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -97,7 +97,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-29T12:53:21Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Returned to Committee of Origin (H) - Crime and Public Safety",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -187,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:53:21Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }

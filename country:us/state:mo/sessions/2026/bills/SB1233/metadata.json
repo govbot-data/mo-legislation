@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1233",
-  "title": "Modifies provisions relating to licensing of accountants",
+  "title": "Modifies provisions relating to licensing of certain professionals",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to licensing of accountants"
+      "abstract": "Modifies provisions relating to licensing of certain professionals"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SS SB 1233"
+      "title": "SS#2 SB 1233"
     }
   ],
   "other_identifiers": [],
@@ -183,15 +183,79 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Third Reading",
+      "description": "Motion to reconsider Perfection Vote S adopted (Trent)",
       "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider the adoption vote for SS S adopted (Trent)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SS S withdrawn",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SS#2 S offered & adopted (Trent)--(5607S.03F)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Re-Perfected",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Reported Truly Re-Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-02-24T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -230,15 +294,15 @@
       "classification": ""
     },
     {
-      "note": "5607S.02F - SS\u00a0Adopted, as amended",
+      "note": "Re-Perfected",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=103",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/reperf/SB1233.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
     },
     {
       "note": "5607S02.04S - SA 2 SS\u00a0Adopted, as amended",
@@ -256,6 +320,17 @@
       "links": [
         {
           "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=109",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "5607S.03F - SS 2  SB\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=113",
           "media_type": "application/pdf"
         }
       ],
@@ -287,6 +362,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }

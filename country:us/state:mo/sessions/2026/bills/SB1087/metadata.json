@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "SCS SB 1087"
+      "title": "SS SCS SB 1087"
     }
   ],
   "other_identifiers": [],
@@ -99,13 +99,55 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-17T06:00:00+00:00",
+      "description": "SS for SCS S offered (Nicola)--(3839S.04F)",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Beck)--(3839S04.03S)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered  & adopted (Washington)--(3839S04.04S)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -142,6 +184,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "3839S.04F - SS SCS\u00a0Adopted, as amended",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=116",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "3839S04.03S - SA 1 SS SCS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=118",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "3839S04.04S - SA 2 SS SCS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=120",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -168,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }

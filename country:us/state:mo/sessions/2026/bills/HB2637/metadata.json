@@ -195,7 +195,7 @@
       }
     },
     {
-      "description": "Referred: Fiscal Review(H) - AYES: 4 NOES: 2 PRESENT: 0",
+      "description": "Referred: Fiscal Review(H)",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -203,7 +203,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
@@ -253,7 +253,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 102 NOES: 45 PRESENT: 2",
       "date": "2026-02-19T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -262,7 +262,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Reported to the Senate and First Read (S)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     }
   ],
@@ -459,6 +471,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-24T13:00:37Z"
   }
 }
