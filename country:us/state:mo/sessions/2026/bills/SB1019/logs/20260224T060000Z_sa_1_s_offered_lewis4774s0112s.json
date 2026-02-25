@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 1 S offered (Lewis)--(4774S01.12S)",
+    "date": "2026-02-24T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1019"
+}

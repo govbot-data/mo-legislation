@@ -89,13 +89,53 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-02-17T06:00:00+00:00",
+      "description": "SS for SCS S offered (Brown-16)--(5365S.04F)",
+      "date": "2026-02-24T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted  (Schnelting)--(5365S04.04S)",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered (Brattin)--(5365S04.08S)",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:59:39Z"
       }
     }
   ],
@@ -132,6 +172,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5365S04.04S - SA1 SS SCS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=141",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -158,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-02-25T12:59:39Z"
   }
 }
