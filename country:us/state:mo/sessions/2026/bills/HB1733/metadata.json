@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:40:03Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:00:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +82,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Colin Wellenkamp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony Ealy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony Ealy\"}",
       "organization_id": null
     }
   ],
@@ -100,6 +118,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4539H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4539H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -121,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:40:03Z"
+    "logs_latest_update": "2026-02-26T13:00:50Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1272",
-  "title": "Establishes the \"Act Against Abusive and Predatory Website Access Litigation\"",
+  "title": "Establishes the \"Act Against Abusive and Predatory Website Access Litigation\" which establishes provisions relating to litigation alleging certain disability",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes the \"Act Against Abusive and Predatory Website Access Litigation\""
+      "abstract": "Establishes the \"Act Against Abusive and Predatory Website Access Litigation\" which establishes provisions relating to litigation alleging certain disability"
     }
   ],
   "other_titles": [],
@@ -52,13 +52,23 @@
       }
     },
     {
-      "description": "Hearing Scheduled S General Laws Committee",
+      "description": "Hearing Conducted S General Laws Committee",
       "date": "2026-02-25T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-25T12:59:39Z"
+        "log_file_created": "2026-02-26T13:00:50Z"
+      }
+    },
+    {
+      "description": "Bill Combined w/SCS SBs 907, 1154 & 1272",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:00:50Z"
       }
     }
   ],
@@ -110,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:59:39Z"
+    "logs_latest_update": "2026-02-26T13:00:50Z"
   }
 }
