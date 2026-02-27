@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2990",
-  "title": "creates two new funds in the Securities Division at the SoS Office and modifies fees charged for borker-dealers",
+  "title": "Modifies provisions within the Missouri Securities Act of 2003",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -43,6 +43,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:40:03Z"
+      }
+    },
+    {
+      "description": "Referred: Special Committee on Intergovernmental Affairs(H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
       }
     }
   ],
@@ -90,6 +102,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:40:03Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

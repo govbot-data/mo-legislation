@@ -106,6 +106,18 @@
       "_processing": {
         "log_file_created": "2026-02-18T12:59:28Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Administrative(H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +127,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Dean Van Schoiack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carolyn Caton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carolyn Caton\"}",
       "organization_id": null
     }
   ],
@@ -138,6 +158,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1885I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1885C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -186,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:59:28Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

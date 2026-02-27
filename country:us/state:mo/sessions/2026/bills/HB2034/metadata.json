@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +91,94 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pattie Mansur\"}",
       "organization_id": null
+    },
+    {
+      "name": "Renee Reuter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Renee Reuter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Fowler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Barnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lane Roberts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lane Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Seitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Hruza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Hruza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marla Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marla Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kemp Strickler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kemp Strickler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Haden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Haden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burt Whaley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -97,7 +195,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2034I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 3872H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3872H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -117,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

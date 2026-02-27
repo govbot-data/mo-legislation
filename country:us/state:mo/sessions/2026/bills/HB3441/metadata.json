@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 3441",
-  "title": "Designates August twelfth each year as election worker appreciation day",
+  "title": "Designates August 12th each year as election worker appreciation day",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -30,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T13:00:50Z"
+      }
+    },
+    {
+      "description": "Read Second Time (H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
       }
     }
   ],
@@ -77,6 +89,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

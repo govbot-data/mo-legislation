@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-02-21T12:41:46Z"
       }
+    },
+    {
+      "description": "Hearing Scheduled S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +120,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:41:46Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

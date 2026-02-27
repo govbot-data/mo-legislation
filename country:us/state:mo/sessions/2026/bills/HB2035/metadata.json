@@ -17,7 +17,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2035"
+      "title": "HCS HBs 2035 & 2350"
     }
   ],
   "other_identifiers": [],
@@ -97,6 +97,18 @@
       "_processing": {
         "log_file_created": "2026-02-26T13:00:51Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 10 NOES: 0 PRESENT: 1",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +128,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4570H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4570H.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -177,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:51Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

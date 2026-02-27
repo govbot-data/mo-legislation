@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2868"
+      "title": "HCS HB 2868"
     }
   ],
   "other_identifiers": [],
@@ -106,6 +106,40 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:59:39Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 17 NOES: 0 PRESENT: 0",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +167,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6519H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6519H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:59:39Z"
+    "logs_latest_update": "2026-02-27T12:54:29Z"
   }
 }

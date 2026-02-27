@@ -13,7 +13,12 @@
       "abstract": "Modifies provisions relating to the classification of certain residential real property"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SBs 1066 & 1088"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -82,6 +87,26 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:00:35Z"
       }
+    },
+    {
+      "description": "SCS Reported from S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:30Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,10 +133,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1066.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1066.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -143,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:00:35Z"
+    "logs_latest_update": "2026-02-27T12:54:30Z"
   }
 }

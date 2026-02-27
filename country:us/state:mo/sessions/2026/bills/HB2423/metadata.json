@@ -208,7 +208,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 146 NOES: 0 PRESENT: 3",
       "date": "2026-02-19T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -217,7 +217,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-02-27T12:54:30Z"
       }
     },
     {
@@ -230,6 +230,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Second read and referred: Insurance and Banking(S)",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:30Z"
       }
     }
   ],
@@ -355,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-02-27T12:54:30Z"
   }
 }

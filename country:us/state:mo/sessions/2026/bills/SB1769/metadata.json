@@ -1,0 +1,70 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1769",
+  "title": "Creates the Office of Public Defense and authorizes the Office to acquire and transfer machine guns to residents",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "Creates the Office of Public Defense and authorizes the Office to acquire and transfer machine guns to residents"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brattin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6616211",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6616211",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6616211",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-02-27T12:54:29Z"
+  }
+}
