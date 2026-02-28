@@ -119,6 +119,18 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:59:39Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:40:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -169,6 +181,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3129C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6895H.01I.ORG",
       "links": [
         {
@@ -210,6 +233,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:59:39Z"
+    "logs_latest_update": "2026-02-28T12:40:25Z"
   }
 }

@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2753"
+      "title": "HCS HB 2753"
     }
   ],
   "other_identifiers": [],
@@ -95,6 +95,18 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 10 NOES: 2 PRESENT: 1",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:40:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +126,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6344H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6344H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -175,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-02-28T12:40:25Z"
   }
 }
