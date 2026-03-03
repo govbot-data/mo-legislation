@@ -89,13 +89,53 @@
       }
     },
     {
-      "description": "Formal Calendar S Bills for Perfection",
+      "description": "SS for SCS S offered (Brattin)--(5566S.04F)",
       "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-01T12:43:02Z"
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted  (Nurrenbern)--(5566S04.01S)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (May)--(5566S04.10S)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
       }
     }
   ],
@@ -132,6 +172,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5566S04.01S - SA 1 SS SCS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=163",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "5566S04.10S - SA 2 SS SCS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=165",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -158,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-01T12:43:02Z"
+    "logs_latest_update": "2026-03-03T12:53:07Z"
   }
 }

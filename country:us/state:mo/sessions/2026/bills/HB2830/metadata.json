@@ -145,6 +145,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T13:00:37Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,6 +237,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Holly Jones\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ashley Aune",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Aune\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Del Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Del Taylor\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -308,6 +334,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T13:00:37Z"
+    "logs_latest_update": "2026-03-03T12:53:07Z"
   }
 }

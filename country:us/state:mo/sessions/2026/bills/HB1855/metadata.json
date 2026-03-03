@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1855",
-  "title": "Creates provisions relating to noncommunicable disease surveillance conducted by the department of health and senior services",
+  "title": "Creates provisions relating to disease surveillance conducted by the department of health and senior services",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -105,6 +105,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:30Z"
+      }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
       }
     }
   ],
@@ -308,6 +320,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1855C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4267H.02I.ORG",
       "links": [
         {
@@ -349,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:30Z"
+    "logs_latest_update": "2026-03-03T12:53:07Z"
   }
 }

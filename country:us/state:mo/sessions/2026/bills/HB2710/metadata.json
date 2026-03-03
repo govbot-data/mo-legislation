@@ -173,6 +173,16 @@
       "_processing": {
         "log_file_created": "2026-02-24T13:00:37Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +192,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Dane Diehl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Lucas\"}",
       "organization_id": null
     }
   ],
@@ -203,6 +221,39 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6102H.07C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6102H07.04H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6102H07.04H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6102H07.05H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6102H07.05H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6102H07.06H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6102H07.06H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -286,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T13:00:37Z"
+    "logs_latest_update": "2026-03-03T12:53:07Z"
   }
 }
