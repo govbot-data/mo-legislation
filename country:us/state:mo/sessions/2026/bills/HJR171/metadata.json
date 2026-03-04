@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HJR 171",
-  "title": "Proposes a constitutional amendment authorizing school districts to include municipal property owned for industrial project purposes in calculations of assessed valuation for school district indebtedness purposes",
+  "title": "Proposes a constitutional amendment authorizing school districts to include governmental entity property owned for development or redevelopment purposes in calculations of assessed valuation for school district indebtedness purposes",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "joint resolution"
@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HJR 171"
+      "title": "HCS HJR 171"
     }
   ],
   "other_identifiers": [],
@@ -76,6 +76,40 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:59:39Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 7 NOES: 0 PRESENT: 0",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +129,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6805H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6805H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -124,6 +169,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HJR171Testimony2-24.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -145,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:59:39Z"
+    "logs_latest_update": "2026-03-04T12:52:10Z"
   }
 }

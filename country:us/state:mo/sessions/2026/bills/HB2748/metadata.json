@@ -151,6 +151,18 @@
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 0",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -239,6 +251,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 3931H.04C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3931H.04C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -269,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-03-04T12:52:10Z"
   }
 }

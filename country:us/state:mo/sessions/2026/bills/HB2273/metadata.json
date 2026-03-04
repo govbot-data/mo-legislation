@@ -300,6 +300,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:54:30Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wednesday, March 4, 2026, 8:00 a.m, Senate Committee Room 1",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -569,6 +579,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:30Z"
+    "logs_latest_update": "2026-03-04T12:52:10Z"
   }
 }

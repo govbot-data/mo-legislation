@@ -6,13 +6,7 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "COUNTIES",
-    "COUNTY OFFICIALS",
-    "POLITICAL SUBDIVISIONS",
-    "PROPERTY, REAL AND PERSONAL",
-    "TAXATION AND REVENUE - PROPERTY"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
@@ -375,6 +369,46 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "HCS#2 Adopted (H)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "Re-Perfected (H)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -384,6 +418,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tim Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Lewis\"}",
       "organization_id": null
     }
   ],
@@ -420,6 +462,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4419H.05P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Re-Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4419H.08R.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -565,6 +618,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4419H.08R.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4419H.08R.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -595,6 +659,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-04T12:52:10Z"
   }
 }
