@@ -19,7 +19,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1768"
+      "title": "HCS HBs 1768 & 2060"
     }
   ],
   "other_identifiers": [],
@@ -99,6 +99,30 @@
       "_processing": {
         "log_file_created": "2026-02-18T12:59:28Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 3",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:55:51Z"
+      }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:55:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,6 +141,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jeff Vernetti\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bill Hardwick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Hardwick\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -126,6 +158,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4108H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4108H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:59:28Z"
+    "logs_latest_update": "2026-03-05T12:55:51Z"
   }
 }
