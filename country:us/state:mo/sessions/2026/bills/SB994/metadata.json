@@ -225,6 +225,16 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:54:05Z"
       }
+    },
+    {
+      "description": "Hearing Scheduled H Ways and Means--(4:30 p.m. or Upon Adj. - HR 1)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:51:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -319,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:54:05Z"
+    "logs_latest_update": "2026-03-06T12:51:21Z"
   }
 }

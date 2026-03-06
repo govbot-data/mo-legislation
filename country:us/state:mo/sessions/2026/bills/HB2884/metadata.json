@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2884",
-  "title": "Modifies provisions relating to certain appointments to the board of trustees of the Police Retirement System of the City of St. Louis",
+  "title": "Modifies provisions relating to public employee retirement systems",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2884"
+      "title": "HCS HBs 2884 & 1655"
     }
   ],
   "other_identifiers": [],
@@ -90,6 +90,18 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 0",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:51:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +121,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6036H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6036H.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -170,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-06T12:51:21Z"
   }
 }

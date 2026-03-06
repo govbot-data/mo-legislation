@@ -53,6 +53,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Referred: Professional Registration and Licensing(H)",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:51:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,6 +74,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gregg Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Hein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Hein\"}",
       "organization_id": null
     }
   ],
@@ -79,7 +99,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2644I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-03-06T12:51:21Z"
   }
 }

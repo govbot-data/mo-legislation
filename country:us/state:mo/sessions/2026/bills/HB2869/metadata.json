@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2869",
-  "title": "Establishes the \"Missouri Disabled Veterans Homestead Tax Credit Act\", authorizing counties to adopt a real property tax credit for certain disabled veterans who own a homestead",
+  "title": "Provides a homestead exemption for disabled veterans",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2869"
+      "title": "HCS HB 2869"
     }
   ],
   "other_identifiers": [],
@@ -90,6 +90,18 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 0",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:51:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +145,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6021H.02I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6021H.05C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-03-06T12:51:21Z"
   }
 }
