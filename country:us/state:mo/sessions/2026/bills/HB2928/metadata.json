@@ -221,6 +221,18 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
       }
+    },
+    {
+      "description": "Reported to the Senate and First Read (S)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-10T12:55:38Z"
   }
 }

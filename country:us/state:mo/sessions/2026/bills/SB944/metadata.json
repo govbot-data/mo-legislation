@@ -13,7 +13,12 @@
       "abstract": "Modifies the salary for the attorney of the sheriff of St. Louis City"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 944"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -82,6 +87,26 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee - Consent w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
+    },
+    {
+      "description": "S Consent Calendar",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,10 +133,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB944.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB944.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -143,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-10T12:55:38Z"
   }
 }

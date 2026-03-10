@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass w/SCS SBs 1557 & 1054 Local Government, Elections and Pensions Committee (6554S.03C)",
+    "date": "2026-03-09T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1557"
+}

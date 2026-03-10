@@ -162,6 +162,36 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Perfected (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -292,6 +322,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Deanna Self\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tricia Byrnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tricia Byrnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ann Kelley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ann Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -301,6 +355,28 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3948H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3948H.01P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 3948H01.01H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/3948H01.01H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -373,6 +449,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-10T12:55:39Z"
   }
 }

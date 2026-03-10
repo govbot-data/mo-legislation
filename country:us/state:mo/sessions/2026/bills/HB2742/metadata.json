@@ -184,6 +184,46 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, adopted",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -209,6 +249,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sean Pouche\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Kalberloh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Kalberloh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Oehlerking",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Oehlerking\"}",
       "organization_id": null
     }
   ],
@@ -237,10 +309,54 @@
       "classification": ""
     },
     {
-      "note": "Amendment 6086H03.02H (Distributed)",
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6086H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 2 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6086H03.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 3 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6086H03.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6086H03.05H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6086H03.06H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6086H03.06H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -324,6 +440,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-10T12:55:39Z"
   }
 }

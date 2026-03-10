@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1062",
-  "title": "Establishes the \"True Charity\" Act",
+  "title": "Establishes public assistance programs",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,10 +10,15 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes the \"True Charity\" Act"
+      "abstract": "Establishes public assistance programs"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SS#3 SB 1062"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -194,13 +199,65 @@
       }
     },
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-02-26T06:00:00+00:00",
+      "description": "SS#2 S withdrawn",
+      "date": "2026-03-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-26T13:00:50Z"
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "SS#3 S offered (Carter)--(5396S.07F)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS#3 S offered & adopted (Lewis)--(5396S07.01S)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS#3 S offered & adopted (Hough)--(5396S07.01F)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "SS#3, as amended S adopted",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
       }
     }
   ],
@@ -237,6 +294,39 @@
       ],
       "date": "",
       "classification": "amendment"
+    },
+    {
+      "note": "5396S.07F - SS 3\u00a0Adopted, as amended",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=195",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "5396S07.01S - SA 1 SS 3\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=196",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
+    },
+    {
+      "note": "5396S07.01F - SA 2 SS 3\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=197",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -263,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-03-10T12:55:39Z"
   }
 }

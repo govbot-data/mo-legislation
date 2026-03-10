@@ -164,6 +164,46 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, adopted",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,6 +241,17 @@
       "classification": ""
     },
     {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4824H.05P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment 4824H05.02H (Distributed)",
       "links": [
         {
@@ -227,6 +278,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4824H05.04H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4824H05.05H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -310,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-10T12:55:39Z"
   }
 }

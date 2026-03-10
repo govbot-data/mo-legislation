@@ -13,7 +13,12 @@
       "abstract": "Modifies provisions relating to solid waste management"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 1586"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -62,6 +67,26 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
       }
+    },
+    {
+      "description": "Reported from S Agriculture, Food Production and Outdoor Resources Committee w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -88,10 +113,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1586.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1586.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-10T12:55:39Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1557",
-  "title": "Modifies provisions relating to refunds of retirement contributions for certain state employees",
+  "title": "Modifies provisions relating to retirement, including Tier 2011 and deferred compensation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to refunds of retirement contributions for certain state employees"
+      "abstract": "Modifies provisions relating to retirement, including Tier 2011 and deferred compensation"
     }
   ],
   "other_titles": [],
@@ -42,13 +42,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Local Government, Elections and Pensions Committee",
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
       "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 1557 & 1054 Local Government, Elections and Pensions Committee (6554S.03C)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
       }
     }
   ],
@@ -69,6 +81,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1557.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -100,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-03-10T12:55:38Z"
   }
 }
