@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1423",
-  "title": "Modifies provisions relating to health care providers",
+  "title": "Modifies provisions relating to the licensure of physicians",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to health care providers"
+      "abstract": "Modifies provisions relating to the licensure of physicians"
     }
   ],
   "other_titles": [],
@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Emerging Issues and Professional Registration Committee",
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
       "date": "2026-02-17T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Emerging Issues and Professional Registration Committee (5640S.02C)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
       }
     }
   ],
@@ -79,6 +91,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1423.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1423.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

@@ -62,13 +62,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Emerging Issues and Professional Registration Committee",
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
       "date": "2026-03-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
       }
     }
   ],
@@ -120,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

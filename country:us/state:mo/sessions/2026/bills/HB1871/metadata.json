@@ -172,6 +172,16 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:52:10Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +212,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5033H.04C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 5033H04.02H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5033H04.02H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -285,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:52:10Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

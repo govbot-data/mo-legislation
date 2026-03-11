@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Re-Perfected (H) - HA 1, HSA 1 to HA 2, HA 3, HA 4, adopted",
+    "date": "2026-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2742"
+}

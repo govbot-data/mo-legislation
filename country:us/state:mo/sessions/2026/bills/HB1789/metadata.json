@@ -14,7 +14,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1789"
+      "title": "HCS HB 1789"
     }
   ],
   "other_identifiers": [],
@@ -114,6 +114,18 @@
       "_processing": {
         "log_file_created": "2026-03-10T12:55:39Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 8 NOES: 1 PRESENT: 1",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +145,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5450H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5450H.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

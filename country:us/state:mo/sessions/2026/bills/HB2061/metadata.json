@@ -364,6 +364,16 @@
       "_processing": {
         "log_file_created": "2026-03-10T12:55:39Z"
       }
+    },
+    {
+      "description": "Executive Session Scheduled - Wednesday, March 11, 2026, 12:00 p.m., Senate Lounge-3rd Floor",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -587,6 +597,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

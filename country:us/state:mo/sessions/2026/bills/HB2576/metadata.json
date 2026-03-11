@@ -162,6 +162,26 @@
       "_processing": {
         "log_file_created": "2026-03-10T12:55:39Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Committed to: Legislative Review(H)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +199,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Seitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Seitz\"}",
       "organization_id": null
     }
   ],
@@ -261,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

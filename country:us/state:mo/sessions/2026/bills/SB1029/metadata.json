@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1029",
-  "title": "Establishes provisions relating to transparency of certain school district financial information",
+  "title": "Establishes provisions relating to education",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes provisions relating to transparency of certain school district financial information"
+      "abstract": "Establishes provisions relating to education"
     }
   ],
   "other_titles": [
@@ -129,13 +129,53 @@
       }
     },
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-03-03T06:00:00+00:00",
+      "description": "SS for SCS S withdrawn",
+      "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "SS#2 for SCS S offered (Brattin)--(5566S.05F)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS#2 for SCS S offered & adopted (Hough)--(5566S05.03S)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
       }
     }
   ],
@@ -174,21 +214,10 @@
       "classification": ""
     },
     {
-      "note": "5566S04.01S - SA 1 SS SCS\u00a0Adopted",
+      "note": "5566S05.03S - SA 1 SS 2 SCS\u00a0Adopted",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=163",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "amendment"
-    },
-    {
-      "note": "5566S04.10S - SA 2 SS SCS\u00a0Adopted",
-      "links": [
-        {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=165",
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=204",
           "media_type": "application/pdf"
         }
       ],
@@ -220,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

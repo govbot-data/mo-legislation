@@ -13,92 +13,9 @@
       "abstract": "Authorizes the Department of Elementary and Secondary Education to establish an agricultural education program for elementary schools"
     }
   ],
-  "other_titles": [
-    {
-      "note": "",
-      "title": "SCS SB 1383"
-    }
-  ],
+  "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Education Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Education Committee",
-      "date": "2026-02-17T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:59:39Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass S Education Committee (4325S.02C)",
-      "date": "2026-02-24T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:59:39Z"
-      }
-    },
-    {
-      "description": "Reported from S Education Committee w/SCS",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Washington",
@@ -142,10 +59,6 @@
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=666",
-      "note": ""
-    },
-    {
       "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=666",
       "note": ""
     }
@@ -158,6 +71,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }

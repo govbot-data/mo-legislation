@@ -13,7 +13,12 @@
       "abstract": "Repeals expired, terminated, sunset, and obsolete sections, and portions of sections of law"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SS SB 889"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -94,13 +99,23 @@
       }
     },
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-02-17T06:00:00+00:00",
+      "description": "SS S offered & adopted (Coleman)--(4259S.03F)",
+      "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
       }
     }
   ],
@@ -126,6 +141,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB889.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4259S.03F - SS\u00a0Adopted",
+      "links": [
+        {
+          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=199",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "amendment"
     }
   ],
   "documents": [],
@@ -152,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-03-11T12:55:26Z"
   }
 }
