@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Reconsider Adopted (H) - adoption of HCS - AYES: 137 NOES: 0 PRESENT: 1",
+    "date": "2026-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2742"
+}

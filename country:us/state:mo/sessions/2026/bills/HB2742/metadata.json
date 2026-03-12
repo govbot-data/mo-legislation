@@ -221,33 +221,33 @@
       }
     },
     {
-      "description": "Motion to Reconsider Adopted (H) - Perfection",
+      "description": "Motion to Reconsider Adopted (H) - Perfection - AYES: 135 NOES: 0 PRESENT: 0",
       "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     },
     {
-      "description": "Motion to Reconsider Adopted (H) - adoption of HCS",
+      "description": "Motion to Reconsider Adopted (H) - adoption of HCS - AYES: 137 NOES: 0 PRESENT: 1",
       "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     },
     {
-      "description": "Motion to Reconsider Adopted (H) - adoption of HA 2",
+      "description": "Motion to Reconsider Adopted (H) - adoption of HA 2 - AYES: 135 NOES: 1 PRESENT: 1",
       "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     },
     {
@@ -268,6 +268,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     }
   ],
@@ -496,6 +508,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6086H.03R.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6086H.03R.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -526,6 +549,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

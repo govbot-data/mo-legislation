@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2968",
-  "title": "Modifies provisions relating to judgeships in certain judicial circuits",
+  "title": "Modifies provisions relating to certain judicial circuits",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2968"
+      "title": "HCS HBs 2968, 2427 & 3086"
     }
   ],
   "other_identifiers": [],
@@ -87,6 +87,18 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 10 NOES: 0 PRESENT: 0",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +118,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6731H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6731H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

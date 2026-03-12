@@ -155,6 +155,16 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Placed Back on Formal Perfection Calendar (H)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -253,6 +263,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Del Taylor\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kem Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kem Smith\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -334,6 +352,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

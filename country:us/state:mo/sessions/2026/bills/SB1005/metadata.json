@@ -52,13 +52,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Agriculture, Food Production and Outdoor Resources Committee",
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
       "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     }
   ],
@@ -110,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

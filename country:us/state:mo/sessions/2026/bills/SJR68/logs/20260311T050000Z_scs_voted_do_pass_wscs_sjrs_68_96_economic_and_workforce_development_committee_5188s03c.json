@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass w/SCS SJRs 68 & 96 Economic and Workforce Development Committee (5188S.03C)",
+    "date": "2026-03-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 68"
+}

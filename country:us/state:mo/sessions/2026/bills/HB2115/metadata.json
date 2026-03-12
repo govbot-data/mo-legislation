@@ -163,6 +163,16 @@
       "_processing": {
         "log_file_created": "2026-02-26T13:00:51Z"
       }
+    },
+    {
+      "description": "Placed Back on Formal Perfection Calendar (H)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,6 +182,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Peggy McGaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Kalberloh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Kalberloh\"}",
       "organization_id": null
     }
   ],
@@ -298,6 +316,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:51Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

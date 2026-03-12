@@ -129,7 +129,7 @@
       }
     },
     {
-      "description": "HCS Reported Do Pass (H)",
+      "description": "HCS Reported Do Pass (H) - AYES: 13 NOES: 3 PRESENT: 1",
       "date": "2026-02-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -137,7 +137,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T12:54:36Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     },
     {
@@ -239,6 +239,16 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Placed Back on Formal Perfection Calendar (H)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -256,6 +266,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mark Meirath\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Titus\"}",
       "organization_id": null
     }
   ],
@@ -277,6 +295,50 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6496H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6496H03.02H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6496H03.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6496H03.03H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6496H03.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6496H03.04H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6496H03.04H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 6496H03.06H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6496H03.06H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -360,6 +422,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

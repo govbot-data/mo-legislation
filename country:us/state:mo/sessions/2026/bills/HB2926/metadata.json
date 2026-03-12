@@ -17,7 +17,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2926"
+      "title": "HCS HB 2926"
     }
   ],
   "other_identifiers": [],
@@ -89,6 +89,18 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 8 NOES: 1 PRESENT: 3",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,6 +120,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6566H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6566H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -169,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }

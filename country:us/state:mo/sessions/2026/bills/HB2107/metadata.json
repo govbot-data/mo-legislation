@@ -182,6 +182,16 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Placed Back on Formal Perfection Calendar (H)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -216,6 +226,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bill Irwin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jim Kalberloh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Kalberloh\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -247,6 +265,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5010H01.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 5010H01.04H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5010H01.04H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -319,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-12T12:55:14Z"
   }
 }
