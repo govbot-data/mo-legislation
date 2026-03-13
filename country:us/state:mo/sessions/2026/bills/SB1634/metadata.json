@@ -42,13 +42,25 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Transportation, Infrastructure and Public Safety Committee",
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
       "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:30Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     }
   ],
@@ -100,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:30Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

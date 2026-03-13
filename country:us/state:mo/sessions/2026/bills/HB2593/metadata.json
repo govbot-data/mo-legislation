@@ -252,7 +252,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 144 NOES: 2 PRESENT: 0",
       "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -261,7 +261,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     },
     {
@@ -274,6 +274,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "Second read and referred: Veterans and Military Affairs(S)",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     }
   ],
@@ -478,6 +488,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

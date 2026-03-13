@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1652",
-  "title": "Requires the Department of Public Safety to establish an office dedicated to preventing the targeting of African American women and girls",
+  "title": "Creates the Ebony Alert System to help identify and locate abducted or missing African women and girls",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,10 +10,15 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires the Department of Public Safety to establish an office dedicated to preventing the targeting of African American women and girls"
+      "abstract": "Creates the Ebony Alert System to help identify and locate abducted or missing African women and girls"
     }
   ],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "SCS SB 1652"
+    }
+  ],
   "other_identifiers": [],
   "actions": [
     {
@@ -42,13 +47,45 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Transportation, Infrastructure and Public Safety Committee",
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
       "date": "2026-03-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:51:21Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Transportation, Infrastructure and Public Safety Committee (7082S.03C)",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee w/SCS",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     }
   ],
@@ -69,6 +106,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1652.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1652.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -100,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

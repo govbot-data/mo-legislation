@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 8 NOES: 5 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "6f1ba4b4-1ec4-11f1-9e28-a637cf7cff90",
+  "bill_action": null,
+  "bill_identifier": "HB 3088",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB3088&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

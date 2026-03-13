@@ -42,13 +42,23 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Government Efficiency Committee",
+      "description": "Hearing Cancelled S Government Efficiency Committee",
       "date": "2026-03-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Hearing Scheduled S Government Efficiency Committee",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     }
   ],
@@ -100,6 +110,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "SS SCS SB 1087"
+      "title": "HCS SS SCS SB 1087"
     }
   ],
   "other_identifiers": [],
@@ -220,13 +220,27 @@
       }
     },
     {
-      "description": "Executive Session Scheduled H Special Committee on Intergovernmental Affairs--(3:00 p.m. or Upon Adj. - HR 1)",
+      "description": "HCS Voted Do Pass H Special Committee on Intergovernmental Affairs",
       "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Special Committee on Intergovernmental Affairs",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     }
   ],
@@ -269,6 +283,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1087.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1087.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -333,6 +358,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

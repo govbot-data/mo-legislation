@@ -105,6 +105,18 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 12 NOES: 1 PRESENT: 0",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

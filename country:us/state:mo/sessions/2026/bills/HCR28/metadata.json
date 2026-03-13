@@ -56,6 +56,16 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:00:34Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -186,6 +196,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Matthew Overcast\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kent Haden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Haden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Oehlerking",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Oehlerking\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaDonna Appelbaum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaDonna Appelbaum\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -202,7 +236,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HCR0028I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6595H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6595H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -222,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:00:34Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }

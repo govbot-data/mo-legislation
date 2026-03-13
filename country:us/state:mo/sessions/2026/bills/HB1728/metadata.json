@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1728"
+      "title": "HCS HBs 1728, 2161 & 1830"
     }
   ],
   "other_identifiers": [],
@@ -96,6 +96,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 12 NOES: 1 PRESENT: 0",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +127,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4110H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4110H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -176,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-13T12:54:27Z"
   }
 }
