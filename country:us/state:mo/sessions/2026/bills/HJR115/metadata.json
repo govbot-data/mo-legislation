@@ -20,7 +20,11 @@
       "title": "HCS HJR 115"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hjr115"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -108,6 +112,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
+      }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     }
   ],
@@ -439,6 +455,102 @@
       "primary": false,
       "person_id": "~{\"name\": \"Aaron Crossley\"}",
       "organization_id": null
+    },
+    {
+      "name": "Wick Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wick Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Schulte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Schulte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth Fuchs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth Fuchs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashley Aune",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Aune\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Allen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Tyson Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Tyson Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ann Kelley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ann Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike McGirl",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike McGirl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Hinman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Hinman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -479,10 +591,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HJR0115C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4527H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4527H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4527H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4527H.02C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -520,6 +654,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

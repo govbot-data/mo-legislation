@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1680",
-  "title": "Modifies provisions relating to eligibility for the Supplemental Nutrition Assistance Program (SNAP)",
+  "title": "SB 1680 - Currently, individuals who have pled guilty or nolo contendere or who have been found guilty of a federal or state felony offense involving possession or use of a controlled substance shall be exempt from the requirement under the Supplemental Nutrition Assistance Program (SNAP) to exclude from participation those persons who are drug traffickers, provided such individuals meet certain requirements, such as participation in a substance abuse treatment program.  This act adds to the list of exempt individuals those person who have pled guilty or nolo contendere or who have been found guilty of a federal or state felony offense involving the manufacture of a controlled substance.\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,26 +10,48 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to eligibility for the Supplemental Nutrition Assistance Program (SNAP)"
+      "abstract": "SB 1680 - Currently, individuals who have pled guilty or nolo contendere or who have been found guilty of a federal or state felony offense involving possession or use of a controlled substance shall be exempt from the requirement under the Supplemental Nutrition Assistance Program (SNAP) to exclude from participation those persons who are drug traffickers, provided such individuals meet certain requirements, such as participation in a substance abuse treatment program.  This act adds to the list of exempt individuals those person who have pled guilty or nolo contendere or who have been found guilty of a federal or state felony offense involving the manufacture of a controlled substance.\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to eligibility for the Supplemental Nutrition Assistance Program (SNAP)"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1680"
+    }
+  ],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
-      "name": "McCreery",
+      "name": "McCreery, Tracy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"McCreery\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        McCreery, Tracy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6568S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1680.pdf",
@@ -44,15 +66,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5549670",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5549670",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5549670",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6568S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -60,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-16T13:06:23Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

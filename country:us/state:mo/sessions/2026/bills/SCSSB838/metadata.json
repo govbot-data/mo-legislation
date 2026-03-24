@@ -1,0 +1,171 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCS SB 838",
+  "title": "SCS/SB 838 - The act creates and modifies certain provisions relating to nuclear energy.\r\n\r\n\tThe act excludes nuclear energy from the type of energy the Environmental Improvement and Energy Resources Authority may not purchase.\r\n\r\n\tCurrently, an electrical corporation's renewable energy portfolio requirement requires no less than 15% of energy to be generated from renewable energy resources beginning in 2021. The act lowers the portfolio requirement to 7.5%, adds nuclear energy generated after August 28, 2026, as part of the portfolio requirement, and changes the starting date to 2027. Utilities may comply with the renewable energy standard in whole or in part by purchasing nuclear energy credits, as defined in the act. The Public Service Commission shall select a program for tracking and verifying the trading of nuclear energy credits.\r\n\r\n\tThe act adds nuclear energy certificates to the provisions relating to the retirement of certain energy certificates by an accelerated renewable buyer, as defined in the act.\r\n\r\n\tAn electric utility may comply with the portfolio requirements using energy captured due to energy efficiency or demand-side measures. As part of the Commission's rulemaking authority, the Commission shall prescribe a rule allowing an electric utility to comply with the portfolio requirements using verified megawatt-hour savings, as described in the act.\r\n\r\n\tCurrently, by January 20, 2009, an electrical corporation that achieves an amount of eligible renewable energy technology nameplate capacity equal to or greater than 15% of total owned generating capacity, shall be exempt from paying certain subsidies and fees to customers. The act changes the deadline to January 1, 2027, lowers the required percentage of generating capacity to 7.5%, and adds nuclear energy sources to the exemption requirement.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 838 - The act creates and modifies certain provisions relating to nuclear energy.\r\n\r\n\tThe act excludes nuclear energy from the type of energy the Environmental Improvement and Energy Resources Authority may not purchase.\r\n\r\n\tCurrently, an electrical corporation's renewable energy portfolio requirement requires no less than 15% of energy to be generated from renewable energy resources beginning in 2021. The act lowers the portfolio requirement to 7.5%, adds nuclear energy generated after August 28, 2026, as part of the portfolio requirement, and changes the starting date to 2027. Utilities may comply with the renewable energy standard in whole or in part by purchasing nuclear energy credits, as defined in the act. The Public Service Commission shall select a program for tracking and verifying the trading of nuclear energy credits.\r\n\r\n\tThe act adds nuclear energy certificates to the provisions relating to the retirement of certain energy certificates by an accelerated renewable buyer, as defined in the act.\r\n\r\n\tAn electric utility may comply with the portfolio requirements using energy captured due to energy efficiency or demand-side measures. As part of the Commission's rulemaking authority, the Commission shall prescribe a rule allowing an electric utility to comply with the portfolio requirements using verified megawatt-hour savings, as described in the act.\r\n\r\n\tCurrently, by January 20, 2009, an electrical corporation that achieves an amount of eligible renewable energy technology nameplate capacity equal to or greater than 15% of total owned generating capacity, shall be exempt from paying certain subsidies and fees to customers. The act changes the deadline to January 1, 2027, lowers the required percentage of generating capacity to 7.5%, and adds nuclear energy sources to the exemption requirement.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies certain provisions relating to nuclear energy"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scssb838"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee w/SCS",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4751S.03C)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cierpiot, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Cierpiot, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4751S.03C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4751S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=274",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4751S.03C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

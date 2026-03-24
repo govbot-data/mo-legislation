@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HCS Reported Do Pass H Special Committee on Intergovernmental Affairs",
+    "date": "2026-03-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCS SS SCS SB 1087"
+}

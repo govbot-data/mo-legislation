@@ -1,0 +1,244 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SS SB 937",
+  "title": "SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in the County of Marion to the State Highways and Transportation Commission. (Sections 11, 12)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 13)\r\n\r\n\tFinally, the act authorizes the conveyance of state property located in Nodaway County. (Section 14)\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in the County of Marion to the State Highways and Transportation Commission. (Sections 11, 12)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 13)\r\n\r\n\tFinally, the act authorizes the conveyance of state property located in Nodaway County. (Section 14)\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Conveys certain state property"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sssb937"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted H Corrections and Public Institutions",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Referred H Corrections and Public Institutions",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS S offered & adopted (Bernskoetter)--(5447S.03F)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported from S General Laws Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernskoetter, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bernskoetter, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5447S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB937.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB937.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/3/2026 - SS S offered & adopted (Bernskoetter)--(5447S.03F)\r\n                    \r\n                        2/3/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=24",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=213",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5447S.03P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

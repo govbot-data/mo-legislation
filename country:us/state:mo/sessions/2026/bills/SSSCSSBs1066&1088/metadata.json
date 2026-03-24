@@ -1,0 +1,291 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SS SCS SBs 1066 & 1088",
+  "title": "SS/SCS/SBs 1066 & 1088 - This act modifies the definition of \"residential property\" for the purposes of the taxation of real property by providing that such definition shall include single family homes that are owned by a sole proprietor, individual, partnership, or limited liability company and leased, in whole or in part, for a term of less than thirty consecutive days, provided that such provision may not apply to any such property in excess of fifteen such properties owned by the same individual or business.\r\n\r\n\tThis act also prohibits an assessor from reclassifying real property without first conducting an in-person consultation with the owner of record of such property. An assessor shall be deemed to be in compliance with this provision if the assessor can document a good-faith effort to contact the owner of record, as described in the act.\r\n\r\n\tThis provision is identical to a provision in SCS/SB 919 (2026).\r\n\r\n\tThis act is substantially similar to SB 699 (2025), SB 784 (2025), and SCS/HB 1086 (2025), and to a provision in HB 660 (2025).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SBs 1066 & 1088 - This act modifies the definition of \"residential property\" for the purposes of the taxation of real property by providing that such definition shall include single family homes that are owned by a sole proprietor, individual, partnership, or limited liability company and leased, in whole or in part, for a term of less than thirty consecutive days, provided that such provision may not apply to any such property in excess of fifteen such properties owned by the same individual or business.\r\n\r\n\tThis act also prohibits an assessor from reclassifying real property without first conducting an in-person consultation with the owner of record of such property. An assessor shall be deemed to be in compliance with this provision if the assessor can document a good-faith effort to contact the owner of record, as described in the act.\r\n\r\n\tThis provision is identical to a provision in SCS/SB 919 (2026).\r\n\r\n\tThis act is substantially similar to SB 699 (2025), SB 784 (2025), and SCS/HB 1086 (2025), and to a provision in HB 660 (2025).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the classification of certain residential real property"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-ssscssbs10661088"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (Beck)--(4335S04.06S)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Nicola)--(4335S04.03S)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Brown-26)--(4335S.04F)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Reported from S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 1066 & 1088 Local Government, Elections and Pensions Committee (4335S.02C)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Re-referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4335S.04P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1066.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4335S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1066.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4335S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1066.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/23/2026 - SS for SCS S offered (Brown-26)--(4335S.04F)\r\n                    \r\n                        3/23/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=229",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/23/2026 - SA 1 to SS for SCS S offered & adopted (Nicola)--(4335S04.03S)\r\n                    \r\n                        3/23/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=233",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/23/2026 - SA 2 to SS for SCS S offered & adopted (Beck)--(4335S04.06S)\r\n                    \r\n                        3/23/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=235",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=255",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4335S.04P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

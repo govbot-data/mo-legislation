@@ -18,7 +18,11 @@
       "title": "HCS HB 1866"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1866"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -239,6 +243,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Monday, March 23, 2026, 2:30 p.m., SCR 1 - 1st Floor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     }
   ],
@@ -492,6 +516,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

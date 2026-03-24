@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2740",
-  "title": "Establishes a pediatric disease task force",
+  "title": "Establishes a Pediatric Disease Task Force",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -20,7 +20,11 @@
       "title": "HCS HB 2740"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2740"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -154,6 +158,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
+      }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     }
   ],
@@ -308,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

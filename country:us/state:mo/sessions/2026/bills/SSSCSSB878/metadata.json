@@ -1,0 +1,282 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SS SCS SB 878",
+  "title": "SS/SCS/SB 878 - This act modifies provisions relating to duties of a pharmacist.\r\n\r\nPRACTICE OF PHARMACY (SECTION 338.010)\r\n\tCurrently, the practice of pharmacy includes the ordering and administration of vaccines approved or authorized by the FDA, but excludes certain vaccines and those vaccines approved after January 1, 2023. This act instead provides that the practice of pharmacy includes the ordering and administration of certain vaccines approved or authorized by the FDA as of January 1, 2026, but excludes certain vaccines and those that are not included by joint rules promulgated by the Board of Pharmacy and the State Board of Registration for the Healing Arts.\r\n\r\nMEDICATION THERAPEUTIC PLAN AUTHORITY (SECTION 338.012)\r\n\tCurrently, a pharmacist with a certificate of medication therapeutic plan authority can provide certain medication therapy services if there is a statewide order issued by the Director or the Chief Medical Officer of the Department of Health and Senior Services if such person is a licensed physician or by a licensed physician designated by the Department. This act repeals this language and authorizes the provision of such medication therapy services pursuant to rules established by the Board of Pharmacy and the State Board of Registration for the Healing Arts.\r\n\r\nMEDICAL DEVICE PRESCRIPTIONS (SECTION 338.206)\r\n\tThis act authorizes pharmacists to prescribe medical devices, as defined in the act. The Board of Pharmacy and the State Board of Registration for the Healing Arts shall jointly promulgate rules to implement this provision within six months of the effective date of this act.\r\n\r\nDISPENSING OF IVERMECTIN & HYDROXYCHLOROQUINE (SECTION 338.208)\r\nUnder this act, a pharmacist may dispense ivermectin and hydroxychloroquine to a person, without a prescription order, upon the approval of a warning label for the use and indication in accordance with any written, standardized procedures or protocols issued by the Board of Pharmacy.\r\n\r\nNONPROFIT PHARMACY EMERGENCY WAIVERS (SECTION 338.312)\r\n\tThe Board of Pharmacy shall have the authority to waive compliance with any Missouri rule or regulation for nonprofit pharmacies dispensing, shipping, or delivering prescription drugs into another state or United States territory that is experiencing a declared state disaster or emergency, provided that:\r\n\t(1)\tThe nonprofit pharmacy is a licensed pharmacy in good standing and is authorized to ship prescription drugs into such state or territory;\r\n\t(2)\tThe nonprofit pharmacy is responding to a declared state disaster or emergency;\r\n\t(3)\tThe nonprofit pharmacy complies with all emergency rules and regulations for pharmacies and nonprofit pharmacies established by the state or territory for the duration of the disaster period;\r\n\t(4)\tThe nonprofit pharmacy complies with all applicable federal laws and regulations; and\r\n\t(5)\tThe waiver applies only to prescription drugs dispensed, shipped, or delivered to residents or health care facilities located within the geographic area specified in the declared state disaster or emergency.\r\n\r\n\tThis provision is identical to SB 1640 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 878 - This act modifies provisions relating to duties of a pharmacist.\r\n\r\nPRACTICE OF PHARMACY (SECTION 338.010)\r\n\tCurrently, the practice of pharmacy includes the ordering and administration of vaccines approved or authorized by the FDA, but excludes certain vaccines and those vaccines approved after January 1, 2023. This act instead provides that the practice of pharmacy includes the ordering and administration of certain vaccines approved or authorized by the FDA as of January 1, 2026, but excludes certain vaccines and those that are not included by joint rules promulgated by the Board of Pharmacy and the State Board of Registration for the Healing Arts.\r\n\r\nMEDICATION THERAPEUTIC PLAN AUTHORITY (SECTION 338.012)\r\n\tCurrently, a pharmacist with a certificate of medication therapeutic plan authority can provide certain medication therapy services if there is a statewide order issued by the Director or the Chief Medical Officer of the Department of Health and Senior Services if such person is a licensed physician or by a licensed physician designated by the Department. This act repeals this language and authorizes the provision of such medication therapy services pursuant to rules established by the Board of Pharmacy and the State Board of Registration for the Healing Arts.\r\n\r\nMEDICAL DEVICE PRESCRIPTIONS (SECTION 338.206)\r\n\tThis act authorizes pharmacists to prescribe medical devices, as defined in the act. The Board of Pharmacy and the State Board of Registration for the Healing Arts shall jointly promulgate rules to implement this provision within six months of the effective date of this act.\r\n\r\nDISPENSING OF IVERMECTIN & HYDROXYCHLOROQUINE (SECTION 338.208)\r\nUnder this act, a pharmacist may dispense ivermectin and hydroxychloroquine to a person, without a prescription order, upon the approval of a warning label for the use and indication in accordance with any written, standardized procedures or protocols issued by the Board of Pharmacy.\r\n\r\nNONPROFIT PHARMACY EMERGENCY WAIVERS (SECTION 338.312)\r\n\tThe Board of Pharmacy shall have the authority to waive compliance with any Missouri rule or regulation for nonprofit pharmacies dispensing, shipping, or delivering prescription drugs into another state or United States territory that is experiencing a declared state disaster or emergency, provided that:\r\n\t(1)\tThe nonprofit pharmacy is a licensed pharmacy in good standing and is authorized to ship prescription drugs into such state or territory;\r\n\t(2)\tThe nonprofit pharmacy is responding to a declared state disaster or emergency;\r\n\t(3)\tThe nonprofit pharmacy complies with all emergency rules and regulations for pharmacies and nonprofit pharmacies established by the state or territory for the duration of the disaster period;\r\n\t(4)\tThe nonprofit pharmacy complies with all applicable federal laws and regulations; and\r\n\t(5)\tThe waiver applies only to prescription drugs dispensed, shipped, or delivered to residents or health care facilities located within the geographic area specified in the declared state disaster or emergency.\r\n\r\n\tThis provision is identical to SB 1640 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the duties of a pharmacist"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-ssscssb878"
+    }
+  ],
+  "actions": [
+    {
+      "description": "H First Read",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (Nicola)--(5598S05.10S)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (McCreery)--(5598S05.06S)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Fitzwater)--(5598S.05F)",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Reported from S Families, Seniors and Health Committee",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Families, Seniors and Health Committee (5598S.03C)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5598S.05P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB878.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5598S.03C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB878.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5598S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB878.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/11/2026 - SS for SCS S offered (Fitzwater)--(5598S.05F)\r\n                    \r\n                        3/11/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=223",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/11/2026 - SA 1 to SS for SCS S offered & adopted (McCreery)--(5598S05.06S)\r\n                    \r\n                        3/11/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=226",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/11/2026 - SA 2 to SS for SCS S offered & adopted (Nicola)--(5598S05.10S)\r\n                    \r\n                        3/11/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=227",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=276",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5598S.05P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

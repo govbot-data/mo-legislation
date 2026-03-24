@@ -1,0 +1,228 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SS SB 889",
+  "title": "SS/SB 889 -  This act repeals a number of expired, terminated, sunset, and obsolete statutes and references to such statutes contained in another statutes.  Many provisions of this act are identical to HRB 1 (2024) which is a bill prepared by the Joint Committee on Legislative Research as required by current law.\r\n\r\n\tThese provisions are similar to SCS/SB 757 (2025).\r\n\r\n\tThe act additionally repeals the Missouri Economic Diversification and Afforestation Act of 1990.  These provisions are identical to SB 790 (2025).\r\n\r\n\tCurrently, a local board of education for a school district shall establish a written policy of discipline that includes the district's determination on the use of corporal punishment. This act repeals the provisions on the use of corporal punishment.  Further, the act repeals a provision of current law that states that spanking, when administered by certified school personnel and in the presence of a school district employee, is not considered child abuse.\r\n\r\n\tFurther, this act repeals a number of provisions of law concerning the acquisition of one insurance company by another, the payment of dividends by insurance companies, required deposits by life insurance companies; assessment plan life insurance and stipulated premium plan life insurance, mutual insurance companies other than for life and fire, and required cash reserves for reciprocal or interinsurance exchanges.\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SB 889 -  This act repeals a number of expired, terminated, sunset, and obsolete statutes and references to such statutes contained in another statutes.  Many provisions of this act are identical to HRB 1 (2024) which is a bill prepared by the Joint Committee on Legislative Research as required by current law.\r\n\r\n\tThese provisions are similar to SCS/SB 757 (2025).\r\n\r\n\tThe act additionally repeals the Missouri Economic Diversification and Afforestation Act of 1990.  These provisions are identical to SB 790 (2025).\r\n\r\n\tCurrently, a local board of education for a school district shall establish a written policy of discipline that includes the district's determination on the use of corporal punishment. This act repeals the provisions on the use of corporal punishment.  Further, the act repeals a provision of current law that states that spanking, when administered by certified school personnel and in the presence of a school district employee, is not considered child abuse.\r\n\r\n\tFurther, this act repeals a number of provisions of law concerning the acquisition of one insurance company by another, the payment of dividends by insurance companies, required deposits by life insurance companies; assessment plan life insurance and stipulated premium plan life insurance, mutual insurance companies other than for life and fire, and required cash reserves for reciprocal or interinsurance exchanges.\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Repeals expired, terminated, sunset, and obsolete sections, and portions of sections of law"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sssb889"
+    }
+  ],
+  "actions": [
+    {
+      "description": "H Second Read",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SS S offered & adopted (Coleman)--(4259S.03F)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported from S Government Efficiency Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Government Efficiency Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4259S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB889.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/10/2026 - SS S offered & adopted (Coleman)--(4259S.03F)\r\n                    \r\n                        3/10/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=199",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=596",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4259S.03P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

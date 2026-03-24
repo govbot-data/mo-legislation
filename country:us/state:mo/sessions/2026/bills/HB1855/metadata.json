@@ -17,7 +17,11 @@
       "title": "HCS HB 1855"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1855"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -151,6 +155,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
+      }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     }
   ],
@@ -339,6 +353,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 4267H04.01H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4267H04.01H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -417,6 +442,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

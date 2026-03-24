@@ -1,0 +1,161 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCS SB 1012",
+  "title": "SCS/SB 1012 - This act creates new provisions relating to artificial intelligence.\r\n\r\nARTIFICIAL INTELLIGENCE SYSTEMS (Section 1.2045)\r\n\r\n\tThe act establishes the \"AI Non-Sentience and Responsibility Act\".\r\n\r\n\tThe act provides that an artificial intelligence (AI) system shall be declared a non-sentient entity.  No government entity shall grant to an AI system the legal status of a personhood, nor be considered to possess consciousness, self-awareness, or similar traits of living beings.  No AI system shall be recognized as a spouse or domestic partner, or designated, appointed, or serve as any officer, director, manager, or similar role within any company.\r\n\r\n\tAI systems shall not be recognized as legal entities capable of owning title to property, as described in the act. All assets associated with an AI system shall be attributed to human individuals or organizations responsible for the AI's development, deployment, or operation.\r\n\r\n\tAny harm caused by an AI system shall be the responsibility of the owner or user of the AI system.  Developers or manufacturers may be held liable if a defect in design, construction, or instructions causes harm, consistent with product liability principles.  \r\n\r\n\tOwners of AI systems shall maintain reasonable and documented oversight and control measures over any AI system if its outputs or recommendations could reasonably be expected to impact human welfare, property, or public safety.  Failure to provide such oversight may constitute negligence or another basis of liability.\r\n\r\n\tDevelopers, manufacturers, and owners of AI systems shall prioritize safety mechanisms to prevent harm to individuals or property, as described in the act. \r\n\r\n\tLabeling an AI system as \"aligned\", \"ethically trained\", or \"value locked\" shall not excuse or diminish the owner's or developer's liability for harms.\r\n\r\n\tIf an AI system causes significant harm, courts may pierce the corporate veil to hold parent companies accountable for the harm, as described in the act. Liability protections under corporate law shall not be used to evade responsibility for direct harm caused by AI systems. Owners or developers of AI systems involved in reportable incidents shall notify the Attorney General and comply with any subsequent investigations.\r\n\r\n\tThe provisions of the act shall apply to all AI systems developed, owned, deployed, or operated on or after August 28, 2026.\r\n\r\n\tThe provision is identical to HB 1769 (2026) and HB 1462 (2025), and substantially similar to SB 859 (2026).\r\n\r\nARTIFICIALLY GENERATED CONTENT (Sections 130.165 and 573.120)\r\n\r\nELECTIONS (Section 130.165)\r\nThis act creates new provisions relating to the use of artificial intelligence (AI) in elections. Any political advertisement, electioneering communication, or other miscellaneous advertisement of a political nature that uses AI, in the manner that is described in the act, shall prominently include a disclaimer alerting the viewer that the media was created with the use of AI. The nature of the disclaimer is described in the act.\r\n\r\nIn addition to any civil penalties provided by law, a person identified in a disclaimer required by law as paying for, sponsoring, or approving any media covered by this act that is required to contain the disclaimer prescribed in this act and who fails to include the required disclaimer is guilty of a class A misdemeanor.\r\n\r\nThese provisions are identical to SB 509 (2025).\r\n\r\nDEEPFAKES (Section 573.120)\r\nThe act creates the offense of producing a deepfake if the person discloses, or threatens to disclose:\r\n\t\u2022\tA deepfake of an individual who is under eighteen years of age; or \r\n\t\u2022\tAn intimate deepfake. \r\n\r\nAny such person shall be guilty of a class E felony in the case of a deepfake or a class B felony in the case of an intimate deepfake.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1012 - This act creates new provisions relating to artificial intelligence.\r\n\r\nARTIFICIAL INTELLIGENCE SYSTEMS (Section 1.2045)\r\n\r\n\tThe act establishes the \"AI Non-Sentience and Responsibility Act\".\r\n\r\n\tThe act provides that an artificial intelligence (AI) system shall be declared a non-sentient entity.  No government entity shall grant to an AI system the legal status of a personhood, nor be considered to possess consciousness, self-awareness, or similar traits of living beings.  No AI system shall be recognized as a spouse or domestic partner, or designated, appointed, or serve as any officer, director, manager, or similar role within any company.\r\n\r\n\tAI systems shall not be recognized as legal entities capable of owning title to property, as described in the act. All assets associated with an AI system shall be attributed to human individuals or organizations responsible for the AI's development, deployment, or operation.\r\n\r\n\tAny harm caused by an AI system shall be the responsibility of the owner or user of the AI system.  Developers or manufacturers may be held liable if a defect in design, construction, or instructions causes harm, consistent with product liability principles.  \r\n\r\n\tOwners of AI systems shall maintain reasonable and documented oversight and control measures over any AI system if its outputs or recommendations could reasonably be expected to impact human welfare, property, or public safety.  Failure to provide such oversight may constitute negligence or another basis of liability.\r\n\r\n\tDevelopers, manufacturers, and owners of AI systems shall prioritize safety mechanisms to prevent harm to individuals or property, as described in the act. \r\n\r\n\tLabeling an AI system as \"aligned\", \"ethically trained\", or \"value locked\" shall not excuse or diminish the owner's or developer's liability for harms.\r\n\r\n\tIf an AI system causes significant harm, courts may pierce the corporate veil to hold parent companies accountable for the harm, as described in the act. Liability protections under corporate law shall not be used to evade responsibility for direct harm caused by AI systems. Owners or developers of AI systems involved in reportable incidents shall notify the Attorney General and comply with any subsequent investigations.\r\n\r\n\tThe provisions of the act shall apply to all AI systems developed, owned, deployed, or operated on or after August 28, 2026.\r\n\r\n\tThe provision is identical to HB 1769 (2026) and HB 1462 (2025), and substantially similar to SB 859 (2026).\r\n\r\nARTIFICIALLY GENERATED CONTENT (Sections 130.165 and 573.120)\r\n\r\nELECTIONS (Section 130.165)\r\nThis act creates new provisions relating to the use of artificial intelligence (AI) in elections. Any political advertisement, electioneering communication, or other miscellaneous advertisement of a political nature that uses AI, in the manner that is described in the act, shall prominently include a disclaimer alerting the viewer that the media was created with the use of AI. The nature of the disclaimer is described in the act.\r\n\r\nIn addition to any civil penalties provided by law, a person identified in a disclaimer required by law as paying for, sponsoring, or approving any media covered by this act that is required to contain the disclaimer prescribed in this act and who fails to include the required disclaimer is guilty of a class A misdemeanor.\r\n\r\nThese provisions are identical to SB 509 (2025).\r\n\r\nDEEPFAKES (Section 573.120)\r\nThe act creates the offense of producing a deepfake if the person discloses, or threatens to disclose:\r\n\t\u2022\tA deepfake of an individual who is under eighteen years of age; or \r\n\t\u2022\tAn intimate deepfake. \r\n\r\nAny such person shall be guilty of a class E felony in the case of a deepfake or a class B felony in the case of an intimate deepfake.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to artificial intelligence"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scssb1012"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5687S.02C)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5687S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1012.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5687S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1012.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=469",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5687S.02C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

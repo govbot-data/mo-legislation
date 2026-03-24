@@ -1,0 +1,171 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCS SB 916",
+  "title": "SCS/SB 916 - This act modifies provisions relating to sovereign immunity.\r\n\r\nSOVEREIGN IMMUNITY FOR MODOT PRIVATE CONTRACTORS (SECTION 537.600)\r\n\tThis act provides that private contractors and subcontractors when acting within the scope of a government contract with the Missouri Department of Transportation (\"Department\") shall have the same sovereign or governmental tort immunity as a public entity. The immunity shall commence upon the official notice to proceed and continue after the Department formally accepts the completed project.\r\n\r\n\tThis provision is identical to HB 2437 (2026) and is substantially similar to HB 2926 (2026) and HCS/HB 1067 (2025) and is similar to SB 559 (2025), SB 117 (2023), HB 101 (2023), SB 832 (2022), HB 2598 (2022), SB 497 (2019), and HB 2386 (2018).\r\n\r\nPURCHASE OF LIABILITY INSURANCE FOR SOVEREIGN IMMUNITY CLAIMS (SECTION 537.610.1)\r\n\tAs it relates to political subdivisions purchasing liability insurance for tort claims made against the political subdivision, this act defines the term \"purchase\" to refer only to the direct acquisition of insurance coverage by a governing body and not any indirect action by contract or otherwise.\r\n\r\n\tThis provision is substantially similar to a provision in HCS/HB 1718 (2026), SB 454 (2025), HB 142 (2025), SB 1346 (2024), and HB 2690 (2022).\r\n\r\nCAPS ON DAMAGES FOR SOVEREIGN IMMUNITY CLAIMS (SECTION 537.610.5)\r\n\tThis act provides that the applicable cap on the amount of damages that may be awarded for a claim against the state or its public entities shall be the limitation in effect on the date of the accident or occurrence giving rise to the claims.\r\n\r\n\tThis provision is identical to SB 1467 (2026) and a provision in HCS/HB 1718 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 916 - This act modifies provisions relating to sovereign immunity.\r\n\r\nSOVEREIGN IMMUNITY FOR MODOT PRIVATE CONTRACTORS (SECTION 537.600)\r\n\tThis act provides that private contractors and subcontractors when acting within the scope of a government contract with the Missouri Department of Transportation (\"Department\") shall have the same sovereign or governmental tort immunity as a public entity. The immunity shall commence upon the official notice to proceed and continue after the Department formally accepts the completed project.\r\n\r\n\tThis provision is identical to HB 2437 (2026) and is substantially similar to HB 2926 (2026) and HCS/HB 1067 (2025) and is similar to SB 559 (2025), SB 117 (2023), HB 101 (2023), SB 832 (2022), HB 2598 (2022), SB 497 (2019), and HB 2386 (2018).\r\n\r\nPURCHASE OF LIABILITY INSURANCE FOR SOVEREIGN IMMUNITY CLAIMS (SECTION 537.610.1)\r\n\tAs it relates to political subdivisions purchasing liability insurance for tort claims made against the political subdivision, this act defines the term \"purchase\" to refer only to the direct acquisition of insurance coverage by a governing body and not any indirect action by contract or otherwise.\r\n\r\n\tThis provision is substantially similar to a provision in HCS/HB 1718 (2026), SB 454 (2025), HB 142 (2025), SB 1346 (2024), and HB 2690 (2022).\r\n\r\nCAPS ON DAMAGES FOR SOVEREIGN IMMUNITY CLAIMS (SECTION 537.610.5)\r\n\tThis act provides that the applicable cap on the amount of damages that may be awarded for a claim against the state or its public entities shall be the limitation in effect on the date of the accident or occurrence giving rise to the claims.\r\n\r\n\tThis provision is identical to SB 1467 (2026) and a provision in HCS/HB 1718 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to sovereign immunity"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scssb916"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Reported from S General Laws Committee",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S General Laws Committee (3834S.05C)",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3834S.05C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB916.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3834S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB916.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=123",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3834S.05C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-03-24T13:06:49Z"
+  }
+}

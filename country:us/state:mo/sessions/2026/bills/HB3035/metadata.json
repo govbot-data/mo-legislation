@@ -21,7 +21,11 @@
       "title": "HCS HB 3035"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb3035"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -258,7 +262,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 100 NOES: 43 PRESENT: 3",
       "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -267,7 +271,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     },
     {
@@ -280,6 +284,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Second read and referred: Select Committee on Property Taxes and the State Tax Commission(S)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     }
   ],
@@ -427,6 +441,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

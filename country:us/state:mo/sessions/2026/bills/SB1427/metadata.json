@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1427",
-  "title": "Repeals certain provisions relating to water contaminants",
+  "title": "SB 1427 - Currently, it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, or for a person to operate, use or maintain and discharge water contaminants from any water contaminant unless the person holds a permit. The act repeals these provisions.\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,39 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Repeals certain provisions relating to water contaminants"
+      "abstract": "SB 1427 - Currently, it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, or for a person to operate, use or maintain and discharge water contaminants from any water contaminant unless the person holds a permit. The act repeals these provisions.\r\nJULIA SHEVELEVA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Repeals certain provisions relating to water contaminants"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1427"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-10T06:00:00+00:00",
+      "description": "Hearing Scheduled S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-14T21:03:30Z"
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Hearing Cancelled S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-24T13:06:49Z"
       }
     },
     {
@@ -52,30 +59,42 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-03-05T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
+        "log_file_created": "2025-12-14T21:03:30Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gregory (21)",
+      "name": "Gregory (21), Kurtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (21)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5875S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1427.pdf",
@@ -90,19 +109,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=10337",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=10337",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=10337",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=10337",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5875S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T13:00:37Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

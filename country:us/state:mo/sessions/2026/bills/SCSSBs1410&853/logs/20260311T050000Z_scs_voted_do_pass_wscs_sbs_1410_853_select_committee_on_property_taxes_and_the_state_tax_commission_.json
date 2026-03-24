@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SBs 1410 & 853) Select Committee on Property Taxes and the State Tax Commission Committee (5988S.07C)",
+    "date": "2026-03-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCS SBs 1410 & 853"
+}

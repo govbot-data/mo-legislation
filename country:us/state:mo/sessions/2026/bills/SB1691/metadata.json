@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1691",
-  "title": "Modifies provisions relating to licensure reciprocity for health care professionals providing for telehealth services",
+  "title": "SB 1691 - Those health care providers, who hold a current license issued by another jurisdiction and are licensed in Missouri with a waiver of examination, educational, or experience requirements, shall be deemed to be fully licensed to practice within the profession's scope of practice in Missouri and may provide telehealth services to the same extent and manner as health care providers who receive a license without a waiver. \r\n\r\n\tThis act is identical to HCS/HB 2974 (2026).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,26 +10,48 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to licensure reciprocity for health care professionals providing for telehealth services"
+      "abstract": "SB 1691 - Those health care providers, who hold a current license issued by another jurisdiction and are licensed in Missouri with a waiver of examination, educational, or experience requirements, shall be deemed to be fully licensed to practice within the profession's scope of practice in Missouri and may provide telehealth services to the same extent and manner as health care providers who receive a license without a waiver. \r\n\r\n\tThis act is identical to HCS/HB 2974 (2026).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to licensure reciprocity for health care professionals providing for telehealth services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1691"
+    }
+  ],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7291S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1691.pdf",
@@ -44,15 +66,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5552595",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5552595",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552595",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7291S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -60,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-16T13:06:23Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

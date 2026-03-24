@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1677",
-  "title": "Modifies provisions relating to child passengers on motorcycles and motortricycles",
+  "title": "SB 1677 - This act modifies provisions relating to child passengers on motorcycles and motortricycles. \r\n\r\n\tSAFETY REQUIREMENTS AND PENALTY PROVISIONS (Sections 302.020.2 - 302.020.3)\r\n\tNo person shall be stopped, inspected, or detained solely to determine that the protective headgear worn by an operator or passenger of a motorcycle or motortricycle meets reasonable standards and specifications, unless there is a reasonable basis to suspect that a violation of this act involves a child passenger under ten years of age. \r\n\r\n\tThe penalty for failure to wear protective headgear as required by this act is an infraction for which a fine not to exceed twenty-five dollars may be imposed unless the violation involves a child passenger under ten years of age, in which case the violation shall be punishable as an infraction for which a fine not to exceed one hundred dollars may be imposed.\r\n\r\n\tCALVIN'S LAW (Section 302.023) \r\n\tThis act establishes \"Calvin's Law\". It shall be unlawful for the operator of a motorcycle or motortricycle to allow any person under ten years of age to ride as a passenger on a motorcycle or motortricycle on any highway in this state unless the motorcycle or motortricycle is equipped with a proper passenger seat and the child is able to place both feet on the passenger foot pegs, except when a licensed physician certifies a medical exemption. Any passenger under ten years of age shall wear protective headgear that meets the safety standards and specifications established by the director of revenue. \r\n\r\n\tThis act shall be effective on January 1, 2027. \r\n\r\n\tThis act is identical to HB 2328 (2026).  \r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,26 +10,48 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to child passengers on motorcycles and motortricycles"
+      "abstract": "SB 1677 - This act modifies provisions relating to child passengers on motorcycles and motortricycles. \r\n\r\n\tSAFETY REQUIREMENTS AND PENALTY PROVISIONS (Sections 302.020.2 - 302.020.3)\r\n\tNo person shall be stopped, inspected, or detained solely to determine that the protective headgear worn by an operator or passenger of a motorcycle or motortricycle meets reasonable standards and specifications, unless there is a reasonable basis to suspect that a violation of this act involves a child passenger under ten years of age. \r\n\r\n\tThe penalty for failure to wear protective headgear as required by this act is an infraction for which a fine not to exceed twenty-five dollars may be imposed unless the violation involves a child passenger under ten years of age, in which case the violation shall be punishable as an infraction for which a fine not to exceed one hundred dollars may be imposed.\r\n\r\n\tCALVIN'S LAW (Section 302.023) \r\n\tThis act establishes \"Calvin's Law\". It shall be unlawful for the operator of a motorcycle or motortricycle to allow any person under ten years of age to ride as a passenger on a motorcycle or motortricycle on any highway in this state unless the motorcycle or motortricycle is equipped with a proper passenger seat and the child is able to place both feet on the passenger foot pegs, except when a licensed physician certifies a medical exemption. Any passenger under ten years of age shall wear protective headgear that meets the safety standards and specifications established by the director of revenue. \r\n\r\n\tThis act shall be effective on January 1, 2027. \r\n\r\n\tThis act is identical to HB 2328 (2026).  \r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to child passengers on motorcycles and motortricycles"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1677"
+    }
+  ],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
-      "name": "Schnelting",
+      "name": "Schnelting, Adam",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schnelting\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schnelting, Adam\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7121S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1677.pdf",
@@ -44,15 +66,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5391807",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5391807",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5391807",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7121S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -60,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-16T13:06:23Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

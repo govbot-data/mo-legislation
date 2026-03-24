@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1103",
-  "title": "Creates provisions relating to lifetime protection orders",
+  "title": "SB 1103 - This act provides that a court shall have jurisdiction at the time of sentencing to enter a lifetime protection order restraining or enjoining the defendant from contacting the victim if the defendant has been found guilty of a dangerous felony.  The protection order shall be effective immediately and shall be served on the defendant at the time of sentencing.  Such order shall be valid for the defendant's lifetime unless:\r\n\r\n\t\u2022 The victim dies;\r\n\r\n\t\u2022 The conviction is dismissed, expunged, or overturned or the defendant has been pardoned; or\r\n\r\n\t\u2022 The victim submits a written request to terminate the order.\r\n\r\n\tIf an order of protection is granted, the order shall be issued to the victim and to the law enforcement agency in which the victim resides.  The sheriff shall enter all information into the Missouri Uniform Law Enforcement System (MULES) within 24 hours and MULES shall forward the information to the National Crime Information Center.\r\n\r\n\tThis act is identical to SB 197 (2025) and provisions in SB 143 (2025), SB 869 (2024), and a provision in SCS/HCS/HB 1659 (2024).\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates provisions relating to lifetime protection orders"
+      "abstract": "SB 1103 - This act provides that a court shall have jurisdiction at the time of sentencing to enter a lifetime protection order restraining or enjoining the defendant from contacting the victim if the defendant has been found guilty of a dangerous felony.  The protection order shall be effective immediately and shall be served on the defendant at the time of sentencing.  Such order shall be valid for the defendant's lifetime unless:\r\n\r\n\t\u2022 The victim dies;\r\n\r\n\t\u2022 The conviction is dismissed, expunged, or overturned or the defendant has been pardoned; or\r\n\r\n\t\u2022 The victim submits a written request to terminate the order.\r\n\r\n\tIf an order of protection is granted, the order shall be issued to the victim and to the law enforcement agency in which the victim resides.  The sheriff shall enter all information into the Missouri Uniform Law Enforcement System (MULES) within 24 hours and MULES shall forward the information to the National Crime Information Center.\r\n\r\n\tThis act is identical to SB 197 (2025) and provisions in SB 143 (2025), SB 869 (2024), and a provision in SCS/HCS/HB 1659 (2024).\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to lifetime protection orders"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1103"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Hearing Scheduled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-11T12:36:47Z"
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:40:03Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-01-15T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-16T12:40:03Z"
+        "log_file_created": "2026-01-11T12:36:47Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Moon",
+      "name": "Moon, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Moon\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Moon, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5130S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1103.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=386",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=386",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=386",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=386",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5130S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:40:03Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

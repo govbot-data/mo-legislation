@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported Do Pass H Corrections and Public Institutions",
+    "date": "2026-03-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SS#3 SB 888"
+}

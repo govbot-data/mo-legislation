@@ -1,24 +1,28 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 3142",
-  "title": "Modifies and establishes provisions relating to summer and day camps",
+  "title": "Modifies and establishes provisions relating to overnight and residential camps",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "CHILDREN AND MINORS",
-    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF",
-    "LICENSES - MISCELLANEOUS"
+    "LICENSES - MISCELLANEOUS",
+    "SOCIAL SERVICES, DEPARTMENT OF"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 3142"
+      "title": "HCS HB 3142"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb3142"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -87,6 +91,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 11 NOES: 2 PRESENT: 0",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,6 +143,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6570H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -135,6 +162,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3142I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3142C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -183,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

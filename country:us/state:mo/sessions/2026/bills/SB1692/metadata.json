@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1692",
-  "title": "Modifies provisions relating to abortion",
+  "title": "SB 1692 - This act repeals provisions relating to abortion regulation, including, but not limited to prohibitions on certain abortions, abortion facility licensing, informed consent procedures, waiting periods, requirements that only physicians can perform or induce an abortion, certain reporting requirements, and certain criminal penalties relating to abortion.\r\n\r\n\tThis act is identical to SB 696 (2025).\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,26 +10,48 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to abortion"
+      "abstract": "SB 1692 - This act repeals provisions relating to abortion regulation, including, but not limited to prohibitions on certain abortions, abortion facility licensing, informed consent procedures, waiting periods, requirements that only physicians can perform or induce an abortion, certain reporting requirements, and certain criminal penalties relating to abortion.\r\n\r\n\tThis act is identical to SB 696 (2025).\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to abortion"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1692"
+    }
+  ],
+  "actions": [
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
-      "name": "Lewis",
+      "name": "Lewis, Patty",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lewis\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Lewis, Patty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4584S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1692.pdf",
@@ -44,15 +66,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5552596",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5552596",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552596",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4584S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -60,6 +80,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-16T13:06:23Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to reconsider Perfection Vote S adopted (Trent)",
+    "date": "2026-02-23T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCS SS#2 SB 1233"
+}

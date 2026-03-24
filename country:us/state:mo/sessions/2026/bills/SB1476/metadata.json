@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1476",
-  "title": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance",
+  "title": "SB 1476 - This act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.  Additionally, this act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.  Such offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThis act is identical to SB 764 (2025), HB 722 (2025), HB 1650 (2024), HB 1849 (2024), HB 2300 (2024), and HCS/HBs 494 & 498 (2023), and contains provisions identical to SB 295 (2025), SB 949 (2024), and SB 693 (2023).\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance"
+      "abstract": "SB 1476 - This act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.  Additionally, this act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.  Such offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThis act is identical to SB 764 (2025), HB 722 (2025), HB 1650 (2024), HB 1849 (2024), HB 2300 (2024), and HCS/HBs 494 & 498 (2023), and contains provisions identical to SB 295 (2025), SB 949 (2024), and SB 693 (2023).\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1476"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-29T06:00:00+00:00",
+      "description": "Hearing Scheduled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-30T12:39:23Z"
+        "log_file_created": "2026-03-24T13:06:49Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-05T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T12:54:36Z"
+        "log_file_created": "2025-12-30T12:39:23Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Nicola",
+      "name": "Nicola, Joe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6066S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1476.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=52372",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=52372",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=52372",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52372",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6066S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:36Z"
+    "logs_latest_update": "2026-03-24T13:06:49Z"
   }
 }
