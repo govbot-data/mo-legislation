@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1731",
-  "title": "Modifies provisions relating to critical incident management",
+  "title": "SB 1731 - Under current law, all peace officers and first responders are required to have a mental health check-in with a program service provider once every three to five years. This act allows a department to satisfy this requirement if they have an established behavioral health or mental health program that meets enumerated requirements. This act also adds first responder commanding officers to the list of people approved to receive notification that the check-in requirement has been met.\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,54 +10,56 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to critical incident management"
+      "abstract": "SB 1731 - Under current law, all peace officers and first responders are required to have a mental health check-in with a program service provider once every three to five years. This act allows a department to satisfy this requirement if they have an established behavioral health or mental health program that meets enumerated requirements. This act also adds first responder commanding officers to the list of people approved to receive notification that the check-in requirement has been met.\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [
+  "other_titles": [
     {
-      "description": "S First Read",
-      "date": "2026-02-25T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-26T13:00:50Z"
-      }
+      "note": "",
+      "title": "Modifies provisions relating to critical incident management"
     }
   ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1731"
+    }
+  ],
+  "actions": [],
   "sponsorships": [
     {
-      "name": "May",
+      "name": "May, Karla",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"May\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        May, Karla\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "7169S.04I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1731.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6457870",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6457870",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6457870",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457870",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7169S.04I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -65,6 +67,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

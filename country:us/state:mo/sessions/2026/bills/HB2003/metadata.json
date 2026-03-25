@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2003",
-  "title": "APPROPRIATIONS BILL",
+  "title": "Appropriates money for the expenses, grants, refunds, and distributions of the Department of Higher Education and Workforce Development",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -129,6 +129,56 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 1, HA 2, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,7 +216,18 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.01H (Distributed)",
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2003H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 6 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.01H.pdf",
@@ -177,7 +238,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.04H (Distributed)",
+      "note": "Amendment HA 2 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.04H.pdf",
@@ -210,7 +271,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.07H (Distributed)",
+      "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.07H.pdf",
@@ -221,7 +282,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.10H (Distributed)",
+      "note": "Amendment HA 7 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.10H.pdf",
@@ -265,7 +326,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.17H (Distributed)",
+      "note": "Amendment HA 3 (Withdrawn)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.17H.pdf",
@@ -287,7 +348,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.19H (Distributed)",
+      "note": "Amendment HA 5 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.19H.pdf",
@@ -331,10 +392,21 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2003H03.23H (Distributed)",
+      "note": "Amendment HA 4 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.23H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 2003H03.24H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2003H03.24H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -374,6 +446,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

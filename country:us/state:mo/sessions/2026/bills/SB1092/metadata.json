@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1092",
-  "title": "Modifies the length of supervision for certain social work supervisors",
+  "title": "SB 1092 - This act modifies the definitions of a \"qualified advanced macro supervisor,\" \"qualified baccalaureate supervisor,\" and \"qualified clinical supervisor\" to provide that such person is a licensed social worker who has practiced social work for which he or she is supervising the applicant for a minimum of three, instead of five, years.\r\n\r\n\tThis act is identical to SB 1417 (2026), HB 1963 (2026), SB 479 (2025), and SB 563 (2025) and is substantially similar to HB 886 (2025).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,96 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies the length of supervision for certain social work supervisors"
+      "abstract": "SB 1092 - This act modifies the definitions of a \"qualified advanced macro supervisor,\" \"qualified baccalaureate supervisor,\" and \"qualified clinical supervisor\" to provide that such person is a licensed social worker who has practiced social work for which he or she is supervising the applicant for a minimum of three, instead of five, years.\r\n\r\n\tThis act is identical to SB 1417 (2026), HB 1963 (2026), SB 479 (2025), and SB 563 (2025) and is substantially similar to HB 886 (2025).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the length of supervision for certain social work supervisors"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1092"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "H First Read",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed - Consent",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported from S Emerging Issues and Professional Registration Committee - Consent",
+      "date": "2026-03-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
+    },
+    {
+      "description": "Motion to pass bill as consent taken by S Emerging Issues and Professional Registration Committee - Consent vote adopted",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-25T12:38:14Z"
@@ -39,85 +118,41 @@
       }
     },
     {
-      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
-      "date": "2026-01-15T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-25T12:38:14Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Motion to pass bill as consent taken by S Emerging Issues and Professional Registration Committee - Consent vote adopted",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-18T12:59:28Z"
-      }
-    },
-    {
-      "description": "Reported from S Emerging Issues and Professional Registration Committee - Consent",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
-      }
-    },
-    {
-      "description": "S Consent Calendar",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lewis",
+      "name": "Lewis, Patty",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lewis\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Lewis, Patty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4990S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1092.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4990S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1092.pdf",
@@ -132,19 +167,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=566",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=566",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=566",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=566",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4990S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -152,6 +181,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:38Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

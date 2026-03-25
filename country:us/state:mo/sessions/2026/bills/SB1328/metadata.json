@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1328",
-  "title": "Establishes every January as \"Blood Donor Awareness Month\" in Missouri",
+  "title": "SB 1328 - This act designates every month of January as \"Blood Donor Awareness Month\" in Missouri.\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,50 +10,59 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes every January as \"Blood Donor Awareness Month\" in Missouri"
+      "abstract": "SB 1328 - This act designates every month of January as \"Blood Donor Awareness Month\" in Missouri.\r\nJIM ERTLE"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes every January as \"Blood Donor Awareness Month\" in Missouri"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1328"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "H First Read",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "Second Read and Referred S Progress and Development Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "S Third Read and Passed - Consent",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
-        "referral-committee"
+        "passage",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "Hearing Conducted S Progress and Development Committee",
-      "date": "2026-02-03T06:00:00+00:00",
+      "description": "Reported from S Progress and Development Committee - Consent",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Motion to pass bill as consent taken by S Progress and Development Committee - Consent vote adopted",
+      "date": "2026-02-24T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -74,8 +83,8 @@
       }
     },
     {
-      "description": "Motion to pass bill as consent taken by S Progress and Development Committee - Consent vote adopted",
-      "date": "2026-02-24T06:00:00+00:00",
+      "description": "Hearing Conducted S Progress and Development Committee",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -84,40 +93,66 @@
       }
     },
     {
-      "description": "Reported from S Progress and Development Committee - Consent",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "Second Read and Referred S Progress and Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
-      "description": "S Consent Calendar",
-      "date": "2026-03-10T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lewis",
+      "name": "Lewis, Patty",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lewis\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Lewis, Patty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5265S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1328.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5265S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1328.pdf",
@@ -132,19 +167,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=580",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=580",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=580",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=580",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5265S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -152,6 +181,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

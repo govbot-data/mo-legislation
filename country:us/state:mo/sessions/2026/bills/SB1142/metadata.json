@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1142",
-  "title": "Modifies provisions relating to series limited liability companies",
+  "title": "SCS/SB 1142 - This act modifies provisions relating to limited liability companies. A new provision is created allowing any person to apply to the Secretary of State (SOS) to furnish a certificate of good standing for a domestic limited liability company, a foreign limited liability company, a domestic limited liability company series, or a foreign limited liability company series. A certificate of good standing issued by the SOS may be relied upon as prima facie evidence that the domestic or foreign limited liability company is in existence or is authorized to transact business in this state.\r\n\r\nThe act provides that, not later than January 31, 2027, each series of a limited liability company shall be individually profiled, maintained, and searchable as a business entity on the business services website of the SOS in the same manner that a non-series entity is profiled, maintained, and searchable.\r\nSCOTT SVAGERA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,55 +10,91 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to series limited liability companies"
+      "abstract": "SCS/SB 1142 - This act modifies provisions relating to limited liability companies. A new provision is created allowing any person to apply to the Secretary of State (SOS) to furnish a certificate of good standing for a domestic limited liability company, a foreign limited liability company, a domestic limited liability company series, or a foreign limited liability company series. A certificate of good standing issued by the SOS may be relied upon as prima facie evidence that the domestic or foreign limited liability company is in existence or is authorized to transact business in this state.\r\n\r\nThe act provides that, not later than January 31, 2027, each series of a limited liability company shall be individually profiled, maintained, and searchable as a business entity on the business services website of the SOS in the same manner that a non-series entity is profiled, maintained, and searchable.\r\nSCOTT SVAGERA"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SCS SB 1142"
+      "title": "Modifies provisions relating to series limited liability companies"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1142"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "H First Read",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-01-15T06:00:00+00:00",
+      "description": "S Third Read and Passed - Consent",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
-        "referral-committee"
+        "passage",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-16T12:40:03Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "Hearing Conducted S Economic and Workforce Development Committee",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "SCS S adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported from S Economic and Workforce Development Committee - Consent w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Motion to pass bill as consent taken by S Economic and Workforce Development Committee - Consent vote adopted (5513S.02C)",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:00:50Z"
+      }
+    },
+    {
+      "description": "Consent Vote Reconsidered",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:00:50Z"
+      }
+    },
+    {
+      "description": "Motion to vote bill as consent failed S Economic and Workforce Development Committee",
+      "date": "2026-02-25T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -79,8 +115,8 @@
       }
     },
     {
-      "description": "Motion to vote bill as consent failed S Economic and Workforce Development Committee",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -89,63 +125,58 @@
       }
     },
     {
-      "description": "Consent Vote Reconsidered",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-15T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-26T13:00:50Z"
+        "log_file_created": "2026-01-16T12:40:03Z"
       }
     },
     {
-      "description": "Motion to pass bill as consent taken by S Economic and Workforce Development Committee - Consent vote adopted (5513S.02C)",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-26T13:00:50Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "Reported from S Economic and Workforce Development Committee - Consent w/SCS",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "S Consent Calendar",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hudson",
+      "name": "Hudson, Brad",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hudson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Hudson, Brad\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5513S.02P - Perfected",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1142.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1142.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -153,10 +184,21 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute",
+      "note": "5513S.02C - Senate Committee Substitute",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1142.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5513S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1142.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -168,19 +210,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=297",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=297",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=297",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=297",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5513S.02P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -188,6 +224,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

@@ -1,26 +1,156 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 87",
-  "title": "Modifies provisions relating to sheriffs",
+  "title": "SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis County, or St. Charles County.\r\n\r\n\tAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\n\tThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "joint resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to sheriffs"
+      "abstract": "SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis County, or St. Charles County.\r\n\r\n\tAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\n\tThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to sheriffs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr87"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "SS, as amended, S adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS S offered & defeated (Lewis)--(4330S02.05S)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS S offered & adopted (May)--(4330S02.06S)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "SS S offered (Carter)--(4330S.02F)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported from S General Laws Committee",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:34Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:34Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-02T12:54:55Z"
@@ -39,75 +169,41 @@
       }
     },
     {
-      "description": "Second Read and Referred S General Laws Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S General Laws Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:34Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S General Laws Committee",
-      "date": "2026-02-18T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:34Z"
-      }
-    },
-    {
-      "description": "Reported from S General Laws Committee",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Carter",
+      "name": "Carter, Jill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Carter, Jill\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4330S.02P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SJR87.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4330S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR87.pdf",
@@ -116,25 +212,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SS S offered (Carter)--(4330S.02F)\r\n                    \r\n                        3/24/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=257",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SA 1 to SS S offered & adopted (May)--(4330S02.06S)\r\n                    \r\n                        3/24/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=259",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "3/24/2026 - SA 2 to SS S offered & defeated (Lewis)--(4330S02.05S)\r\n                    \r\n                        3/24/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=261",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=104",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=104",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=104",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=104",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4330S.02P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -142,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

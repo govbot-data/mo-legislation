@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2010",
-  "title": "APPROPRIATIONS BILL",
+  "title": "Appropriates money for the expenses, grants, refunds, and distributions of the Department of Mental Health, the Department of Health and Senior Services, and the Missouri Health Facilities Review Committee",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -129,6 +129,76 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 1, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, HA 9, HA 10, HA 11, HA 12, HA 13, HA 14, HA 15, HA 16, HA 17, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, HA 9, HA 10, HA 11, HA 12 , HA 13, HA 14, HA 15, HA 16, HA 17",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +236,17 @@
       "classification": ""
     },
     {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2010H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment 2010H03.01H (Distributed)",
       "links": [
         {
@@ -188,7 +269,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.03H (Distributed)",
+      "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.03H.pdf",
@@ -199,7 +280,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.04H (Distributed)",
+      "note": "Amendment HA 13 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.04H.pdf",
@@ -210,7 +291,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.05H (Distributed)",
+      "note": "Amendment HA 19 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.05H.pdf",
@@ -221,7 +302,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.06H (Distributed)",
+      "note": "Amendment HA 18 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.06H.pdf",
@@ -232,7 +313,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.07H (Distributed)",
+      "note": "Amendment HA 2 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.07H.pdf",
@@ -243,7 +324,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.08H (Distributed)",
+      "note": "Amendment HA 3 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.08H.pdf",
@@ -254,7 +335,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.09H (Distributed)",
+      "note": "Amendment HA 21 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.09H.pdf",
@@ -265,7 +346,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.10H (Distributed)",
+      "note": "Amendment HA 4 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.10H.pdf",
@@ -287,7 +368,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.14H (Distributed)",
+      "note": "Amendment HA 22 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.14H.pdf",
@@ -309,7 +390,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.16H (Distributed)",
+      "note": "Amendment HA 5 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.16H.pdf",
@@ -320,7 +401,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.17H (Distributed)",
+      "note": "Amendment HA 17 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.17H.pdf",
@@ -331,7 +412,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.18H (Distributed)",
+      "note": "Amendment HA 15 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.18H.pdf",
@@ -342,7 +423,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.19H (Distributed)",
+      "note": "Amendment HA 6 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.19H.pdf",
@@ -353,7 +434,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.20H (Distributed)",
+      "note": "Amendment HA 7 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.20H.pdf",
@@ -364,7 +445,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.21H (Distributed)",
+      "note": "Amendment HA 8 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.21H.pdf",
@@ -375,7 +456,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.22H (Distributed)",
+      "note": "Amendment HA 9 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.22H.pdf",
@@ -397,7 +478,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.24H (Distributed)",
+      "note": "Amendment HA 14 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.24H.pdf",
@@ -408,7 +489,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.25H (Distributed)",
+      "note": "Amendment HA 10 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.25H.pdf",
@@ -419,7 +500,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.26H (Distributed)",
+      "note": "Amendment HA 11 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.26H.pdf",
@@ -430,7 +511,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.27H (Distributed)",
+      "note": "Amendment HA 12 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.27H.pdf",
@@ -441,7 +522,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.28H (Distributed)",
+      "note": "Amendment HA 16 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.28H.pdf",
@@ -452,7 +533,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2010H03.29H (Distributed)",
+      "note": "Amendment HA 20 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2010H03.29H.pdf",
@@ -528,6 +609,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

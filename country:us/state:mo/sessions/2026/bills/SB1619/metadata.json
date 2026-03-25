@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1619",
-  "title": "Modifies provisions relating to leaves of absence for members of the National Guard and Armed Forces Reserves",
+  "title": "SB 1619 - Under current law, a public employee that is also a member of the National Guard or any reserve component of the Armed Forces of the United States is entitled to a leave of absence from their duties as a public employee, while engaged in the performance of their duty to the service of the United States. This act extends those same provisions to volunteer firefighters other than provisions relating to monetary compensation.\r\n\r\n\tUnder current law, a public employee who is serving in the Missouri National Guard or an Armed forces reserve component shall be entitled to a leave of absence from their employment duties for a period not to exceed 120 hours in any fiscal year. This act changes that time period to 38 working days in any federal fiscal year.\r\n\r\n\tThis act is identical to HB 2940 (2026).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,41 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to leaves of absence for members of the National Guard and Armed Forces Reserves"
+      "abstract": "SB 1619 - Under current law, a public employee that is also a member of the National Guard or any reserve component of the Armed Forces of the United States is entitled to a leave of absence from their duties as a public employee, while engaged in the performance of their duty to the service of the United States. This act extends those same provisions to volunteer firefighters other than provisions relating to monetary compensation.\r\n\r\n\tUnder current law, a public employee who is serving in the Missouri National Guard or an Armed forces reserve component shall be entitled to a leave of absence from their employment duties for a period not to exceed 120 hours in any fiscal year. This act changes that time period to 38 working days in any federal fiscal year.\r\n\r\n\tThis act is identical to HB 2940 (2026).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to leaves of absence for members of the National Guard and Armed Forces Reserves"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1619"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-02-03T06:00:00+00:00",
+      "description": "Voted Do Pass S Veterans and Military Affairs Committee",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-04T12:54:35Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
@@ -42,30 +61,32 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Veterans and Military Affairs Committee",
-      "date": "2026-02-24T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-02-04T12:54:35Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Nicola",
+      "name": "Nicola, Joe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6920S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1619.pdf",
@@ -80,19 +101,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=3237691",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=3237691",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=3237691",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3237691",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6920S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

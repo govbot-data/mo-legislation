@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2002",
-  "title": "APPROPRIATIONS BILL",
+  "title": "Appropriates money for the expenses, grants, refunds, and distributions of the State Board of Education and Department of Elementary and Secondary Education",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -139,6 +139,116 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 1, HA 2, HA 3, HA 4, HA 5, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 6, HA 7, HA 10, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 13, adopted.",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 14, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3,  HA4, HA 5, HA 6, HA 7, HA 10, HA 13, HA 14",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,7 +286,18 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.03H (Distributed)",
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2002H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 6 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.03H.pdf",
@@ -187,7 +308,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.04H (Distributed)",
+      "note": "Amendment HA 7 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.04H.pdf",
@@ -198,7 +319,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.05H (Distributed)",
+      "note": "Amendment HA 5 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.05H.pdf",
@@ -220,7 +341,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.08H (Distributed)",
+      "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.08H.pdf",
@@ -231,7 +352,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.09H (Distributed)",
+      "note": "Amendment HA 2 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.09H.pdf",
@@ -242,7 +363,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.10H (Distributed)",
+      "note": "Amendment HA 9 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.10H.pdf",
@@ -264,7 +385,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.12H (Distributed)",
+      "note": "Amendment HA 11 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.12H.pdf",
@@ -286,7 +407,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.14H (Distributed)",
+      "note": "Amendment HA 4 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.14H.pdf",
@@ -297,7 +418,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.16H (Distributed)",
+      "note": "Amendment HA 10 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.16H.pdf",
@@ -308,7 +429,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.17H (Distributed)",
+      "note": "Amendment HA 8 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.17H.pdf",
@@ -341,7 +462,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.20H (Distributed)",
+      "note": "Amendment HA 13 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.20H.pdf",
@@ -352,7 +473,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.21H (Distributed)",
+      "note": "Amendment HA 14 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.21H.pdf",
@@ -385,7 +506,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.24H (Distributed)",
+      "note": "Amendment HA 3 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.24H.pdf",
@@ -396,7 +517,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2002H03.25H (Distributed)",
+      "note": "Amendment HA 12 (Withdrawn)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2002H03.25H.pdf",
@@ -443,6 +564,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

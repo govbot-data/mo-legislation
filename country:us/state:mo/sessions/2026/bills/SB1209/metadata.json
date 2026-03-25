@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1209",
-  "title": "Authorizes a tax credit for certain newspaper printing plants",
+  "title": "SB 1209 - For all tax years beginning on or after January 1, 2026, this act authorizes qualifying newspaper printing plants, as defined in the act, to claim a tax credit in an amount equal to fifty percent of the total compensation paid to pressroom and mailroom staff.\r\n\r\n\tTax credits authorized by the act shall be refundable and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $7 million.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly. \r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes a tax credit for certain newspaper printing plants"
+      "abstract": "SB 1209 - For all tax years beginning on or after January 1, 2026, this act authorizes qualifying newspaper printing plants, as defined in the act, to claim a tax credit in an amount equal to fifty percent of the total compensation paid to pressroom and mailroom staff.\r\n\r\n\tTax credits authorized by the act shall be refundable and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $7 million.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly. \r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for certain newspaper printing plants"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1209"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "3836S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1209.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=111",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=111",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=111",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=111",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "3836S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

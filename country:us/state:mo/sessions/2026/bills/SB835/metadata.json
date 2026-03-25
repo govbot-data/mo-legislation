@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 835",
-  "title": "Modifies provisions relating to attachment, execution, and garnishment in civil proceedings",
+  "title": "SCS/SB 835 & 1111 - This act modifies provisions relating to attachment, execution, and garnishments.\r\n\r\n\tUnder current law, whenever an execution against the property of any judgment debtor shall be returned unsatisfied, within five years of the return, the judgment creditor may be entitled to an order by the court rendering such judgment, requiring the judgment debtor to undergo an examination on the ability and means to satisfy the judgment, and in the case of neglect or refusal, issuing a writ of attachment and punishing the judgment debtor for contempt. This act instead provides a judgment creditor shall, upon motion made at any time before the judgment is satisfied of record and presumed paid, be entitled to such orders. \r\n\r\n\tAdditionally, under current law, a judgment debtor may be granted immunity from prosecution by any prosecuting or circuit attorney for statements made at a judgment debtor's examination. This act instead provides that a judgment debtor shall enjoy full use and derivative immunity and that no testimony in an examination may be used against a witness, except in cases of perjury or for giving false statements.\r\n\r\n\tThis act changes the maximum value, adjusted annually for inflation, of certain items that are exempt from attachment and execution, including household items, wedding rings and other jewelry, motor vehicles, and mobile homes. This act also modifies the homestead exemption from $15,000 to the aggregate value of $40,000. \r\n\r\n\tThis act provides that the maximum value for the property that is exempted from attachment and execution and the amount of a homestead exemption shall be adjusted by the Revisor of Statutes every three years beginning April 1, 2029. \r\n\r\n\tThis act outlines orders of garnishment issued for the purpose of attaching to account funds held by a financial institution, as such term is defined in the act. Such orders shall attach on the date of service, provided that the effective date of service is a banking day and made prior to the business cutoff time, in which case it shall attach the next business day. If an account receives electronic deposits for exempted funds, the attachment date shall be the date and banking day that the financial institution applies for the look back analysis. Additionally, where there are two or more accounts, the amount may be withheld from any of the accounts identified in the order and attachment dates between the accounts may be different depending on the look back analysis. \r\n\r\n\tIf the account is held in joint tenancy with an individual not subject to the order of garnishment, the entire amount shall be withheld and the garnishee shall provide a copy of the order of garnishment to each account holder within 2 days. Within 30 days of the date of the attachment of the garnishment, each account holder may file an objection or request of exemption of all or a portion of the account with the issuing court and serve their objection or request on the garnishor and the garnishee. If such objection or request is not resolved within 30 days, the garnishee may pay the garnished funds to the circuit court to be held for pending resolution. Furthermore, the garnishee shall not be liable to the joint owners if the funds are later proven to be not of the judgment debtors.\r\n\r\n\tThe return date for orders of garnishment shall not be less than 30 days from the effective date of service. This act also provides certain information to be included in orders of garnishment for funds held by financial institutions.\r\n\r\n\tNo party shall seek a garnishment of account funds held by a financial institution unless there is a good-faith belief that the party to be served with the garnishment has, or will have, account assets of the judgment debtor. No more than one garnishment for the same claim and against the same judgment debtor shall be issued within any 30-day period, unless exempted by court order as detailed in the act. \r\n\r\n\tFurthermore, a financial institution does not have a duty to investigate or assert the defenses of a judgment debtor. A financial institution served with an order of garnishment and interrogatories shall answer within 20 days and shall release funds to the judgment debtor 60 days after an answer is submitted or sooner if required under an order to pay or paid into the court. A financial institution is not required to respond to interrogatories not related to account funds.\r\n\r\n\tThis act does not apply to wage garnishments or garnishments of property other than account funds. Garnishees are also not required to search for, hold, or return wages or other property. \r\n\r\n\tThe provisions relating to orders of garnishment of account funds held by financial institutions shall be implemented and administered in accordance with rules of the Supreme Court of Missouri.\r\n\r\n\tThe provisions of this act relating to orders of garnishment for funds held by financial institutions shall be effective on January 1, 2028, while the provisions of this act relating to the attachment and execution are effective January 1, 2027.\r\n\r\n\tThis act is similar to HCS/HB 1870 (2026), HB 275 (2025), and HB 1657 (2024).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,31 +10,59 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to attachment, execution, and garnishment in civil proceedings"
+      "abstract": "SCS/SB 835 & 1111 - This act modifies provisions relating to attachment, execution, and garnishments.\r\n\r\n\tUnder current law, whenever an execution against the property of any judgment debtor shall be returned unsatisfied, within five years of the return, the judgment creditor may be entitled to an order by the court rendering such judgment, requiring the judgment debtor to undergo an examination on the ability and means to satisfy the judgment, and in the case of neglect or refusal, issuing a writ of attachment and punishing the judgment debtor for contempt. This act instead provides a judgment creditor shall, upon motion made at any time before the judgment is satisfied of record and presumed paid, be entitled to such orders. \r\n\r\n\tAdditionally, under current law, a judgment debtor may be granted immunity from prosecution by any prosecuting or circuit attorney for statements made at a judgment debtor's examination. This act instead provides that a judgment debtor shall enjoy full use and derivative immunity and that no testimony in an examination may be used against a witness, except in cases of perjury or for giving false statements.\r\n\r\n\tThis act changes the maximum value, adjusted annually for inflation, of certain items that are exempt from attachment and execution, including household items, wedding rings and other jewelry, motor vehicles, and mobile homes. This act also modifies the homestead exemption from $15,000 to the aggregate value of $40,000. \r\n\r\n\tThis act provides that the maximum value for the property that is exempted from attachment and execution and the amount of a homestead exemption shall be adjusted by the Revisor of Statutes every three years beginning April 1, 2029. \r\n\r\n\tThis act outlines orders of garnishment issued for the purpose of attaching to account funds held by a financial institution, as such term is defined in the act. Such orders shall attach on the date of service, provided that the effective date of service is a banking day and made prior to the business cutoff time, in which case it shall attach the next business day. If an account receives electronic deposits for exempted funds, the attachment date shall be the date and banking day that the financial institution applies for the look back analysis. Additionally, where there are two or more accounts, the amount may be withheld from any of the accounts identified in the order and attachment dates between the accounts may be different depending on the look back analysis. \r\n\r\n\tIf the account is held in joint tenancy with an individual not subject to the order of garnishment, the entire amount shall be withheld and the garnishee shall provide a copy of the order of garnishment to each account holder within 2 days. Within 30 days of the date of the attachment of the garnishment, each account holder may file an objection or request of exemption of all or a portion of the account with the issuing court and serve their objection or request on the garnishor and the garnishee. If such objection or request is not resolved within 30 days, the garnishee may pay the garnished funds to the circuit court to be held for pending resolution. Furthermore, the garnishee shall not be liable to the joint owners if the funds are later proven to be not of the judgment debtors.\r\n\r\n\tThe return date for orders of garnishment shall not be less than 30 days from the effective date of service. This act also provides certain information to be included in orders of garnishment for funds held by financial institutions.\r\n\r\n\tNo party shall seek a garnishment of account funds held by a financial institution unless there is a good-faith belief that the party to be served with the garnishment has, or will have, account assets of the judgment debtor. No more than one garnishment for the same claim and against the same judgment debtor shall be issued within any 30-day period, unless exempted by court order as detailed in the act. \r\n\r\n\tFurthermore, a financial institution does not have a duty to investigate or assert the defenses of a judgment debtor. A financial institution served with an order of garnishment and interrogatories shall answer within 20 days and shall release funds to the judgment debtor 60 days after an answer is submitted or sooner if required under an order to pay or paid into the court. A financial institution is not required to respond to interrogatories not related to account funds.\r\n\r\n\tThis act does not apply to wage garnishments or garnishments of property other than account funds. Garnishees are also not required to search for, hold, or return wages or other property. \r\n\r\n\tThe provisions relating to orders of garnishment of account funds held by financial institutions shall be implemented and administered in accordance with rules of the Supreme Court of Missouri.\r\n\r\n\tThe provisions of this act relating to orders of garnishment for funds held by financial institutions shall be effective on January 1, 2028, while the provisions of this act relating to the attachment and execution are effective January 1, 2027.\r\n\r\n\tThis act is similar to HCS/HB 1870 (2026), HB 275 (2025), and HB 1657 (2024).\r\nKATIE O'BRIEN"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SS SCS SBs 835 & 1111"
+      "title": "Modifies provisions relating to attachment, execution, and garnishment in civil proceedings"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb835"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Hearing Scheduled H Financial Institutions--(12:00 p.m. or Upon Morning Recess - HR 1)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Referred H Financial Institutions",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "H Second Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
@@ -44,12 +72,12 @@
       }
     },
     {
-      "description": "Second Read and Referred S Insurance and Banking Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "S Third Read and Passed",
+      "date": "2026-02-19T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
-        "referral-committee"
+        "passage",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
@@ -57,49 +85,7 @@
       }
     },
     {
-      "description": "Hearing Cancelled S Insurance and Banking Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Insurance and Banking Committee",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass (w/SCS SBs 835 & 1111) Insurance and Banking Committee (5285S.04C)",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Reported from S Insurance and Banking Committee w/SCS",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "SS for SCS S offered (Crawford)--(5285S.05F)",
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -109,7 +95,7 @@
       }
     },
     {
-      "description": "SA 1 to SS for SCS S offered & adopted  (Webber)--(5285S05.03S)",
+      "description": "Perfected",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -131,7 +117,7 @@
       }
     },
     {
-      "description": "Perfected",
+      "description": "SA 1 to SS for SCS S offered & adopted  (Webber)--(5285S05.03S)",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -141,7 +127,7 @@
       }
     },
     {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "description": "SS for SCS S offered (Crawford)--(5285S.05F)",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -151,12 +137,21 @@
       }
     },
     {
-      "description": "S Third Read and Passed",
-      "date": "2026-02-19T06:00:00+00:00",
+      "description": "Reported from S Insurance and Banking Committee w/SCS",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 835 & 1111) Insurance and Banking Committee (5285S.04C)",
+      "date": "2026-02-10T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage",
-        "reading-3"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -164,9 +159,42 @@
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-02-19T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
@@ -176,24 +204,10 @@
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Referred H Financial Institutions",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
@@ -202,40 +216,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Crawford",
+      "name": "Crawford, Sandy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crawford\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Crawford, Sandy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB835.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Senate Committee Substitute",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB835.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
+      "note": "5285S.05P - Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB835.pdf",
@@ -246,45 +238,61 @@
       "classification": ""
     },
     {
-      "note": "5285S.05F - SS SCS\u00a0Adopted, as amended",
+      "note": "5285S.04C - Senate Committee Substitute",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=99",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB835.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
     },
     {
-      "note": "5285S05.03S - SA 1 SS SCS\u00a0Adopted",
+      "note": "5285S.02I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=102",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB835.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "2/18/2026 - SS for SCS S offered (Crawford)--(5285S.05F)\r\n                    \r\n                        2/18/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=99",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/18/2026 - SA 1 to SS for SCS S offered & adopted  (Webber)--(5285S05.03S)\r\n                    \r\n                        2/18/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=102",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=417",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=417",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=417",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=417",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5285S.05P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -292,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

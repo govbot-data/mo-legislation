@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1233",
-  "title": "Modifies provisions relating to licensing of certain professionals",
+  "title": "SS#2/SB 1233 - This act modifies provisions relating to the licensing of certain professionals.\r\n\r\nACCOUNTANTS (SECTIONS 326.256 TO 326.292)\r\nThis act modifies the requirements for licensing of accountants. This act provides that an applicant for examination shall provide proof that the applicant has obtained a baccalaureate degree or a post-baccalaureate degree, instead of proof of completion of at least 120 semester hours of college education.\r\n\r\n\tAdditionally, for licensure, the applicant shall either hold a baccalaureate degree, a baccalaureate degree and 30 additional semester hours of college education, or a post-baccalaureate degree from an accredited college or university recognized by the Missouri State Board of Accountancy (\"Board\") with the total educational program including a Board-appropriate accounting concentration or equivalent. If the applicant has a baccalaureate degree, the applicant shall have two years of experience. If the applicant has a baccalaureate degree and 30 additional semester hours of college education or a post-baccalaureate degree, the applicant shall have at least one year of experience.\r\n\r\n\tThis act also repeals the eligibility for examination if the applicant expects to meet the educational requirements within 60 days.\r\n\r\n\tThis act changes the educational and examination requirements for reciprocity of those individuals whose principal place of business, domicile, or residency is not in this state and who hold a valid and unrestricted public accounting license in another state. Current law provides that such non-Missouri individuals shall have all the privileges of licensees without the need to obtain a license, notify or register with the Board, or pay a fee if the license has been determined by the Board to be in substantial equivalence with the Missouri licensure requirements or if the individual's qualifications are substantially equivalent to Missouri licensure requirements. This act provides that a non-Missouri individual, whose license is in good standing, shall have all the privileges of a licensee without the need to obtain a license, notify or register with the Board, or pay a fee if the individual was required to show proof of passage of the Uniform Certified Public Accountant Examination and the educational and experience requirements of Missouri licensees. Additionally, non-Missouri individuals, whose licenses are in good standing to practice public accountancy from any state as of December 31, 2024, and who has practice privileges in this state as of December 31, 2024, shall continue to have such privileges.\r\n\r\n\tRather than receiving verification on substantial equivalence of an individual's qualifications from the NASBA National Qualification Appraisal Service, the Board may license a person whose qualifications the Board verifies to be comparable to the Missouri licensure requirements.\r\n\r\n\tSole practitioners or single member LLCs that use \"certified public accountant,\" \"CPA,\" or other abbreviations, but that do not offer nor perform attest services or other services subject to peer review may request exemption from the Board for the firm permit requirements.\r\n\r\n\tThis act provides that the rules regarding peer review shall include reasonable provision for compliance by a firm showing that it has undergone a peer review that is comparable, rather than satisfactory equivalent, to peer review generally required under current law within three years. Lastly, the Board may charge a fee for oversight of peer reviews, provided that the fee charged shall be comparable, rather than substantially equivalent, to the cost of oversight.\r\n\r\n\tThese provisions are identical to provisions in the perfected HCS/HB 1797 (2026).\r\n\r\nSOCIAL WORK SUPERVISORS (SECTION 337.600)\r\n\tThis act modifies the definitions of a \"qualified advanced macro supervisor,\" \"qualified baccalaureate supervisor,\" and \"qualified clinical supervisor\" to provide that such person is a licensed social worker who has practiced social work for which he or she is supervising the applicant for a minimum of three, instead of five, years.\r\n\r\n\tThis provision is identical to SB 1092 (2026), SB 1417 (2026), HB 1963 (2026), SB 479 (2025), and SB 563 (2025) and is substantially similar to HB 886 (2025).\r\n\r\nSPEECH PATHOLOGISTS AND AUDIOLOGISTS (SECTION 345.050)\r\n\tThis act modifies the requirements for licensure as a speech pathologist or audiologist by providing for completion of a clinical fellowship under the direct supervision of a licensed speech-language pathologist in good standing, rather than under the direct supervision of a person licensed by the state of Missouri in the profession in which the applicant seeks to be licensed.\r\n\r\n\tThis provision is identical to a provision in SB 1405 (2026), HCS/HB 2372 (2026), in HCS/SS/SB 7 (2025), in the perfected SS/SB 61 (2025), in the perfected HCS/HB 268 (2025), SB 431 (2025), in the perfected HB 478 (2025), in HB 765 (2025), and in SCS/HB 834 (2025), and is substantially similar to the perfected HB 2591 (2026).\r\n\r\nSEVERABILITY (SECTION 1)\r\n\tIn the event that any section, provision, clause, phrase, or word of this act or the application of the act is declared invalid under the Constitution of the United States or the Constitution of the State of Missouri, the General Assembly intends for the severability of this act.\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,138 +10,180 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to licensing of certain professionals"
+      "abstract": "SS#2/SB 1233 - This act modifies provisions relating to the licensing of certain professionals.\r\n\r\nACCOUNTANTS (SECTIONS 326.256 TO 326.292)\r\nThis act modifies the requirements for licensing of accountants. This act provides that an applicant for examination shall provide proof that the applicant has obtained a baccalaureate degree or a post-baccalaureate degree, instead of proof of completion of at least 120 semester hours of college education.\r\n\r\n\tAdditionally, for licensure, the applicant shall either hold a baccalaureate degree, a baccalaureate degree and 30 additional semester hours of college education, or a post-baccalaureate degree from an accredited college or university recognized by the Missouri State Board of Accountancy (\"Board\") with the total educational program including a Board-appropriate accounting concentration or equivalent. If the applicant has a baccalaureate degree, the applicant shall have two years of experience. If the applicant has a baccalaureate degree and 30 additional semester hours of college education or a post-baccalaureate degree, the applicant shall have at least one year of experience.\r\n\r\n\tThis act also repeals the eligibility for examination if the applicant expects to meet the educational requirements within 60 days.\r\n\r\n\tThis act changes the educational and examination requirements for reciprocity of those individuals whose principal place of business, domicile, or residency is not in this state and who hold a valid and unrestricted public accounting license in another state. Current law provides that such non-Missouri individuals shall have all the privileges of licensees without the need to obtain a license, notify or register with the Board, or pay a fee if the license has been determined by the Board to be in substantial equivalence with the Missouri licensure requirements or if the individual's qualifications are substantially equivalent to Missouri licensure requirements. This act provides that a non-Missouri individual, whose license is in good standing, shall have all the privileges of a licensee without the need to obtain a license, notify or register with the Board, or pay a fee if the individual was required to show proof of passage of the Uniform Certified Public Accountant Examination and the educational and experience requirements of Missouri licensees. Additionally, non-Missouri individuals, whose licenses are in good standing to practice public accountancy from any state as of December 31, 2024, and who has practice privileges in this state as of December 31, 2024, shall continue to have such privileges.\r\n\r\n\tRather than receiving verification on substantial equivalence of an individual's qualifications from the NASBA National Qualification Appraisal Service, the Board may license a person whose qualifications the Board verifies to be comparable to the Missouri licensure requirements.\r\n\r\n\tSole practitioners or single member LLCs that use \"certified public accountant,\" \"CPA,\" or other abbreviations, but that do not offer nor perform attest services or other services subject to peer review may request exemption from the Board for the firm permit requirements.\r\n\r\n\tThis act provides that the rules regarding peer review shall include reasonable provision for compliance by a firm showing that it has undergone a peer review that is comparable, rather than satisfactory equivalent, to peer review generally required under current law within three years. Lastly, the Board may charge a fee for oversight of peer reviews, provided that the fee charged shall be comparable, rather than substantially equivalent, to the cost of oversight.\r\n\r\n\tThese provisions are identical to provisions in the perfected HCS/HB 1797 (2026).\r\n\r\nSOCIAL WORK SUPERVISORS (SECTION 337.600)\r\n\tThis act modifies the definitions of a \"qualified advanced macro supervisor,\" \"qualified baccalaureate supervisor,\" and \"qualified clinical supervisor\" to provide that such person is a licensed social worker who has practiced social work for which he or she is supervising the applicant for a minimum of three, instead of five, years.\r\n\r\n\tThis provision is identical to SB 1092 (2026), SB 1417 (2026), HB 1963 (2026), SB 479 (2025), and SB 563 (2025) and is substantially similar to HB 886 (2025).\r\n\r\nSPEECH PATHOLOGISTS AND AUDIOLOGISTS (SECTION 345.050)\r\n\tThis act modifies the requirements for licensure as a speech pathologist or audiologist by providing for completion of a clinical fellowship under the direct supervision of a licensed speech-language pathologist in good standing, rather than under the direct supervision of a person licensed by the state of Missouri in the profession in which the applicant seeks to be licensed.\r\n\r\n\tThis provision is identical to a provision in SB 1405 (2026), HCS/HB 2372 (2026), in HCS/SS/SB 7 (2025), in the perfected SS/SB 61 (2025), in the perfected HCS/HB 268 (2025), SB 431 (2025), in the perfected HB 478 (2025), in HB 765 (2025), and in SCS/HB 834 (2025), and is substantially similar to the perfected HB 2591 (2026).\r\n\r\nSEVERABILITY (SECTION 1)\r\n\tIn the event that any section, provision, clause, phrase, or word of this act or the application of the act is declared invalid under the Constitution of the United States or the Constitution of the State of Missouri, the General Assembly intends for the severability of this act.\r\nKATIE O'BRIEN"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SS#2 SB 1233"
+      "title": "Modifies provisions relating to licensing of certain professionals"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1233"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "HCS Reported Do Pass H Professional Registration and Licensing",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "Reported from S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-12T06:00:00+00:00",
+      "description": "HCS Voted Do Pass H Professional Registration and Licensing",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Professional Registration and Licensing",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:41:45Z"
+      }
+    },
+    {
+      "description": "Referred H Professional Registration and Licensing",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:54:05Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:54:05Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Reported Truly Re-Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-13T12:54:33Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
-      "description": "SS S offered (Trent)--(5607S.02F)",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "Re-Perfected",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
-      "description": "SA 1 to SS S offered & defeated (McCreery)--(5607S02.01S)",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "SS#2 S offered & adopted (Trent)--(5607S.03F)",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
-      "description": "SA 2 to SS S offered (Moon)--(5607S02.04S)",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "SS S withdrawn",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
-      "description": "SA 1 to SA 2 to SS S offered & adopted (Beck)--(5607S02.08S)",
-      "date": "2026-02-18T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
-      }
-    },
-    {
-      "description": "SA 2 to SS, as amended, S adopted",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "Motion to reconsider the adoption vote for SS S adopted (Trent)",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
-      "description": "SA 3 to SS S offered & defeated  (Washington)--(5607S02.02S)",
+      "description": "Motion to reconsider Perfection Vote S adopted (Trent)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Perfected",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -163,7 +205,7 @@
       }
     },
     {
-      "description": "Perfected",
+      "description": "SA 3 to SS S offered & defeated  (Washington)--(5607S02.02S)",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -173,185 +215,139 @@
       }
     },
     {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-19T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
-      }
-    },
-    {
-      "description": "Motion to reconsider Perfection Vote S adopted (Trent)",
-      "date": "2026-02-23T06:00:00+00:00",
+      "description": "SA 2 to SS, as amended, S adopted",
+      "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
+        "log_file_created": "2026-02-19T13:00:35Z"
       }
     },
     {
-      "description": "Motion to reconsider the adoption vote for SS S adopted (Trent)",
-      "date": "2026-02-23T06:00:00+00:00",
+      "description": "SA 1 to SA 2 to SS S offered & adopted (Beck)--(5607S02.08S)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS S offered (Moon)--(5607S02.04S)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS S offered & defeated (McCreery)--(5607S02.01S)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "SS S offered (Trent)--(5607S.02F)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "Reported from S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:54:33Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-10T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
+        "log_file_created": "2026-02-11T13:04:38Z"
       }
     },
     {
-      "description": "SS S withdrawn",
-      "date": "2026-02-23T06:00:00+00:00",
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
+        "log_file_created": "2026-02-11T13:04:38Z"
       }
     },
     {
-      "description": "SS#2 S offered & adopted (Trent)--(5607S.03F)",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Re-Perfected",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Reported Truly Re-Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "S Third Read and Passed",
-      "date": "2026-02-26T06:00:00+00:00",
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-27T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage",
-        "reading-3"
+        "reading-2",
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-02-26T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-02-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-02T12:54:05Z"
-      }
-    },
-    {
-      "description": "Referred H Professional Registration and Licensing",
-      "date": "2026-02-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-02T12:54:05Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted H Professional Registration and Licensing",
-      "date": "2026-03-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
-      }
-    },
-    {
-      "description": "Executive Session Scheduled H Professional Registration and Licensing--(8:00 a.m. - HR 7)",
-      "date": "2026-03-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Trent",
+      "name": "Trent, Curtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trent\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1233.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1233.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Re-Perfected",
+      "note": "5607S.03R - Re-Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/reperf/SB1233.pdf",
@@ -362,56 +358,106 @@
       "classification": ""
     },
     {
-      "note": "5607S02.04S - SA 2 SS\u00a0Adopted, as amended",
+      "note": "5607S.02P - Perfected",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=107",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1233.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
     },
     {
-      "note": "5607S02.08S - SA1 SA 2 SS\u00a0Adopted",
+      "note": "5607S.01I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=109",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1233.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
     },
     {
-      "note": "5607S.03F - SS 2  SB\u00a0Adopted",
+      "note": "2/18/2026 - SA 2 to SS S offered (Moon)--(5607S02.04S)\r\n                    \r\n                        2/18/2026 - Adopted, as amended",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=113",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=107",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "2/18/2026 - SA 1 to SA 2 to SS S offered & adopted (Beck)--(5607S02.08S)\r\n                    \r\n                        2/18/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=109",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/23/2026 - SS#2 S offered & adopted (Trent)--(5607S.03F)\r\n                    \r\n                        2/23/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=113",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2/18/2026 - SS S offered (Trent)--(5607S.02F)\r\n                    \r\n                        2/23/2026 - Withdrawn",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=103",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/18/2026 - SA 1 to SS S offered & defeated (McCreery)--(5607S02.01S)\r\n                    \r\n                        2/18/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=106",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/18/2026 - SA 3 to SS S offered & defeated  (Washington)--(5607S02.02S)\r\n                    \r\n                        2/18/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=110",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=440",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=440",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=440",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=440",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5607H.07C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -419,6 +465,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

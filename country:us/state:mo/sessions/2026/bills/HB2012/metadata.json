@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2012",
-  "title": "APPROPRIATIONS BILL",
+  "title": "Appropriates money for the expenses, grants, refunds, and distributions of statewide elected officials, the Judiciary, the Office of the State Public Defender, and the General Assembly",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -129,6 +129,56 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) -  HA 9, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 9",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +209,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2012H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2012H.03P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -199,7 +260,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.04H (Distributed)",
+      "note": "Amendment HA 11 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.04H.pdf",
@@ -254,7 +315,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.10H (Distributed)",
+      "note": "Amendment HA 10 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.10H.pdf",
@@ -276,7 +337,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.12H (Distributed)",
+      "note": "Amendment HA 1 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.12H.pdf",
@@ -287,7 +348,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.13H (Distributed)",
+      "note": "Amendment HA 2 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.13H.pdf",
@@ -298,7 +359,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.14H (Distributed)",
+      "note": "Amendment HA 4 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.14H.pdf",
@@ -309,7 +370,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.15H (Distributed)",
+      "note": "Amendment HA 5 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.15H.pdf",
@@ -331,7 +392,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.17H (Distributed)",
+      "note": "Amendment HA 3 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.17H.pdf",
@@ -342,7 +403,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.19H (Distributed)",
+      "note": "Amendment HA 9 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.19H.pdf",
@@ -353,7 +414,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.20H (Distributed)",
+      "note": "Amendment HA 6 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.20H.pdf",
@@ -364,7 +425,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.21H (Distributed)",
+      "note": "Amendment HA 7 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.21H.pdf",
@@ -419,7 +480,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2012H03.26H (Distributed)",
+      "note": "Amendment HA 8 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2012H03.26H.pdf",
@@ -462,6 +523,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

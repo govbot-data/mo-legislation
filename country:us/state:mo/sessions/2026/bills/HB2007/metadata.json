@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2007",
-  "title": "APPROPRIATIONS BILL",
+  "title": "Appropriates money for the expenses, grants, refunds, and distributions of the Department of Economic Development, the Department of Commerce and Insurance, and the Department of Labor and Industrial Relations",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -129,6 +129,76 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 1, HA 2, HA 3, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Laid Over (H) - HA 6, adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 6",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,6 +236,17 @@
       "classification": ""
     },
     {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2007H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment 2007H03.01H (Distributed)",
       "links": [
         {
@@ -177,7 +258,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.03H (Distributed)",
+      "note": "Amendment HA 4 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.03H.pdf",
@@ -188,7 +269,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.04H (Distributed)",
+      "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.04H.pdf",
@@ -199,7 +280,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.05H (Distributed)",
+      "note": "Amendment HA 2 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.05H.pdf",
@@ -243,7 +324,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.09H (Distributed)",
+      "note": "Amendment HA 6 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.09H.pdf",
@@ -254,7 +335,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.10H (Distributed)",
+      "note": "Amendment HA 3 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.10H.pdf",
@@ -265,7 +346,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment 2007H03.11H (Distributed)",
+      "note": "Amendment HA 5 (Defeated)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/2007H03.11H.pdf",
@@ -330,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

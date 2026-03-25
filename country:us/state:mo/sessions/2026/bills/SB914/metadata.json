@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 914",
-  "title": "Modifies provisions relating to sewage regulation",
+  "title": "SS/SB 914 - This act modifies provisions relating to sewage regulation. \r\n\r\n\tThe act repeals a provision stating that a state standard for the location, size of sewage tanks and length of lateral lines is based on the percolation or permeability rate of the soil. Under the act, the state standard is based on soil properties.\r\n\r\n\tThe act repeals a provision stating that soil tests are to be performed by persons who are qualified to perform the percolation tests and creates a new provision authorizing on-site soil evaluators registered by the Department of Health and Senior Services to conduct soils morphology evaluations.\r\n\r\n\tThis act repeals a provision stating that contractors may be taught and allowed to perform percolation tests.\r\n\r\n\tThe act repeals a provision relating to the Department of Health and Senior Services periodically reviewing any county and city regulation and enforcement record to ensure that the state standard for sewage regulation is being enforced.\r\n\r\n\tThe act creates a mandatory registration program requiring continuing education before January 1, 2027, for on-site wastewater treatment system professionals qualified to perform percolation tests in accordance with the state standard as described in the act. Before January 1, 2027, the administrative authority may accept a percolation test at its own discretion if a soil morphology evaluation cannot be reasonably obtained. This provision shall be void and of no effect after December 31, 2026.\r\n\r\n\tUnder the act, any person who intends to construct or make major modifications or repairs to an on-site sewage disposal system must submit an application fee and obtain a construction permit.\r\n\r\n\tThe act repeals certain provisions relating to fees for repair of on-site sewage disposal systems. \r\n\r\n\tUnder the act, the Department shall promulgate regulations establishing the conditions and requirements for the construction permit application, including the collection of reasonable fees set at a level to produce revenue not exceeding the cost and expense of administering the provisions under the act.\r\n\r\n\tThe act is substantially similar to SB 601 (2025), a provision in the perfected HB 200 (2025), a provision in HCS/SS/SB 61 (2025), HB 2083 (2024), HB 814 (2023), and substantially similar to SB 1283 (2024), and SB 523 (2023).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,21 +10,35 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to sewage regulation"
+      "abstract": "SS/SB 914 - This act modifies provisions relating to sewage regulation. \r\n\r\n\tThe act repeals a provision stating that a state standard for the location, size of sewage tanks and length of lateral lines is based on the percolation or permeability rate of the soil. Under the act, the state standard is based on soil properties.\r\n\r\n\tThe act repeals a provision stating that soil tests are to be performed by persons who are qualified to perform the percolation tests and creates a new provision authorizing on-site soil evaluators registered by the Department of Health and Senior Services to conduct soils morphology evaluations.\r\n\r\n\tThis act repeals a provision stating that contractors may be taught and allowed to perform percolation tests.\r\n\r\n\tThe act repeals a provision relating to the Department of Health and Senior Services periodically reviewing any county and city regulation and enforcement record to ensure that the state standard for sewage regulation is being enforced.\r\n\r\n\tThe act creates a mandatory registration program requiring continuing education before January 1, 2027, for on-site wastewater treatment system professionals qualified to perform percolation tests in accordance with the state standard as described in the act. Before January 1, 2027, the administrative authority may accept a percolation test at its own discretion if a soil morphology evaluation cannot be reasonably obtained. This provision shall be void and of no effect after December 31, 2026.\r\n\r\n\tUnder the act, any person who intends to construct or make major modifications or repairs to an on-site sewage disposal system must submit an application fee and obtain a construction permit.\r\n\r\n\tThe act repeals certain provisions relating to fees for repair of on-site sewage disposal systems. \r\n\r\n\tUnder the act, the Department shall promulgate regulations establishing the conditions and requirements for the construction permit application, including the collection of reasonable fees set at a level to produce revenue not exceeding the cost and expense of administering the provisions under the act.\r\n\r\n\tThe act is substantially similar to SB 601 (2025), a provision in the perfected HB 200 (2025), a provision in HCS/SS/SB 61 (2025), HB 2083 (2024), HB 814 (2023), and substantially similar to SB 1283 (2024), and SB 523 (2023).\r\nJULIA SHEVELEVA"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SS SB 914"
+      "title": "Modifies provisions relating to sewage regulation"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb914"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Executive Session Scheduled H Local Government--(8:00 a.m. - HR 5)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Local Government",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -32,9 +46,33 @@
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Referred H Local Government",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-16T13:06:23Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-16T13:06:23Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
@@ -44,12 +82,12 @@
       }
     },
     {
-      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "S Third Read and Passed",
+      "date": "2026-02-12T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
-        "referral-committee"
+        "passage",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
@@ -57,8 +95,38 @@
       }
     },
     {
-      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-01-28T06:00:00+00:00",
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-16T13:06:23Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-16T13:06:23Z"
+      }
+    },
+    {
+      "description": "SS S offered & adopted (Gregory-21)--(5507S.02F)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-16T13:06:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -79,8 +147,8 @@
       }
     },
     {
-      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-02-05T06:00:00+00:00",
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-28T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -89,42 +157,12 @@
       }
     },
     {
-      "description": "SS S offered & adopted (Gregory-21)--(5507S.02F)",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-16T13:06:23Z"
-      }
-    },
-    {
-      "description": "Perfected",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-16T13:06:23Z"
-      }
-    },
-    {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-16T13:06:23Z"
-      }
-    },
-    {
-      "description": "S Third Read and Passed",
-      "date": "2026-02-12T06:00:00+00:00",
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-08T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage",
-        "reading-3"
+        "reading-2",
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
@@ -132,9 +170,9 @@
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
@@ -144,33 +182,9 @@
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-02-16T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-16T13:06:23Z"
-      }
-    },
-    {
-      "description": "Referred H Local Government",
-      "date": "2026-02-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-16T13:06:23Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted H Local Government",
-      "date": "2026-03-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -180,29 +194,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Gregory (21)",
+      "name": "Gregory (21), Kurtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (21)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB914.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
+      "note": "5507S.02P - Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB914.pdf",
@@ -213,34 +216,39 @@
       "classification": ""
     },
     {
-      "note": "5507S.02F - SS\u00a0Adopted",
+      "note": "5507S.01I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=53",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB914.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "2/10/2026 - SS S offered & adopted (Gregory-21)--(5507S.02F)\r\n                    \r\n                        2/10/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=53",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=542",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=542",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=542",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=542",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5507S.02P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -248,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-16T13:06:23Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

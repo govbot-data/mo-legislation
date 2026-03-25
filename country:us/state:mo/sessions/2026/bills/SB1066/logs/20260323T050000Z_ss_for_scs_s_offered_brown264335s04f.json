@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SS for SCS S offered (Brown-26)--(4335S.04F)",
+    "date": "2026-03-23T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1066"
+}

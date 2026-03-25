@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1817",
-  "title": "Requires reporting of the number of individuals receiving public assistance in each city, town, village, municipality, or county over one thousand inhabitants",
+  "title": "Requires reporting of the number of individuals receiving public assistance in each city, town, village, municipality, or county over 1,000 inhabitants",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -20,7 +20,11 @@
       "title": "HCS HB 1817"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1817"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -109,6 +113,18 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:53:07Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,10 +175,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1817C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4784H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4784H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4784H.05C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4784H.05C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -200,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

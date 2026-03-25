@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 945",
-  "title": "Allows the circuit court of St. Louis City to collect a civil case filing fee of an amount not to exceed $20, rather than $15, for certain uses, including the maintenance of a law library",
+  "title": "SB 945 - Currently, any circuit court may collect a civil case filing surcharge of an amount not to exceed $15 for the maintenance of a law library, the county's or circuit's family services and justice fund, or courtroom renovation and technology enhancement. If the circuit court reimburses the state for salaries of family court commissioners or is the circuit court in Jackson County, the surcharge may be up to $20. This act provides that the circuit court in the City of St. Louis may charge a filing surcharge up to $20.\r\n\r\n\tThis act is identical to SB 18 (2025), a provision in HCS/HB 83 (2025), in SCS/HCS/HB 176 (2025), in SB 352 (2025), in SCS/HCS/HB 615 (2025), SB 800 (2025), in HB 1512 (2024), and in SCS/HCS/HB 2064 & HCS#2/HB 1886 (2024), and is substantially similar to a provision in SCS/SB 897 (2024), SB 1023 (2024), CCS/HCS/SS/SCS/SB 72 (2023), SB 252 (2023), HB 787 (2023), in HCS/HB 986 (2023), in the perfected HCS/HBs 994, 52 & 984 (2023), SB 1209 (2022), HB 1963 (2022), HB 143 (2021), HB 1554 (2020), HB 1224 (2019), in the perfected HCS/HB 1083 (2019), HB 1891 (2018), SB 288 (2017), HB 391 (2017), and SB 812 (2016).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,93 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Allows the circuit court of St. Louis City to collect a civil case filing fee of an amount not to exceed $20, rather than $15, for certain uses, including the maintenance of a law library"
+      "abstract": "SB 945 - Currently, any circuit court may collect a civil case filing surcharge of an amount not to exceed $15 for the maintenance of a law library, the county's or circuit's family services and justice fund, or courtroom renovation and technology enhancement. If the circuit court reimburses the state for salaries of family court commissioners or is the circuit court in Jackson County, the surcharge may be up to $20. This act provides that the circuit court in the City of St. Louis may charge a filing surcharge up to $20.\r\n\r\n\tThis act is identical to SB 18 (2025), a provision in HCS/HB 83 (2025), in SCS/HCS/HB 176 (2025), in SB 352 (2025), in SCS/HCS/HB 615 (2025), SB 800 (2025), in HB 1512 (2024), and in SCS/HCS/HB 2064 & HCS#2/HB 1886 (2024), and is substantially similar to a provision in SCS/SB 897 (2024), SB 1023 (2024), CCS/HCS/SS/SCS/SB 72 (2023), SB 252 (2023), HB 787 (2023), in HCS/HB 986 (2023), in the perfected HCS/HBs 994, 52 & 984 (2023), SB 1209 (2022), HB 1963 (2022), HB 143 (2021), HB 1554 (2020), HB 1224 (2019), in the perfected HCS/HB 1083 (2019), HB 1891 (2018), SB 288 (2017), HB 391 (2017), and SB 812 (2016).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Allows the circuit court of St. Louis City to collect a civil case filing fee of an amount not to exceed $20, rather than $15, for certain uses, including the maintenance of a law library"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb945"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-02T12:54:55Z"
@@ -39,75 +115,41 @@
       }
     },
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-02T12:54:55Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-18T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
-      }
-    },
-    {
-      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "May",
+      "name": "May, Karla",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"May\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        May, Karla\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4883S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB945.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4883S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB945.pdf",
@@ -122,19 +164,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=205",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=205",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=205",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=205",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4883S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -142,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

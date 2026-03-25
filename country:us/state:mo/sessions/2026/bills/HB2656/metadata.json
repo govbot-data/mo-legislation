@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2656",
-  "title": "Creates the \"Clear Skies Act\" prohibiting geoengineering, cloud seeding and other atmospheric interventions, and authorizing DNR to investigate violations, and includes penalty provisions",
+  "title": "Creates the \"Clear Skies Act\" prohibiting geoengineering, cloud seeding, and other atmospheric interventions, and authorizing DNR to investigate violations, and includes penalty provisions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -17,7 +17,11 @@
       "title": "HB 2656"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2656"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -50,6 +54,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
       }
+    },
+    {
+      "description": "Referred: Special Committee on Intergovernmental Affairs(H)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +75,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chad Perkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chad Perkins\"}",
       "organization_id": null
     }
   ],
@@ -76,7 +100,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2656I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -96,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }

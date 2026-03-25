@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1421",
-  "title": "Modifies provisions relating to the unlawful use of unmanned aircraft in certain areas",
+  "title": "SS/SB 1421 - This act modifies provisions relating to the unlawful use of unmanned aircraft in certain areas. Under current law, it is a criminal offense to operate an unmanned aircraft over an open-air facility. This act modifies this offense by also making it unlawful to operate an unmanned aircraft within the boundary of any critical infrastructure facility, as defined in the act, or within a vertical distance of four hundred feet from the ground and within the boundary of such facility.\r\n\r\n\tThe definition of \"open-air facility\", as used in this provision, is modified by decreasing the requisite capacity from 5,000 or more people to 500 or more people.\r\n\r\n\tUnder current law, any delivery of a gun, knife, weapon, or other article by an unmanned aircraft over an open-air facility shall be punished as a class B felony. This act adds delivery of any explosive device or material, and adds critical infrastructure as a location where such deliveries are prohibited.\r\n\r\n\tLaw enforcement officers are authorized to take necessary mitigation measures, as described in the act, against an imminent threat posed by an unmanned aircraft system to public safety. This act provides that any unmanned aircraft seized pursuant to this act shall be subject to forfeiture under the criminal activity forfeiture act.\r\n\r\n\tThis act contains an emergency clause.  \r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,105 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to the unlawful use of unmanned aircraft in certain areas"
+      "abstract": "SS/SB 1421 - This act modifies provisions relating to the unlawful use of unmanned aircraft in certain areas. Under current law, it is a criminal offense to operate an unmanned aircraft over an open-air facility. This act modifies this offense by also making it unlawful to operate an unmanned aircraft within the boundary of any critical infrastructure facility, as defined in the act, or within a vertical distance of four hundred feet from the ground and within the boundary of such facility.\r\n\r\n\tThe definition of \"open-air facility\", as used in this provision, is modified by decreasing the requisite capacity from 5,000 or more people to 500 or more people.\r\n\r\n\tUnder current law, any delivery of a gun, knife, weapon, or other article by an unmanned aircraft over an open-air facility shall be punished as a class B felony. This act adds delivery of any explosive device or material, and adds critical infrastructure as a location where such deliveries are prohibited.\r\n\r\n\tLaw enforcement officers are authorized to take necessary mitigation measures, as described in the act, against an imminent threat posed by an unmanned aircraft system to public safety. This act provides that any unmanned aircraft seized pursuant to this act shall be subject to forfeiture under the criminal activity forfeiture act.\r\n\r\n\tThis act contains an emergency clause.  \r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the unlawful use of unmanned aircraft in certain areas"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1421"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-09T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-10T18:54:01Z"
+        "log_file_created": "2026-03-25T13:04:55Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Perfected",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "SS S offered & adopted (Schroer)--(5940S.03F)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-04T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-05T12:55:51Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:55:51Z"
       }
     },
     {
@@ -52,65 +125,67 @@
       }
     },
     {
-      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-25T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:55:51Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-03-04T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "committee-passage"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-05T12:55:51Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
+        "log_file_created": "2025-12-10T18:54:01Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Schroer",
+      "name": "Schroer, Nick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5940S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1421.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5940S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1421.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SS S offered & adopted (Schroer)--(5940S.03F)\r\n                    \r\n                        3/24/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=262",
           "media_type": "application/pdf"
         }
       ],
@@ -122,19 +197,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=8214",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=8214",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=8214",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8214",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5940S.03P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -142,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:38Z"
+    "logs_latest_update": "2026-03-25T13:04:55Z"
   }
 }
