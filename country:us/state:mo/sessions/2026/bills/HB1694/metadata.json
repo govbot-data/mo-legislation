@@ -20,7 +20,11 @@
       "title": "HCS HBs 1694, 1674, 1780, 2056, 2312 & 1755"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1694"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -251,6 +255,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wednesday, March 25, 2026, 12:00 p.m., Senate Committee Room-1st Floor",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
       }
     }
   ],
@@ -486,6 +500,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

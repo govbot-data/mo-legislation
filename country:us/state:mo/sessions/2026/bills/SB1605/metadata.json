@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1605",
-  "title": "Makes 7-hydroxymitragynine in certain amounts a Schedule I controlled substance",
+  "title": "SS/SB 1605 - This act makes 7-hydroxymitragynine (7-OH) in amounts concentrated at a level above 1,000 parts per million on a dry-weight basis a Schedule I controlled substance. \r\n\r\n\tThis provision is substantially similar to HB 1614 (2026).\r\n\r\n\tAdditionally, this act prohibits the preparation, distribution, advertisement, sale, or offering for sale of a kratom product that: (1) is adulterated; (2) is sold to a person under 21 years of age; (3) contains 7-hydroxymitragynine concentrated at a level above 1,000 parts per million on a dry-weight basis; (4) mimics candy or is appealing to children; or (5) is combustible or intended for vaporization.  Kratom products shall contain specified labels that include disclaimers. A person who violates this provision will be deemed to have engaged in an unlawful practice in violation of the state's Merchandising Practices Act.\r\n\r\n\tFinally, it shall be an infraction for a person to sell a kratom product to a person under 21 years of age, as described in the act.\r\n\r\n\tThese provisions are substantially similar to SCS/SB 927 (2026).\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,91 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Makes 7-hydroxymitragynine in certain amounts a Schedule I controlled substance"
+      "abstract": "SS/SB 1605 - This act makes 7-hydroxymitragynine (7-OH) in amounts concentrated at a level above 1,000 parts per million on a dry-weight basis a Schedule I controlled substance. \r\n\r\n\tThis provision is substantially similar to HB 1614 (2026).\r\n\r\n\tAdditionally, this act prohibits the preparation, distribution, advertisement, sale, or offering for sale of a kratom product that: (1) is adulterated; (2) is sold to a person under 21 years of age; (3) contains 7-hydroxymitragynine concentrated at a level above 1,000 parts per million on a dry-weight basis; (4) mimics candy or is appealing to children; or (5) is combustible or intended for vaporization.  Kratom products shall contain specified labels that include disclaimers. A person who violates this provision will be deemed to have engaged in an unlawful practice in violation of the state's Merchandising Practices Act.\r\n\r\n\tFinally, it shall be an infraction for a person to sell a kratom product to a person under 21 years of age, as described in the act.\r\n\r\n\tThese provisions are substantially similar to SCS/SB 927 (2026).\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Makes 7-hydroxymitragynine in certain amounts a Schedule I controlled substance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1605"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-29T06:00:00+00:00",
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "SS S offered (Henderson)--(6874S.02F)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
       }
     },
     {
@@ -42,72 +111,32 @@
       }
     },
     {
-      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-02-17T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-02-23T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "committee-passage"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-02-26T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
-      }
-    },
-    {
-      "description": "Bill Placed on Informal Calendar",
-      "date": "2026-03-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
-      }
-    },
-    {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
+        "log_file_created": "2026-01-30T12:51:06Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Henderson",
+      "name": "Henderson, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henderson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Henderson, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6874S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1605.pdf",
@@ -118,23 +147,29 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "3/25/2026 - SS S offered (Henderson)--(6874S.02F)\r\n                    \r\n                        3/25/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=288",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=2589605",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=2589605",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=2589605",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589605",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6874S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -142,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

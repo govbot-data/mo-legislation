@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1043",
-  "title": "Creates the criminal offense of masked intimidation",
+  "title": "SB 1043 - This act creates the offense of masked intimidation.  A person commits the offense if the person intentionally harasses, intimidates, or threatens any other person or group of persons while hiding or concealing their face with a mask or other article with the intent to place that other person or persons in reasonable fear for their physical safety.  A person who commits this offense shall be guilty of a class E felony for the first offense, a class D felony for the second offense, and a class C felony for any subsequent offense.  Exceptions to the offense are listed in the act.\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,49 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates the criminal offense of masked intimidation"
+      "abstract": "SB 1043 - This act creates the offense of masked intimidation.  A person commits the offense if the person intentionally harasses, intimidates, or threatens any other person or group of persons while hiding or concealing their face with a mask or other article with the intent to place that other person or persons in reasonable fear for their physical safety.  A person who commits this offense shall be guilty of a class E felony for the first offense, a class D felony for the second offense, and a class C felony for any subsequent offense.  Exceptions to the offense are listed in the act.\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the criminal offense of masked intimidation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1043"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Bill Combined w/SCS SBs 1150 & 1043",
+      "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:43:44Z"
@@ -39,43 +71,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-01-15T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-27T12:43:44Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-01-27T12:43:44Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Washington",
+      "name": "Washington, Barbara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Washington\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Washington, Barbara\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5730S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1043.pdf",
@@ -90,19 +109,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=639",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=639",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=639",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=639",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5730S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

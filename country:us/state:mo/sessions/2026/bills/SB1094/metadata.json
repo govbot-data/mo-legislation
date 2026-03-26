@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1094",
-  "title": "Modifies provisions relating to elections",
+  "title": "SCS/SB 1094 - This act modifies provisions relating to elections, specifically provisions governing bond elections and publication of notice for elections.\r\n\r\nIn the case of any bond election, if an election contest is not filed within the time period prescribed by law (not later than thirty days after the official announcement of the election result), then all conditions of state election law shall be deemed to have been complied with in the issuance of the bond.\r\n\r\nThe act modifies the legal notice required for all elections by requiring local election authorities to publish notice twice in at least two qualified newspapers, except as otherwise permitted pursuant to this act, within 6 weeks prior to the election. In lieu of such requirement, election authorities have the option of mailing legal notice to each registered voter within 6 weeks of an election and publishing notice once in at least one newspaper in the county.\r\nSCOTT SVAGERA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,71 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to elections"
+      "abstract": "SCS/SB 1094 - This act modifies provisions relating to elections, specifically provisions governing bond elections and publication of notice for elections.\r\n\r\nIn the case of any bond election, if an election contest is not filed within the time period prescribed by law (not later than thirty days after the official announcement of the election result), then all conditions of state election law shall be deemed to have been complied with in the issuance of the bond.\r\n\r\nThe act modifies the legal notice required for all elections by requiring local election authorities to publish notice twice in at least two qualified newspapers, except as otherwise permitted pursuant to this act, within 6 weeks prior to the election. In lieu of such requirement, election authorities have the option of mailing legal notice to each registered voter within 6 weeks of an election and publishing notice once in at least one newspaper in the county.\r\nSCOTT SVAGERA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to elections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1094"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (4171S.03C)",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-03T12:53:07Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-25T12:38:14Z"
@@ -39,58 +93,33 @@
       }
     },
     {
-      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
-      "date": "2026-01-15T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-25T12:38:14Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
-      "date": "2026-02-23T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (4171S.03C)",
-      "date": "2026-03-02T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
+        "log_file_created": "2026-01-25T12:38:14Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Crawford",
+      "name": "Crawford, Sandy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crawford\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Crawford, Sandy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4171S.03C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1094.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1094.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -98,10 +127,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "4171S.02I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1094.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1094.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -113,19 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=425",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=425",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=425",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=425",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4171S.03C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -133,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:53:07Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

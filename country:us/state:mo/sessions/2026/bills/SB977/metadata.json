@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 977",
-  "title": "Establishes the \"No Shari'a Law\" which prohibits the application and enforceability of foreign law, legal codes, and systems",
+  "title": "SCS/SBs 977 & 1011 - This act provides that certain international organizations or bodies, such as the World Health Organization, the United Nations, and the World Economic Forum, shall have no jurisdiction or power within the state of Missouri. No rule, regulation, policy, or mandate of any kind from such organizations shall be enforced or implemented by any state or local public body.\r\n\r\n\tThis act establishes the \"No Shari'a Act\" which prohibits  the application and enforceability of Shari'a law or any foreign law that denies the parties the fundamental liberties, rights, and privileges guaranteed under the Constitution of the United States or the Constitution of Missouri. Additionally, the act provides that no court shall enforce or apply:\r\n(1)\tA judgment, decree, or arbitration decision if it relies on Shari'a or any foreign law that violates the fundamental rights of any party;\r\n(2)\tA contract or contractual provision choosing Shari'a or foreign law which would result in a violation of fundamental rights; or \r\n(3)\tIn certain family law matters, Shari'a or foreign law if inconsistent with fundamental rights or public policy.\r\n\r\n\tThis act shall not be construed to disapprove or abrogate existing precedent of the Supreme Court of Missouri, to limit adjudication of ecclesiastical matters of a religious organization, to apply to those corporations, partnerships, or associations that voluntarily subject themselves to foreign law or foreign courts, and apply where federal law preempts state law.\r\n\r\n\tAdditionally, this act provides that no state court, arbitration panel, tribunal, or administrative agency shall transfer any civil action if the transfer would result in the application of Shari'a or foreign law prohibited by this act.\r\n\r\n\tThis act is similar to SB 1372 (2026), SB 1456 (2026), HB 2106 (2026), HB 2139 (2026), HB 2175 (2026), HB 2327 (2026), SB 619 (2014), SB 267 (2013), HB 757 (2013), SB 676 (2012), HB 1512 (2012), SB 308 (2011), and SCS/HB 708 (2011).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,29 +10,58 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes the \"No Shari'a Law\" which prohibits the application and enforceability of foreign law, legal codes, and systems"
+      "abstract": "SCS/SBs 977 & 1011 - This act provides that certain international organizations or bodies, such as the World Health Organization, the United Nations, and the World Economic Forum, shall have no jurisdiction or power within the state of Missouri. No rule, regulation, policy, or mandate of any kind from such organizations shall be enforced or implemented by any state or local public body.\r\n\r\n\tThis act establishes the \"No Shari'a Act\" which prohibits  the application and enforceability of Shari'a law or any foreign law that denies the parties the fundamental liberties, rights, and privileges guaranteed under the Constitution of the United States or the Constitution of Missouri. Additionally, the act provides that no court shall enforce or apply:\r\n(1)\tA judgment, decree, or arbitration decision if it relies on Shari'a or any foreign law that violates the fundamental rights of any party;\r\n(2)\tA contract or contractual provision choosing Shari'a or foreign law which would result in a violation of fundamental rights; or \r\n(3)\tIn certain family law matters, Shari'a or foreign law if inconsistent with fundamental rights or public policy.\r\n\r\n\tThis act shall not be construed to disapprove or abrogate existing precedent of the Supreme Court of Missouri, to limit adjudication of ecclesiastical matters of a religious organization, to apply to those corporations, partnerships, or associations that voluntarily subject themselves to foreign law or foreign courts, and apply where federal law preempts state law.\r\n\r\n\tAdditionally, this act provides that no state court, arbitration panel, tribunal, or administrative agency shall transfer any civil action if the transfer would result in the application of Shari'a or foreign law prohibited by this act.\r\n\r\n\tThis act is similar to SB 1372 (2026), SB 1456 (2026), HB 2106 (2026), HB 2139 (2026), HB 2175 (2026), HB 2327 (2026), SB 619 (2014), SB 267 (2013), HB 757 (2013), SB 676 (2012), HB 1512 (2012), SB 308 (2011), and SCS/HB 708 (2011).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"No Shari'a Law\" which prohibits the application and enforceability of foreign law, legal codes, and systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb977"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 977 & 1011) Judiciary and Civil and Criminal Jurisprudence Committee (5434S.02C)",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-14T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
@@ -52,22 +81,22 @@
       }
     },
     {
-      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-01-14T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
       }
     },
     {
-      "description": "SCS Voted Do Pass (w/SCS SBs 977 & 1011) Judiciary and Civil and Criminal Jurisprudence Committee (5434S.02C)",
-      "date": "2026-01-21T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-29T12:53:21Z"
@@ -76,21 +105,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Schroer",
+      "name": "Schroer, Nick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5434S.02C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB977.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB977.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -98,10 +127,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "5434S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB977.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB977.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -113,19 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=327",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=327",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=327",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=327",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5434S.02C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -133,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:53:21Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

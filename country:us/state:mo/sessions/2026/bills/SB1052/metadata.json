@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1052",
-  "title": "Establishes a maximum fee schedule for services performed pursuant to workers' compensation law",
+  "title": "SCS/SB 1052 - Current law provides that all fees and charges for services under the workers' compensation law shall be fair and reasonable, subject to regulation by the Division of Workers' Compensation or the Labor and Industrial Relations Commission. This act creates the Workers' Compensation Fee Schedule Commission, which is delegated the responsibility of establishing by rule a schedule of fees for any service provided pursuant to the workers' compensation law and further requires all fees and charges under such law to be in accordance with the fee schedule. The medical fee schedule shall promote health care cost containment and efficiency, and shall be sufficient to ensure availability of such reasonably necessary treatment, care, and attendance to each injured employee to cure and relieve the employee from the effects of the injury.\r\n\r\n\tThe Commission shall be reconvened not sooner than once every three years to consider adjustments in the fee schedule.  The commission shall produce the initial medical fee schedule not later than January 1, 2027. The initial medical fee schedule shall take effect on July 1, 2028.\r\nSCOTT SVAGERA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,51 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes a maximum fee schedule for services performed pursuant to workers' compensation law"
+      "abstract": "SCS/SB 1052 - Current law provides that all fees and charges for services under the workers' compensation law shall be fair and reasonable, subject to regulation by the Division of Workers' Compensation or the Labor and Industrial Relations Commission. This act creates the Workers' Compensation Fee Schedule Commission, which is delegated the responsibility of establishing by rule a schedule of fees for any service provided pursuant to the workers' compensation law and further requires all fees and charges under such law to be in accordance with the fee schedule. The medical fee schedule shall promote health care cost containment and efficiency, and shall be sufficient to ensure availability of such reasonably necessary treatment, care, and attendance to each injured employee to cure and relieve the employee from the effects of the injury.\r\n\r\n\tThe Commission shall be reconvened not sooner than once every three years to consider adjustments in the fee schedule.  The commission shall produce the initial medical fee schedule not later than January 1, 2027. The initial medical fee schedule shall take effect on July 1, 2028.\r\nSCOTT SVAGERA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes a maximum fee schedule for services performed pursuant to workers' compensation law"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1052"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "SCS Voted Do Pass S General Laws Committee (5741S.02C)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-25T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-01T12:43:34Z"
@@ -39,43 +73,41 @@
       }
     },
     {
-      "description": "Second Read and Referred S General Laws Committee",
-      "date": "2026-01-15T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S General Laws Committee",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-25T12:59:40Z"
+        "log_file_created": "2026-02-01T12:43:34Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Trent",
+      "name": "Trent, Curtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trent\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1052.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5741S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1052.pdf",
@@ -90,19 +122,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=441",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=441",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=441",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=441",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5741S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:59:40Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

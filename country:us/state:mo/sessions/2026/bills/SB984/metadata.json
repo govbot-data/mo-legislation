@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 984",
-  "title": "Modifies provisions relating to pharmacy benefit managers",
+  "title": "SCS/SBs 984 & 968 - This act modifies provisions relating to pharmacy benefit managers.\r\n\r\n\tThis act adds definitions for the terms \"audit\" and \"entity\" for the purposes of audits of licensed pharmacies. Current law requires a one week notice for any on-site audit. This act increases such notice to fourteen days and requires the notice to specify specific prescriptions to be audited. A pharmacy shall have the right to submit amended claims within thirty days of the discovery of an error. Audits shall be limited to forty unique  prescriptions, with a maximum of two hundred separately adjudicated claims, that are randomly selected, and the act provides that recoupment shall only occur following the correction of a claim, as described in the act. No audit shall occur during the first five business days, rather than the first three, of any month. An entity shall not perform more than two audits of a pharmacy in a calendar year, unless fraud is suspected. (Section 338.600)\r\n\r\n\tThis act modifies the definitions of \"health carrier\" and \"pharmacy benefits manager\" and adds definitions for \"contracted pharmacy\", \"pharmacy benefits manager affiliate\", for the purposes of regulating costs charged to covered persons for prescription drugs. Additionally, PBMs are prohibited from including a provision in a contract that requires payment for a prescription drug that exceeds the lesser of either the copayment amount or the amount the person would pay if they paid in cash. This act provides that the price shall also not exceed the contracted rate the pharmacy would be reimbursed for the drug. (Section 376.387)\r\n\r\n\tThis act modifies several definitions and adds new definitions for the purpose of regulating contracts between pharmacy benefits managers and pharmacies. The act also adds several provisions relating to contracts between PBMs and pharmacies, including providing plan sponsors with pharmacy claims data, submitting documentation of any benefit design that encourages or requires the use of affiliated pharmacies, and authorizing the Department of Commerce and Insurance to conduct audits of PBMs. (Section 376.387)\r\n\r\n\tThis act requires the Department of Commerce and Insurance to establish a critical access care pharmacy program to ensure the sustainability of critical access care pharmacies in the state. (Section 376.394)\r\n\r\n\tFinally, this act requires plans beginning on or after January 1, 2027 to comply with H.R. 7148, the Consolidated Appropriations Act, 2026. Contracts or arrangements entered into on or after January 1, 2027, are required to remit one hundred percent of rebates, fees, alternative discounts, and other remuneration received from any applicable entity that are related to utilization of drugs or drug spending. Rebates, fees, alternative discounts, and other remuneration shall be remitted on a quarterly basis, not later than ninety days after the end of such quarter. In the case of an underpayment in a remittance for a prior quarter, remittance shall be given not later than ninety days after notice of the underpayment is first given. The Department of Commerce and Insurance have the authority to enforce this act and shall have the right to any information in this act from any pharmacy benefits manager under investigation individually or in aggregate per their request.\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,29 +10,58 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to pharmacy benefit managers"
+      "abstract": "SCS/SBs 984 & 968 - This act modifies provisions relating to pharmacy benefit managers.\r\n\r\n\tThis act adds definitions for the terms \"audit\" and \"entity\" for the purposes of audits of licensed pharmacies. Current law requires a one week notice for any on-site audit. This act increases such notice to fourteen days and requires the notice to specify specific prescriptions to be audited. A pharmacy shall have the right to submit amended claims within thirty days of the discovery of an error. Audits shall be limited to forty unique  prescriptions, with a maximum of two hundred separately adjudicated claims, that are randomly selected, and the act provides that recoupment shall only occur following the correction of a claim, as described in the act. No audit shall occur during the first five business days, rather than the first three, of any month. An entity shall not perform more than two audits of a pharmacy in a calendar year, unless fraud is suspected. (Section 338.600)\r\n\r\n\tThis act modifies the definitions of \"health carrier\" and \"pharmacy benefits manager\" and adds definitions for \"contracted pharmacy\", \"pharmacy benefits manager affiliate\", for the purposes of regulating costs charged to covered persons for prescription drugs. Additionally, PBMs are prohibited from including a provision in a contract that requires payment for a prescription drug that exceeds the lesser of either the copayment amount or the amount the person would pay if they paid in cash. This act provides that the price shall also not exceed the contracted rate the pharmacy would be reimbursed for the drug. (Section 376.387)\r\n\r\n\tThis act modifies several definitions and adds new definitions for the purpose of regulating contracts between pharmacy benefits managers and pharmacies. The act also adds several provisions relating to contracts between PBMs and pharmacies, including providing plan sponsors with pharmacy claims data, submitting documentation of any benefit design that encourages or requires the use of affiliated pharmacies, and authorizing the Department of Commerce and Insurance to conduct audits of PBMs. (Section 376.387)\r\n\r\n\tThis act requires the Department of Commerce and Insurance to establish a critical access care pharmacy program to ensure the sustainability of critical access care pharmacies in the state. (Section 376.394)\r\n\r\n\tFinally, this act requires plans beginning on or after January 1, 2027 to comply with H.R. 7148, the Consolidated Appropriations Act, 2026. Contracts or arrangements entered into on or after January 1, 2027, are required to remit one hundred percent of rebates, fees, alternative discounts, and other remuneration received from any applicable entity that are related to utilization of drugs or drug spending. Rebates, fees, alternative discounts, and other remuneration shall be remitted on a quarterly basis, not later than ninety days after the end of such quarter. In the case of an underpayment in a remittance for a prior quarter, remittance shall be given not later than ninety days after notice of the underpayment is first given. The Department of Commerce and Insurance have the authority to enforce this act and shall have the right to any information in this act from any pharmacy benefits manager under investigation individually or in aggregate per their request.\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to pharmacy benefit managers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb984"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-15T12:44:17Z"
+        "log_file_created": "2026-03-26T13:10:22Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Reported from S Families, Seniors and Health Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 984 & 968 Families, Seniors and Health Committee (5297S.07C)",
+      "date": "2026-03-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-15T12:44:17Z"
@@ -52,45 +81,45 @@
       }
     },
     {
-      "description": "Hearing Conducted S Families, Seniors and Health Committee",
-      "date": "2026-01-21T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-15T12:44:17Z"
       }
     },
     {
-      "description": "SCS Voted Do Pass w/SCS SBs 984 & 968 Families, Seniors and Health Committee (5297S.07C)",
-      "date": "2026-03-12T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
+        "log_file_created": "2026-02-15T12:44:17Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Carter",
+      "name": "Carter, Jill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Carter, Jill\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5297S.07C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB984.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB984.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -98,10 +127,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "5297S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB984.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB984.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -113,19 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=109",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=109",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=109",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=109",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5297S.07C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -133,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

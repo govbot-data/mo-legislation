@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1576",
-  "title": "Establishes the Missouri Ireland Trade Commission",
+  "title": "SB 1576 - This act establishes the \"Missouri Ireland Trade Commission\" within the Department of Economic Development. The Commission shall be composed of nine members appointed as described in the act.\r\n\r\n\tThe Commission shall study potential means of advancing bilateral trade and investment, policy issues, business and academic exchanges, mutual economic support, and mutual investment in the infrastructure of this state and Ireland.\r\n\r\n\tNo later than fifteen months after the effective date of the act, and annually thereafter, the Commission shall submit a report to the Governor and the General Assembly detailing its findings and recommendations.\r\n\r\n\tThe act establishes the \"Missouri Ireland Trade Commission Fund\", which shall be used for the Commission's administrative expenses.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,83 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes the Missouri Ireland Trade Commission"
+      "abstract": "SB 1576 - This act establishes the \"Missouri Ireland Trade Commission\" within the Department of Economic Development. The Commission shall be composed of nine members appointed as described in the act.\r\n\r\n\tThe Commission shall study potential means of advancing bilateral trade and investment, policy issues, business and academic exchanges, mutual economic support, and mutual investment in the infrastructure of this state and Ireland.\r\n\r\n\tNo later than fifteen months after the effective date of the act, and annually thereafter, the Commission shall submit a report to the Governor and the General Assembly detailing its findings and recommendations.\r\n\r\n\tThe act establishes the \"Missouri Ireland Trade Commission Fund\", which shall be used for the Commission's administrative expenses.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Missouri Ireland Trade Commission"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1576"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-20T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-26T12:43:10Z"
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Economic and Workforce Development Committee",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:00:35Z"
       }
     },
     {
@@ -42,62 +103,43 @@
       }
     },
     {
-      "description": "Hearing Conducted S Economic and Workforce Development Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Economic and Workforce Development Committee",
-      "date": "2026-02-18T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-20T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "committee-passage"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-19T13:00:35Z"
-      }
-    },
-    {
-      "description": "Reported from S Economic and Workforce Development Committee",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
+        "log_file_created": "2026-01-26T12:43:10Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Fitzwater",
+      "name": "Fitzwater, Travis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Fitzwater\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Fitzwater, Travis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6797S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1576.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6797S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1576.pdf",
@@ -112,19 +154,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=1584511",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=1584511",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=1584511",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1584511",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6797S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -132,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

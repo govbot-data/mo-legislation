@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 938",
-  "title": "Modifies certain provisions relating to land surveying",
+  "title": "SB 938 - Under the act, a user fee of six dollars, instead of four dollars as currently provided, shall be charged and collected by every recorder of deeds as a condition precedent to the recording of any instrument. Three dollars, instead of two dollars as currently provided, of such fee shall be retained by the recorder and deposited in the Recorder's Fund and not in county general revenue.\r\n\r\n\tA fee in the amount of two dollars, instead of one dollar as currently provided, shall be paid to the State Treasurer and credited to the \"Missouri Land Survey Fund\" for purposes of land surveying.\r\n\r\n\tThe Department of Agriculture shall establish by rule the fees necessary to reflect the costs associated with the production or reproduction of maps, plats, reports, studies, and records related to land surveys.  \r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,123 +10,47 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies certain provisions relating to land surveying"
+      "abstract": "SB 938 - Under the act, a user fee of six dollars, instead of four dollars as currently provided, shall be charged and collected by every recorder of deeds as a condition precedent to the recording of any instrument. Three dollars, instead of two dollars as currently provided, of such fee shall be retained by the recorder and deposited in the Recorder's Fund and not in county general revenue.\r\n\r\n\tA fee in the amount of two dollars, instead of one dollar as currently provided, shall be paid to the State Treasurer and credited to the \"Missouri Land Survey Fund\" for purposes of land surveying.\r\n\r\n\tThe Department of Agriculture shall establish by rule the fees necessary to reflect the costs associated with the production or reproduction of maps, plats, reports, studies, and records related to land surveys.  \r\nJULIA SHEVELEVA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies certain provisions relating to land surveying"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb938"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "description": "H Second Read",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-03-02T12:54:05Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "H First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-03-02T12:54:05Z"
       }
     },
     {
-      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-01-08T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-01-29T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-02-05T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Reported from S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 1 S offered & adopted (May)--(5423S01.07S)",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Perfected, as amended",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-24T13:00:37Z"
-      }
-    },
-    {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-24T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:59:39Z"
-      }
-    },
-    {
-      "description": "Referred S Fiscal Oversight Committee",
-      "date": "2026-02-24T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:59:39Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Fiscal Oversight Committee",
+      "description": "Reported from S Fiscal Oversight Committee",
       "date": "2026-02-26T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -148,13 +72,67 @@
       }
     },
     {
-      "description": "Reported from S Fiscal Oversight Committee",
-      "date": "2026-02-26T06:00:00+00:00",
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-24T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2026-02-25T12:59:39Z"
+      }
+    },
+    {
+      "description": "Perfected, as amended",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "SA 1 S offered & adopted (May)--(5423S01.07S)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-24T13:00:37Z"
+      }
+    },
+    {
+      "description": "Reported from S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
       }
     },
     {
@@ -171,55 +149,65 @@
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-02-26T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-02T12:54:05Z"
+        "log_file_created": "2026-02-17T12:58:31Z"
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-02-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-02T12:54:05Z"
+        "log_file_created": "2026-02-17T12:58:31Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bernskoetter",
+      "name": "Bernskoetter, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bernskoetter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bernskoetter, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB938.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
+      "note": "5423S.01P - Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB938.pdf",
@@ -230,34 +218,39 @@
       "classification": ""
     },
     {
-      "note": "5423S01.07S - SA 1\u00a0Adopted",
+      "note": "5423S.01I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=115",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB938.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "2/23/2026 - SA 1 S offered & adopted (May)--(5423S01.07S)\r\n                    \r\n                        2/23/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=115",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=214",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=214",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=214",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=214",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5423S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -265,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:54:05Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

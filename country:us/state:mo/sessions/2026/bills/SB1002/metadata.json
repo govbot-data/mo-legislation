@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1002",
-  "title": "Moves school board elections to the November general election",
+  "title": "SB 1002 - Under current law, elections for school board members are held on either the general municipal election day or such day as is specified in the county charter, with terms of office ranging from three years to six years, depending on the district.  This act requires all such elections to be held at the November general election and makes all such terms four years. \r\n\r\n\tThis act has a delayed effective date of January 1, 2028.\r\n\r\n\tThis act is similar to SB 485 (2025), HB 539 (2025), HB 2536 (2024), SB 234 (2023), and provisions in SB 740 (2022), HCS/HB 2306 (2022), HB 361 (2019), and HCS/HB 1424 (2018).\r\nOLIVIA SHANNON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,81 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Moves school board elections to the November general election"
+      "abstract": "SB 1002 - Under current law, elections for school board members are held on either the general municipal election day or such day as is specified in the county charter, with terms of office ranging from three years to six years, depending on the district.  This act requires all such elections to be held at the November general election and makes all such terms four years. \r\n\r\n\tThis act has a delayed effective date of January 1, 2028.\r\n\r\n\tThis act is similar to SB 485 (2025), HB 539 (2025), HB 2536 (2024), SB 234 (2023), and provisions in SB 740 (2022), HCS/HB 2306 (2022), HB 361 (2019), and HCS/HB 1424 (2018).\r\nOLIVIA SHANNON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Moves school board elections to the November general election"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1002"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Education Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:04:38Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:51:06Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:43:44Z"
@@ -39,65 +103,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Education Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:43:44Z"
-      }
-    },
-    {
-      "description": "Hearing Cancelled S Education Committee",
-      "date": "2026-01-29T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Education Committee",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Education Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Schnelting",
+      "name": "Schnelting, Adam",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schnelting\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schnelting, Adam\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4367S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1002.pdf",
@@ -112,19 +141,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=361",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=361",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=361",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=361",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4367S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -132,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:04:38Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

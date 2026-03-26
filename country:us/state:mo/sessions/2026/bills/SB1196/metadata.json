@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1196",
-  "title": "Modifies provisions relating to grants for certain workforce training programs",
+  "title": "SB 1196 - This act requires the Governor, in consultation with the Missouri Workforce Development Board, to approve workforce training programs that are eligible for federal Workforce Pell Grants if they prepare students for a high-skill industry sector or occupation, a high-wage industry sector or occupation, or an in-demand industry sector or occupation, as such terms are defined in the act.\r\n\r\n\tThe Board shall establish a process for institutions and programs to apply for approval and appeal denials of Workforce Pell Grants, shall coordinate approval of eligible workforce training programs with other state and federal workforce programs, and shall require eligible workforce training programs to provide verifiable data demonstrating program outcomes.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,61 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to grants for certain workforce training programs"
+      "abstract": "SB 1196 - This act requires the Governor, in consultation with the Missouri Workforce Development Board, to approve workforce training programs that are eligible for federal Workforce Pell Grants if they prepare students for a high-skill industry sector or occupation, a high-wage industry sector or occupation, or an in-demand industry sector or occupation, as such terms are defined in the act.\r\n\r\n\tThe Board shall establish a process for institutions and programs to apply for approval and appeal denials of Workforce Pell Grants, shall coordinate approval of eligible workforce training programs with other state and federal workforce programs, and shall require eligible workforce training programs to provide verifiable data demonstrating program outcomes.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to grants for certain workforce training programs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1196"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
+        "log_file_created": "2026-03-26T13:10:22Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Reported from S Economic and Workforce Development Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-03-04T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-05T12:55:51Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:55:51Z"
       }
     },
     {
@@ -52,42 +81,42 @@
       }
     },
     {
-      "description": "Hearing Conducted S Economic and Workforce Development Committee",
-      "date": "2026-02-25T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-05T12:55:51Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Economic and Workforce Development Committee",
-      "date": "2026-03-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:55:51Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Henderson",
+      "name": "Henderson, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henderson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Henderson, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5629S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1196.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=591",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=591",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=591",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=591",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5629S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

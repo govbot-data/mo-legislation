@@ -19,7 +19,11 @@
       "title": "HB 1740"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1740"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -183,6 +187,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
       }
     }
   ],
@@ -355,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

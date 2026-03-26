@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1065",
-  "title": "Creates provisions relating to utility facility relocation",
+  "title": "SCS/SB 1065 - The act modifies and creates new provisions relating to utility facility relocation.\r\n\r\n\tUnder the act, a county, city, incorporated town, or village shall not perform any road project unless it reimburses any non-rate-regulated utility provider, as defined in the act, that incurs labor costs for facility relocation due to such maintenance or project. A county, city, incorporated town, or village shall be authorized to pay such facility relocation labor costs as part of the cost of the road project.\r\n\r\n\tA county, city, incorporated town, or village shall notify non-rate-regulated utility providers that have permitted infrastructure within a planned or existing public right-of-way within 90 days after a road project is added to the project schedule that may require the provider to relocate its infrastructure for the road project. The notification shall include an estimated project schedule and timeline, including the anticipated year of construction. Within 90 days after receipt of the notification, the non-rate-regulated utility provider shall respond to the county, city, incorporated town, or village with an estimated time frame and projected labor cost for the relocation of the provider's infrastructure. The response shall include a draft relocation schedule within or adjacent to the existing or planned public right-of-way.\r\n\r\n\tThe act shall not require a county, city, incorporated town, or village to reimburse a non-rate-regulated utility provider for the removal or relocation of facilities placed in the public right-of way in violation of state or local permitting requirements.\r\n\r\n\tCurrently, video service cabinets are required to be removed or relocated at the expense of the video service provider. Under the act, the cabinets are required to be removed pursuant to the provisions of the act or current law, as applicable.\r\n\r\n\tThe State Road Fund shall be used for reimbursing non-rate-regulated utility providers for any labor costs associated with facility relocation due to road maintenance or construction.\r\n\r\n\tThe Department of Transportation shall reimburse non-rate-regulated utility providers for any labor costs associated with facility relocation that are required due to road maintenance, construction, or other right-of-way work activity. Notification requirements by the Department and response requirements by the non-rate-regulated utility provider are described in the act.\r\n\r\n\tThe act shall not require the Department to reimburse a non-rate-regulated utility provider for the removal or relocation of facilities placed in the public right-of-way in violation of state law or local permitting requirements.\r\n\r\n\tUnder the act, subject to certain exceptions, the removal and relocation of utility facilities as a result of construction projects required by the Highways and Transportation Commission shall be made at the expense of the owners unless otherwise provided by the Commission. Currently, if the owner fails to relocate the utility facilities, the cost of relocating the utility facilities shall be collected from the owner. Under the act, the cost of relocating the utility facilities shall be the responsibility of the Commission or the owner.\r\n\r\n\tThe act is identical to HCS/HB 2155 (2026), similar to SB 489 (2025), provisions in HCS/SB 1039 (2024), provisions in HCS/HB 2056 (2024), provisions in SCS/HCS/HB 1746 (2024), and SCS/SB 1018 (2024).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,81 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates provisions relating to utility facility relocation"
+      "abstract": "SCS/SB 1065 - The act modifies and creates new provisions relating to utility facility relocation.\r\n\r\n\tUnder the act, a county, city, incorporated town, or village shall not perform any road project unless it reimburses any non-rate-regulated utility provider, as defined in the act, that incurs labor costs for facility relocation due to such maintenance or project. A county, city, incorporated town, or village shall be authorized to pay such facility relocation labor costs as part of the cost of the road project.\r\n\r\n\tA county, city, incorporated town, or village shall notify non-rate-regulated utility providers that have permitted infrastructure within a planned or existing public right-of-way within 90 days after a road project is added to the project schedule that may require the provider to relocate its infrastructure for the road project. The notification shall include an estimated project schedule and timeline, including the anticipated year of construction. Within 90 days after receipt of the notification, the non-rate-regulated utility provider shall respond to the county, city, incorporated town, or village with an estimated time frame and projected labor cost for the relocation of the provider's infrastructure. The response shall include a draft relocation schedule within or adjacent to the existing or planned public right-of-way.\r\n\r\n\tThe act shall not require a county, city, incorporated town, or village to reimburse a non-rate-regulated utility provider for the removal or relocation of facilities placed in the public right-of way in violation of state or local permitting requirements.\r\n\r\n\tCurrently, video service cabinets are required to be removed or relocated at the expense of the video service provider. Under the act, the cabinets are required to be removed pursuant to the provisions of the act or current law, as applicable.\r\n\r\n\tThe State Road Fund shall be used for reimbursing non-rate-regulated utility providers for any labor costs associated with facility relocation due to road maintenance or construction.\r\n\r\n\tThe Department of Transportation shall reimburse non-rate-regulated utility providers for any labor costs associated with facility relocation that are required due to road maintenance, construction, or other right-of-way work activity. Notification requirements by the Department and response requirements by the non-rate-regulated utility provider are described in the act.\r\n\r\n\tThe act shall not require the Department to reimburse a non-rate-regulated utility provider for the removal or relocation of facilities placed in the public right-of-way in violation of state law or local permitting requirements.\r\n\r\n\tUnder the act, subject to certain exceptions, the removal and relocation of utility facilities as a result of construction projects required by the Highways and Transportation Commission shall be made at the expense of the owners unless otherwise provided by the Commission. Currently, if the owner fails to relocate the utility facilities, the cost of relocating the utility facilities shall be collected from the owner. Under the act, the cost of relocating the utility facilities shall be the responsibility of the Commission or the owner.\r\n\r\n\tThe act is identical to HCS/HB 2155 (2026), similar to SB 489 (2025), provisions in HCS/SB 1039 (2024), provisions in HCS/HB 2056 (2024), provisions in SCS/HCS/HB 1746 (2024), and SCS/SB 1018 (2024).\r\nJULIA SHEVELEVA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to utility facility relocation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1065"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:10:22Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4816S.02C)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-01T12:43:34Z"
@@ -39,68 +103,33 @@
       }
     },
     {
-      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-01-15T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "Hearing Cancelled S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
-      "date": "2026-02-24T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-04T12:52:10Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4816S.02C)",
-      "date": "2026-03-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-04T12:52:10Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Ben Brown (26)",
+      "name": "Brown (26), Ben",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ben Brown (26)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4816S.02C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1065.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1065.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -108,10 +137,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "4816S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1065.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1065.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,19 +152,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=250",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=250",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=250",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=250",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4816S.02C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -143,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:52:10Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

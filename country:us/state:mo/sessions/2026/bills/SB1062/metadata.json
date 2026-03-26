@@ -85,16 +85,6 @@
       }
     },
     {
-      "description": "Hearing Conducted S Fiscal Oversight Committee",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
       "description": "Referred S Fiscal Oversight Committee",
       "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -509,6 +499,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T13:04:55Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }

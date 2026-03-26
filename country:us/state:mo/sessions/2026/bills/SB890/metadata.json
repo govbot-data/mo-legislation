@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 890",
-  "title": "Requires state departments to report on obsolete administrative entities, repeals certain administrative entities and repeals and reassigns duties for certain other administrative entities",
+  "title": "SS/SCS/SB 890 - This act requires each state department with oversight of an administrative entity to submit an annual report to the General Assembly detailing any administrative entity that has not convened a public meeting or conducted public business during the three year period ending on August 28th of such year.\r\n\r\nThe act further repeals and reassigns duties for a number of administrative entities. The Division of Workforce Development within the Department of Economic Development is renamed and moved to the Office of Workforce Development within the Department of Higher Education and Workforce Development.  The Board for Certification of Interpreters is repealed and its duties assigned to the Missouri Commission for the Deaf and Hard of Hearing.  The Life Sciences Research Board is repealed and its duties assigned the Department of Economic Development.  The act repeals the Missouri Quality Home Care Council is repealed as well as all duties of the Council.  \r\n\r\nThe act repeals the following entities: the Career Readiness Course Task Force; the Infection Control Advisory Panel; the Missouri Arthritis Advisory Board and the Arthritis Program Review Committee; the AgriMissouri Advisory Commission for Marketing Missouri Agricultural Products; the Coordinating Board for Early Childhood; the Minority Environmental Literacy Advisory Committee; the Missouri Cybersecurity Commission; the Small Business Compliance Advisory Committee; and the Commission on the Special Health, Psychological and Social Needs of Minority Older Individuals.\r\n\r\nThis act is similar to SB 729 (2025). \r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,31 +10,49 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires state departments to report on obsolete administrative entities, repeals certain administrative entities and repeals and reassigns duties for certain other administrative entities"
+      "abstract": "SS/SCS/SB 890 - This act requires each state department with oversight of an administrative entity to submit an annual report to the General Assembly detailing any administrative entity that has not convened a public meeting or conducted public business during the three year period ending on August 28th of such year.\r\n\r\nThe act further repeals and reassigns duties for a number of administrative entities. The Division of Workforce Development within the Department of Economic Development is renamed and moved to the Office of Workforce Development within the Department of Higher Education and Workforce Development.  The Board for Certification of Interpreters is repealed and its duties assigned to the Missouri Commission for the Deaf and Hard of Hearing.  The Life Sciences Research Board is repealed and its duties assigned the Department of Economic Development.  The act repeals the Missouri Quality Home Care Council is repealed as well as all duties of the Council.  \r\n\r\nThe act repeals the following entities: the Career Readiness Course Task Force; the Infection Control Advisory Panel; the Missouri Arthritis Advisory Board and the Arthritis Program Review Committee; the AgriMissouri Advisory Commission for Marketing Missouri Agricultural Products; the Coordinating Board for Early Childhood; the Minority Environmental Literacy Advisory Committee; the Missouri Cybersecurity Commission; the Small Business Compliance Advisory Committee; and the Commission on the Special Health, Psychological and Social Needs of Minority Older Individuals.\r\n\r\nThis act is similar to SB 729 (2025). \r\nJIM ERTLE"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SS SCS SB 890"
+      "title": "Requires state departments to report on obsolete administrative entities, repeals certain administrative entities and repeals and reassigns duties for certain other administrative entities"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb890"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "description": "Referred H Corrections and Public Institutions",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:54:05Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "H First Read",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
@@ -44,12 +62,12 @@
       }
     },
     {
-      "description": "Second Read and Referred S Government Efficiency Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "S Third Read and Passed",
+      "date": "2026-02-12T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2",
-        "referral-committee"
+        "passage",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
@@ -57,153 +75,7 @@
       }
     },
     {
-      "description": "Hearing Conducted S Government Efficiency Committee",
-      "date": "2026-01-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass S Government Efficiency Committee (4254S.04C)",
-      "date": "2026-01-14T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Reported from S Government Efficiency Committee w/SCS",
-      "date": "2026-01-29T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SS for SCS S offered (Coleman)--(4254S.06F)",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 1 to SS for SCS S offered & adopted (Coleman)--(4254S06.05S)",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 2 to SS for SCS S offered & ruled out of order (Roberts)--(4254S06.02S)",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 3 to SS for SCS S offered & ruled out of order (Webber)--(4254S06.03S)",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 4 to SS for SCS S offered (Beck)--(4254S06.04S)",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Bill Placed on Informal Calendar",
-      "date": "2026-02-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SA 4 to SS for SCS S defeated",
-      "date": "2026-02-09T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "SS for SCS, as amended, S adopted",
-      "date": "2026-02-09T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Perfected",
-      "date": "2026-02-09T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Referred S Fiscal Oversight Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Fiscal Oversight Committee",
+      "description": "Reported from S Fiscal Oversight Committee",
       "date": "2026-02-12T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -225,8 +97,20 @@
       }
     },
     {
-      "description": "Reported from S Fiscal Oversight Committee",
-      "date": "2026-02-12T06:00:00+00:00",
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-10T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -235,12 +119,21 @@
       }
     },
     {
-      "description": "S Third Read and Passed",
-      "date": "2026-02-12T06:00:00+00:00",
+      "description": "Perfected",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-02-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage",
-        "reading-3"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -248,9 +141,124 @@
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-02-12T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "SA 4 to SS for SCS S defeated",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SA 4 to SS for SCS S offered (Beck)--(4254S06.04S)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SA 3 to SS for SCS S offered & ruled out of order (Webber)--(4254S06.03S)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & ruled out of order (Roberts)--(4254S06.02S)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Coleman)--(4254S06.05S)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Coleman)--(4254S.06F)",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Reported from S Government Efficiency Committee w/SCS",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Government Efficiency Committee (4254S.04C)",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
@@ -260,66 +268,30 @@
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-02-16T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Referred H Corrections and Public Institutions",
-      "date": "2026-02-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-02T12:54:05Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Coleman",
+      "name": "Coleman, Mary Elizabeth",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Coleman\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Coleman, Mary Elizabeth\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB890.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Senate Committee Substitute",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB890.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
+      "note": "4254S.06P - Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB890.pdf",
@@ -330,45 +302,95 @@
       "classification": ""
     },
     {
-      "note": "4254S.06F - SS SCS\u00a0Adopted, as amended",
+      "note": "4254S.04C - Senate Committee Substitute",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=30",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB890.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
     },
     {
-      "note": "4254S06.05S - SA 1 SS SCS\u00a0Adopted",
+      "note": "4254S.01I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=34",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB890.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "2/4/2026 - SS for SCS S offered (Coleman)--(4254S.06F)\r\n                    \r\n                        2/9/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=30",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/4/2026 - SA 1 to SS for SCS S offered & adopted (Coleman)--(4254S06.05S)\r\n                    \r\n                        2/4/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=34",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2/4/2026 - SA 4 to SS for SCS S offered (Beck)--(4254S06.04S)\r\n                    \r\n                        2/9/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=40",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/4/2026 - SA 2 to SS for SCS S offered & ruled out of order (Roberts)--(4254S06.02S)\r\n                    \r\n                        2/4/2026 - Out of Order",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=38",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/4/2026 - SA 3 to SS for SCS S offered & ruled out of order (Webber)--(4254S06.03S)\r\n                    \r\n                        2/4/2026 - Out of Order",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=39",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=597",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=597",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=597",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=597",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4254S.06P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -376,6 +398,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:54:05Z"
+    "logs_latest_update": "2026-03-26T13:10:22Z"
   }
 }
