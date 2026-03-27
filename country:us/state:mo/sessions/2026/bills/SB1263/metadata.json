@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1263",
-  "title": "Establishes \"Colton's Law\" relating to certain pediatric disorders",
+  "title": "SB 1263 - This act establishes \"Colton's Law.\"  Under this act, MO HealthNet and private health insurance carriers and health benefit plans for plans delivered, issued for delivery, continued, or renewed on or after January 1, 2027, shall provide coverage for medically necessary physician-prescribed treatment for pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) and pediatric acute-onset neuropsychiatric syndrome (PANS).  Coverage shall include antibiotics, medications, behavioral therapies, immunomodulating medicines, plasma exchange, and intravenous immunoglobulin therapy, to the extent described in the act and subject to no greater copayments, coinsurance, or deductibles than similar benefits provided by the health carrier or benefit plan.\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes \"Colton's Law\" relating to certain pediatric disorders"
+      "abstract": "SB 1263 - This act establishes \"Colton's Law.\"  Under this act, MO HealthNet and private health insurance carriers and health benefit plans for plans delivered, issued for delivery, continued, or renewed on or after January 1, 2027, shall provide coverage for medically necessary physician-prescribed treatment for pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) and pediatric acute-onset neuropsychiatric syndrome (PANS).  Coverage shall include antibiotics, medications, behavioral therapies, immunomodulating medicines, plasma exchange, and intravenous immunoglobulin therapy, to the extent described in the act and subject to no greater copayments, coinsurance, or deductibles than similar benefits provided by the health carrier or benefit plan.\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes \"Colton's Law\" relating to certain pediatric disorders"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1263"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Hearing Scheduled S Insurance and Banking Committee",
+      "date": "2026-03-31T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
@@ -39,33 +61,38 @@
       }
     },
     {
-      "description": "Second Read and Referred S Insurance and Banking Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Brattin",
+      "name": "Brattin, Rick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brattin\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schroer, Nick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer, Nick\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5544S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1263.pdf",
@@ -80,19 +107,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=497",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=497",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=497",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=497",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5544S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

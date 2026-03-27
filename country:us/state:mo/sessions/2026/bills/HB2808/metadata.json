@@ -19,7 +19,11 @@
       "title": "HB 2808"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2808"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -43,6 +47,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
+      }
+    },
+    {
+      "description": "Referred: Crime and Public Safety(H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
       }
     }
   ],
@@ -70,7 +86,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2808I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -90,6 +118,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

@@ -198,6 +198,43 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Third Reading Calendar (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +252,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Deanna Self\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ann Kelley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ann Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Durnell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Durnell\"}",
       "organization_id": null
     }
   ],
@@ -267,10 +320,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2547P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4210H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4210H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4210H.01P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4210H.01P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -308,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

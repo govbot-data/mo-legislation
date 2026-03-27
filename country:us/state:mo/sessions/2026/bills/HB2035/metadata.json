@@ -6,13 +6,7 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CIVIL PROCEDURE",
-    "CRIMES AND PUNISHMENT",
-    "CRIMINAL PROCEDURE",
-    "INTERNET AND E-MAIL",
-    "SCIENCE AND TECHNOLOGY"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
@@ -209,6 +203,43 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Third Reading Calendar (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed with Amendments (H) - HPA 1, adopted",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -275,6 +306,10 @@
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4570H.03P.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4570H.03D.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -285,6 +320,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4570H03.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HPA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4570H03.03H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -316,6 +362,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2035P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4570H.01I.ORG",
       "links": [
         {
@@ -331,6 +388,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4570H.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4570H.03P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4570H.03P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -368,6 +436,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

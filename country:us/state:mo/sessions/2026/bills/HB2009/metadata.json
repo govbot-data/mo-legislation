@@ -199,6 +199,31 @@
       "_processing": {
         "log_file_created": "2026-03-25T13:04:55Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -378,6 +403,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T13:04:55Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

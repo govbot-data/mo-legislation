@@ -206,6 +206,18 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:10:22Z"
       }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -496,6 +508,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1855P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4267H.02I.ORG",
       "links": [
         {
@@ -511,6 +534,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4267H.04C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4267H.04P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4267H.04P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -548,6 +582,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

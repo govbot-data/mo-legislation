@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2762"
+      "title": "HCS HBs 2762, 2816 & 2402"
     }
   ],
   "other_identifiers": [
@@ -100,6 +100,40 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:10:22Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 16 NOES: 3 PRESENT: 0",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +153,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6405H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6405H.05C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -180,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

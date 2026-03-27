@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2234",
-  "title": "Requires counties to report and transfer unclaimed surplus proceeds from real property tax sales to the Unclaimed Property division of the State Treasurer after three years",
+  "title": "Requires counties to report and transfer unclaimed surplus proceeds from real property tax sales to the unclaimed property division of the state treasurer after 3 years",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -20,7 +20,11 @@
       "title": "HCS HB 2234"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2234"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -121,6 +125,28 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +243,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4297H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4297H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -247,6 +284,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2371",
-  "title": "Requires health benefit plans providing for maternity benefits to cover a home blood pressure monitoring device for pregnant and postpartum women",
+  "title": "Requires MO HealthNet and health benefit plans providing for maternity benefits to cover a home blood pressure monitoring device for pregnant and postpartum women",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -15,10 +15,14 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2371"
+      "title": "HCS HB 2371"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2371"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -73,6 +77,40 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 16 NOES: 0 PRESENT: 0",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +130,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6040H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6040H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -121,6 +170,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2371Testimony3-12.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -142,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

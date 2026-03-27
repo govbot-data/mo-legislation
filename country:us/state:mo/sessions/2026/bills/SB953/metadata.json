@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Conservation and Natural Resources--(1:00 p.m. - HR 7)",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
       "description": "Referred H Conservation and Natural Resources",
       "date": "2026-02-27T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -271,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

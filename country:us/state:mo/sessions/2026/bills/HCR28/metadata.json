@@ -19,7 +19,11 @@
       "title": "HCR 28"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hcr28"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -65,6 +69,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 16 NOES: 0 PRESENT: 0",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
       }
     }
   ],
@@ -220,6 +258,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"LaDonna Appelbaum\"}",
       "organization_id": null
+    },
+    {
+      "name": "LaKeySha Bosley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaKeySha Bosley\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -258,6 +304,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HCR28Testimony3-12.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -279,6 +336,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

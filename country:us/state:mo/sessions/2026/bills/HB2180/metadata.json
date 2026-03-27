@@ -275,6 +275,18 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -343,11 +355,11 @@
       "organization_id": null
     },
     {
-      "name": "Jamie Gragg",
+      "name": "Jamie Ray Gragg",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jamie Gragg\"}",
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
       "organization_id": null
     },
     {
@@ -549,6 +561,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

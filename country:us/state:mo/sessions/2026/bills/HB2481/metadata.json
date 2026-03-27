@@ -18,7 +18,11 @@
       "title": "HCS HB 2481"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2481"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -119,15 +123,37 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jamie Gragg",
+      "name": "Jamie Ray Gragg",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jamie Gragg\"}",
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
       "organization_id": null
     }
   ],
@@ -191,6 +217,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6262H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6262H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -221,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

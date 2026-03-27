@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1516",
-  "title": "Creates provisions relating to fences and enclosures",
+  "title": "SB 1516 - The act provides that when an owner of real estate desires to construct, maintain, or repair a division fence that encloses a field, animals, or livestock, the owner, or a contractor hired by the owner, may enter onto the adjoining property up to 10 feet to construct, maintain, or repair the fence.\r\n\r\n\tThe owner or contractor is not guilty of trespass for entering onto the adjoining property during the construction, maintenance, or repair of the fence provided that the owner or contractor does not enter onto the adjoining property beyond the 10 feet distance. The owner or contractor's liability for damages from the entry onto the adjoining property is described in the act. These provisions shall not apply when the adjoining property is owned or operated by certain entities described in the act. The act does not permit the owner or contractor to enter into a building on the adjoining property.\r\n\r\n\tThese provisions are substantially similar to provisions in HCS/HB 642 (2025) and provisions in SCS/HCS/HB 1116 (2025).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,29 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates provisions relating to fences and enclosures"
+      "abstract": "SB 1516 - The act provides that when an owner of real estate desires to construct, maintain, or repair a division fence that encloses a field, animals, or livestock, the owner, or a contractor hired by the owner, may enter onto the adjoining property up to 10 feet to construct, maintain, or repair the fence.\r\n\r\n\tThe owner or contractor is not guilty of trespass for entering onto the adjoining property during the construction, maintenance, or repair of the fence provided that the owner or contractor does not enter onto the adjoining property beyond the 10 feet distance. The owner or contractor's liability for damages from the entry onto the adjoining property is described in the act. These provisions shall not apply when the adjoining property is owned or operated by certain entities described in the act. The act does not permit the owner or contractor to enter into a building on the adjoining property.\r\n\r\n\tThese provisions are substantially similar to provisions in HCS/HB 642 (2025) and provisions in SCS/HCS/HB 1116 (2025).\r\nJULIA SHEVELEVA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to fences and enclosures"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1516"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Hearing Scheduled S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-04-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-26T12:43:10Z"
+        "log_file_created": "2026-03-27T13:01:19Z"
       }
     },
     {
@@ -40,22 +47,34 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:35Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-26T12:43:10Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gregory (21)",
+      "name": "Gregory (21), Kurtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (21)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6216S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1516.pdf",
@@ -70,19 +89,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=103418",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=103418",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=103418",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=103418",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6216S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -90,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }

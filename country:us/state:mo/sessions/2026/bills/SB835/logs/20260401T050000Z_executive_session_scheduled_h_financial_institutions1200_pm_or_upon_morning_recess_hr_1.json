@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session Scheduled H Financial Institutions--(12:00 p.m. or Upon Morning Recess - HR 1)",
+    "date": "2026-04-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 835"
+}

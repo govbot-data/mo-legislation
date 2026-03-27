@@ -18,7 +18,11 @@
       "title": "HB 1711"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1711"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -107,6 +111,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-27T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,6 +155,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1711I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1711C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-03-27T13:01:19Z"
   }
 }
