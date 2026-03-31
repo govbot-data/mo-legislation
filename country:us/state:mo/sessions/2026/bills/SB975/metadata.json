@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Local Government--(8:00 a.m. - HR 5)",
+      "description": "Executive Session Scheduled H Local Government--(8:00 a.m. - HR 5)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Local Government",
       "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-25T13:04:55Z"
+        "log_file_created": "2026-03-31T13:13:24Z"
       }
     },
     {
@@ -310,6 +320,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T13:04:55Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing Scheduled H Government Efficiency--(12:00 p.m. or Upon Morning recess - HR 6)",
+    "date": "2026-03-31T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 889"
+}

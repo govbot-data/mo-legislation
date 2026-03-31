@@ -21,7 +21,11 @@
       "title": "HB 2329"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2329"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -97,6 +101,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 6 NOES: 4 PRESENT: 0",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
       }
     }
   ],
@@ -178,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1410",
-  "title": "Modifies provisions relating to property taxes",
+  "title": "SCS/SBs 1410 & 853 - This act modifies provisions relating to property taxes.\r\n\r\nPROPERTY TAX DEADLINES\r\n\tCurrent law requires a county assessor to provide notification to a taxpayer by no later than June 15 if the assessor increases the taxpayer's real property valuation. This act requires such notice to be provided by no later than June 1. (Section 137.180)\r\n\r\n\tAdditionally, current law requires a taxpayer to file an appeal of the taxpayer's assessed valuation by no later than the second Monday in July. This act requires such appeal to be filed by no later than the first Monday in August. (Sections 137.275 to 138.180)\r\n\r\n\tThese provisions are identical to SB 853 (2026).\r\n\r\nPROPERTY TAX INSTALLMENTS\r\n\tCurrent law authorizes counties to provide for the payment of real and personal property taxes in installments, but excludes township counties from utilizing such payment plans. This act repeals such prohibition for township counties and allows the form of the installments to be determined by the governing body of the county. (Section 139.053)\r\n\r\n\tThis provision is substantially similar to SB 1211 (2026) and HB 388 (2025).\r\n\r\nDELINQUENT PROPERTY TAX NOTICES\r\n\tThis act authorizes a collector to offer a trusted contact program to a taxpayer, who may designate one or more trusted contacts for the collector to contact in the event the taxpayer has not paid the taxpayer's property tax liability by March 1 of a calendar year. (Section 140.010)\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,37 +10,71 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to property taxes"
+      "abstract": "SCS/SBs 1410 & 853 - This act modifies provisions relating to property taxes.\r\n\r\nPROPERTY TAX DEADLINES\r\n\tCurrent law requires a county assessor to provide notification to a taxpayer by no later than June 15 if the assessor increases the taxpayer's real property valuation. This act requires such notice to be provided by no later than June 1. (Section 137.180)\r\n\r\n\tAdditionally, current law requires a taxpayer to file an appeal of the taxpayer's assessed valuation by no later than the second Monday in July. This act requires such appeal to be filed by no later than the first Monday in August. (Sections 137.275 to 138.180)\r\n\r\n\tThese provisions are identical to SB 853 (2026).\r\n\r\nPROPERTY TAX INSTALLMENTS\r\n\tCurrent law authorizes counties to provide for the payment of real and personal property taxes in installments, but excludes township counties from utilizing such payment plans. This act repeals such prohibition for township counties and allows the form of the installments to be determined by the governing body of the county. (Section 139.053)\r\n\r\n\tThis provision is substantially similar to SB 1211 (2026) and HB 388 (2025).\r\n\r\nDELINQUENT PROPERTY TAX NOTICES\r\n\tThis act authorizes a collector to offer a trusted contact program to a taxpayer, who may designate one or more trusted contacts for the collector to contact in the event the taxpayer has not paid the taxpayer's property tax liability by March 1 of a calendar year. (Section 140.010)\r\nJOSH NORBERG"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SCS SBs 1410 & 853"
+      "title": "Modifies provisions relating to property taxes"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1410"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-05T06:00:00+00:00",
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-31T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-06T22:11:20Z"
+        "log_file_created": "2026-03-31T13:13:24Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Reported from S Select Committee on Property Taxes and the State Tax Commission Committee w/SCS",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 1410 & 853) Select Committee on Property Taxes and the State Tax Commission Committee (5988S.07C)",
+      "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
       }
     },
     {
@@ -57,65 +91,45 @@
       }
     },
     {
-      "description": "Hearing Conducted S Select Committee on Property Taxes and the State Tax Commission Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass (w/SCS SBs 1410 & 853) Select Committee on Property Taxes and the State Tax Commission Committee (5988S.07C)",
-      "date": "2026-03-11T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "committee-passage"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "Reported from S Select Committee on Property Taxes and the State Tax Commission Committee w/SCS",
-      "date": "2026-03-12T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-19T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
+        "log_file_created": "2025-12-06T22:11:20Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Crawford",
+      "name": "Crawford, Sandy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crawford\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Crawford, Sandy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5988S.07C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1410.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1410.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,10 +137,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute",
+      "note": "5988S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1410.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1410.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -138,19 +152,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=2456",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=2456",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=2456",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2456",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5988S.07C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -158,6 +166,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

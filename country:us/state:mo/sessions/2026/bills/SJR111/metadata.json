@@ -1,33 +1,77 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 111",
-  "title": "Modifies provisions relating to property taxes",
+  "title": "SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "joint resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to property taxes"
+      "abstract": "SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "SCS SJR 111"
+      "title": "Modifies provisions relating to property taxes"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr111"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Reported from S Select Committee on Property Taxes and the State Tax Commission Committee w/SCS",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Select Committee on Property Taxes and the State Tax Commission Committee (6511S.03C)",
+      "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:55:14Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
@@ -47,65 +91,35 @@
       }
     },
     {
-      "description": "Hearing Conducted S Select Committee on Property Taxes and the State Tax Commission Committee",
-      "date": "2026-02-18T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
-      }
-    },
-    {
-      "description": "SCS Voted Do Pass S Select Committee on Property Taxes and the State Tax Commission Committee (6511S.03C)",
-      "date": "2026-03-11T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "committee-passage"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-12T12:55:14Z"
-      }
-    },
-    {
-      "description": "Reported from S Select Committee on Property Taxes and the State Tax Commission Committee w/SCS",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-19T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
+        "log_file_created": "2026-02-27T12:54:29Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hudson",
+      "name": "Hudson, Brad",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hudson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Hudson, Brad\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6511S.03C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR111.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SJR111.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -113,10 +127,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute",
+      "note": "6511S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SJR111.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR111.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -128,19 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=103420",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=103420",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=103420",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=103420",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6511S.03C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -148,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

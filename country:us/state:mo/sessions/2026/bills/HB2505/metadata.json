@@ -254,6 +254,16 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wednesday, April 1, 2020, 8:15 a.m., Senate Lounge-3rd Floor",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -432,6 +442,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

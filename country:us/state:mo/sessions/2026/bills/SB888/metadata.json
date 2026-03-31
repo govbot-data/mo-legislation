@@ -66,6 +66,16 @@
       }
     },
     {
+      "description": "Message received from the House",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
       "description": "Truly Agreed To and Finally Passed",
       "date": "2026-03-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -587,6 +597,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

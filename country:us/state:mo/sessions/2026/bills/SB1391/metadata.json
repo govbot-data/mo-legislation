@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1391",
-  "title": "Modifies provisions relating to the appointment of counsel for postconviction relief of sentences of death",
+  "title": "SB 1391 - This act modifies provisions relating to the appointment of counsel for postconviction relief of sentences of death. Current law provides that when a motion to set aside a sentence of death is filed, the court shall find on the record whether the movant is indigent and if so, the court shall appoint two counsel. This act instead provides that when a circuit court imposes a judgment and sentence of death, the circuit court shall find on the record whether the defendant is indigent. If finding so, the court shall appoint two counsel for the preparation and litigation of a defendant's motion under Rules of the Supreme Court of Missouri. Furthermore, if the court finds that the defendant is not indigent, the court may enter an order denying the appointment of counsel.\r\n\r\n\tAdditionally, this act adds three years of litigation experience in the field of postconviction law and five years as a member of the Missouri Bar to the qualifications of one of the counsel. The court may also appoint other counsel whose background, knowledge, or experience would otherwise be proper representation of the defendant for postconviction relief. Finally, the state shall comply with any additional requirements of federal law and regulation relating to appointment of counsel for capital sentences and certification by the United States Attorney General.\r\n\r\n\tThis act contains provisions identical to SB 741 (2025) and HB 1169 (2025).\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to the appointment of counsel for postconviction relief of sentences of death"
+      "abstract": "SB 1391 - This act modifies provisions relating to the appointment of counsel for postconviction relief of sentences of death. Current law provides that when a motion to set aside a sentence of death is filed, the court shall find on the record whether the movant is indigent and if so, the court shall appoint two counsel. This act instead provides that when a circuit court imposes a judgment and sentence of death, the circuit court shall find on the record whether the defendant is indigent. If finding so, the court shall appoint two counsel for the preparation and litigation of a defendant's motion under Rules of the Supreme Court of Missouri. Furthermore, if the court finds that the defendant is not indigent, the court may enter an order denying the appointment of counsel.\r\n\r\n\tAdditionally, this act adds three years of litigation experience in the field of postconviction law and five years as a member of the Missouri Bar to the qualifications of one of the counsel. The court may also appoint other counsel whose background, knowledge, or experience would otherwise be proper representation of the defendant for postconviction relief. Finally, the state shall comply with any additional requirements of federal law and regulation relating to appointment of counsel for capital sentences and certification by the United States Attorney General.\r\n\r\n\tThis act contains provisions identical to SB 741 (2025) and HB 1169 (2025).\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the appointment of counsel for postconviction relief of sentences of death"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1391"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Hearing Scheduled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Schroer",
+      "name": "Schroer, Nick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5762S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1391.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=556",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=556",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=556",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=556",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5762S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

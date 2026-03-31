@@ -20,7 +20,11 @@
       "title": "HCS HB 1948"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1948"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -298,15 +302,25 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wendesday, April 1, 2026, 8:00 a.m., Senate Committee Room 1 - 1st Floor",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Jamie Gragg",
+      "name": "Jamie Ray Gragg",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jamie Gragg\"}",
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
       "organization_id": null
     },
     {
@@ -507,6 +521,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

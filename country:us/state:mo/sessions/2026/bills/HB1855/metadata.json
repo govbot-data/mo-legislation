@@ -218,6 +218,18 @@
       "_processing": {
         "log_file_created": "2026-03-27T13:01:19Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Third Reading Calendar (H)",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -315,14 +327,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bennie Cook\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Burt Whaley",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Burt Whaley\"}",
       "organization_id": null
     },
     {
@@ -552,6 +556,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4267H.04P.UPD",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4267H.04P.UPD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -582,6 +597,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

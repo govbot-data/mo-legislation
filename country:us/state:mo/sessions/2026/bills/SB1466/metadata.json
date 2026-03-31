@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1466",
-  "title": "Provides for the distribution of moneys related to gaming for a veterans memorial or museum in Perry County and of moneys related to medical cannabis for veteran services",
+  "title": "SB 1466 - This act modifies provisions relating to funds for veteran services, including services funded from moneys from the Veterans Commission Capital Improvement Trust Fund and fees deposited in the Missouri Veterans' Health and Care Fund.\r\n\r\n\tThis act provides that funds totaling no more than $500,000 from the Veterans Commission Capital Improvement Trust Fund shall be used for the restoration, renovation, and maintenance of a memorial or museum dedicated to Missouri and United States veterans in Perry County. \r\n\r\n\tAdditionally, funds allocated in the Missouri Veterans' Health and Care Fund as administrative and processing fees for duties related to medical cannabis by the Department of Health and Senior Services may be appropriated for services, programs, or projects dedicated to addressing the mental health needs of veterans.\r\n\r\n\tThis act is similar to HB 1828 (2026), HB 2244 (2026), SB 745 (2025), and HB 1482 (2025).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,41 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Provides for the distribution of moneys related to gaming for a veterans memorial or museum in Perry County and of moneys related to medical cannabis for veteran services"
+      "abstract": "SB 1466 - This act modifies provisions relating to funds for veteran services, including services funded from moneys from the Veterans Commission Capital Improvement Trust Fund and fees deposited in the Missouri Veterans' Health and Care Fund.\r\n\r\n\tThis act provides that funds totaling no more than $500,000 from the Veterans Commission Capital Improvement Trust Fund shall be used for the restoration, renovation, and maintenance of a memorial or museum dedicated to Missouri and United States veterans in Perry County. \r\n\r\n\tAdditionally, funds allocated in the Missouri Veterans' Health and Care Fund as administrative and processing fees for duties related to medical cannabis by the Department of Health and Senior Services may be appropriated for services, programs, or projects dedicated to addressing the mental health needs of veterans.\r\n\r\n\tThis act is similar to HB 1828 (2026), HB 2244 (2026), SB 745 (2025), and HB 1482 (2025).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides for the distribution of moneys related to gaming for a veterans memorial or museum in Perry County and of moneys related to medical cannabis for veteran services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1466"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-23T06:00:00+00:00",
+      "description": "Voted Do Pass S Local Government, Elections and Pensions Committee",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-03-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-24T12:38:31Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-31T13:13:24Z"
       }
     },
     {
@@ -52,30 +61,42 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Local Government, Elections and Pensions Committee",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-23T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
+        "log_file_created": "2025-12-24T12:38:31Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6233S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1466.pdf",
@@ -90,19 +111,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=36593",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=36593",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=36593",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=36593",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6233S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1499",
-  "title": "Creates the \"Food is Medicine Act\"",
+  "title": "SB 1499 - This act creates the \"Food is Medicine Act\".  Under this act, the Department of Social Services shall submit a waiver to the Centers for Medicare and Medicaid Services for a \"Food is Medicine\" program.  The program shall be designed to improve health outcomes for MO HealthNet participants with nutrition-related chronic diseases through nutrition services and to reduce the need for medical care for those participants.  Covered nutrition services may include case management, nutrition counseling, meals or pantry stocking, nutrition prescriptions, and grocery provisions.  When feasible, the MO HealthNet Division shall prioritize the inclusion of community-based organizations and local growers to support the purchase of locally grown food in nutrition prescription.\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,49 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates the \"Food is Medicine Act\""
+      "abstract": "SB 1499 - This act creates the \"Food is Medicine Act\".  Under this act, the Department of Social Services shall submit a waiver to the Centers for Medicare and Medicaid Services for a \"Food is Medicine\" program.  The program shall be designed to improve health outcomes for MO HealthNet participants with nutrition-related chronic diseases through nutrition services and to reduce the need for medical care for those participants.  Covered nutrition services may include case management, nutrition counseling, meals or pantry stocking, nutrition prescriptions, and grocery provisions.  When feasible, the MO HealthNet Division shall prioritize the inclusion of community-based organizations and local growers to support the purchase of locally grown food in nutrition prescription.\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Food is Medicine Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1499"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2026-01-06T06:00:00+00:00",
+      "description": "Hearing Scheduled S Families, Seniors and Health Committee",
+      "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-07T12:40:42Z"
+        "log_file_created": "2026-03-31T13:13:24Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Re-referred S Families, Seniors and Health Committee",
+      "date": "2026-03-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-10T12:55:38Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:38Z"
       }
     },
     {
@@ -52,40 +69,42 @@
       }
     },
     {
-      "description": "Hearing Cancelled S Agriculture, Food Production and Outdoor Resources Committee",
-      "date": "2026-03-05T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "Re-referred S Families, Seniors and Health Committee",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2026-01-06T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:38Z"
+        "log_file_created": "2026-01-07T12:40:42Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Mosley",
+      "name": "Mosley, Angela",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mosley\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Mosley, Angela\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5038S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1499.pdf",
@@ -100,19 +119,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=74584",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=74584",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=74584",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=74584",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5038S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -120,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:38Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }

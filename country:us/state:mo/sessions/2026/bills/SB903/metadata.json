@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Executive Session Scheduled H Utilities--(8:00 a.m. - HR 1)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
       "description": "Hearing Conducted H Utilities",
       "date": "2026-03-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -291,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-03-31T13:13:24Z"
   }
 }
