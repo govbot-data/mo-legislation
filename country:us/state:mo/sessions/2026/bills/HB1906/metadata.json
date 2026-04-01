@@ -18,7 +18,11 @@
       "title": "HB 1906"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1906"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -153,6 +157,16 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:55:51Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +176,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Peggy McGaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marla Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marla Smith\"}",
       "organization_id": null
     }
   ],
@@ -244,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:55:51Z"
+    "logs_latest_update": "2026-04-01T13:16:45Z"
   }
 }

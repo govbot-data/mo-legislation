@@ -211,6 +211,52 @@
       "_processing": {
         "log_file_created": "2026-03-27T13:01:19Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Third Reading Calendar (H)",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 4 NOES: 3 PRESENT: 0",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -379,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-04-01T13:16:45Z"
   }
 }

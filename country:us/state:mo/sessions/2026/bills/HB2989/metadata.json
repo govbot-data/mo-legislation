@@ -14,7 +14,11 @@
       "title": "HCS HB 2989"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2989"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -173,13 +177,13 @@
       }
     },
     {
-      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, adopted",
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, adopted - AYES: 68 NOES: 60 PRESENT: 17",
       "date": "2026-02-16T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-04-01T13:16:45Z"
       }
     },
     {
@@ -218,23 +222,25 @@
       }
     },
     {
-      "description": "Reported to the Senate",
+      "description": "Delivered to the Senate",
       "date": "2026-02-18T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-04-01T13:16:45Z"
       }
     },
     {
-      "description": "Read First Time (S)",
+      "description": "Reported to the Senate and First Read (S)",
       "date": "2026-02-19T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
+        "log_file_created": "2026-04-01T13:16:45Z"
       }
     },
     {
@@ -245,6 +251,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wendesday, April 1, 2026, 10:00 a.m., Senate Lounge - 3rd Floor",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
       }
     }
   ],
@@ -693,6 +709,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-04-01T13:16:45Z"
   }
 }

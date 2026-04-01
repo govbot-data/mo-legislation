@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1492",
-  "title": "Establishes provisions relating to license reciprocity for physician assistants, including the Physician Assistant Licensure Compact",
+  "title": "SCS/SB 1492 - This act establishes the PA Licensure Compact (\"Compact\"), which allows for the interstate licensure of physician assistants. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for a physician assistant to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tA compact privilege expires when the licensee's qualifying license in the participating state from which the licensee applied for the compact privilege expires. A participating state in which a licensee is licensed shall have exclusive power to impose adverse actions against the license issued by that state. A remote state shall have the authority to take adverse action to remove the compact privilege within that state for a physician assistant. Participating states may also conduct joint investigations with other participating states. Participating states shall report licensure data along with any adverse action and significant investigative information to the data system established in the Compact. \r\n\r\n\tAdditionally, the Compact creates the PA Licensure Compact Commission (\"Commission\"), which is a joint government agency of participating states with the power to administer and implement the Compact. Each participating state shall be entitled to one delegate, who shall be selected by the state's licensing authority for physician assistants and who shall either be a current physician assistant, physician, or member or administrator of the licensing board. The Commission shall meet at least once a year. Additionally, there shall be an Executive Committee to act on behalf of the Commission, including on day-to-day activities related to the administration of the Compact. The Executive Committee shall be composed of seven members from the current Commission and two of members from national professional and certification organizations.\r\n\r\n\tThe Commission may levy and collect an annual assessment from each participating state and impose fees on licensees to whom it grants compact privileges to cover the costs of the operations and activities of the Commission and its staff. \r\n\r\n\tCommissioners, officers, executive directors, employees, and agents of the Commission shall be immune from liability, both personally and in their official capacity, for any claim for damages arising out of any acts or omissions that occurred within the scope of the Commission's  employment, duties, or responsibilities, except for those damages caused by intentional or willful or wanton misconduct. The procurement of insurance by the Commission shall not limit such immunity. For any actions by or against the Commission, venue is proper in a court of competent jurisdiction where the principal office of the Commission is located.\r\n\r\n\tUpon enactment, the Compact shall be reviewed by the Commission to determine if it is materially different from the Model Compact and whether the state qualifies for participation in the Compact. Any state that adopts the Compact subsequent to the Commission\u2019s initial adoption of the rules and bylaws shall be subject to the rules and bylaws existing on the date on which the Compact becomes law.\r\n\r\n\tFinally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\n\r\n\tThis act is identical to HB 3129 (2026) and is similar to HB 1388 (2025).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,41 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes provisions relating to license reciprocity for physician assistants, including the Physician Assistant Licensure Compact"
+      "abstract": "SCS/SB 1492 - This act establishes the PA Licensure Compact (\"Compact\"), which allows for the interstate licensure of physician assistants. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for a physician assistant to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tA compact privilege expires when the licensee's qualifying license in the participating state from which the licensee applied for the compact privilege expires. A participating state in which a licensee is licensed shall have exclusive power to impose adverse actions against the license issued by that state. A remote state shall have the authority to take adverse action to remove the compact privilege within that state for a physician assistant. Participating states may also conduct joint investigations with other participating states. Participating states shall report licensure data along with any adverse action and significant investigative information to the data system established in the Compact. \r\n\r\n\tAdditionally, the Compact creates the PA Licensure Compact Commission (\"Commission\"), which is a joint government agency of participating states with the power to administer and implement the Compact. Each participating state shall be entitled to one delegate, who shall be selected by the state's licensing authority for physician assistants and who shall either be a current physician assistant, physician, or member or administrator of the licensing board. The Commission shall meet at least once a year. Additionally, there shall be an Executive Committee to act on behalf of the Commission, including on day-to-day activities related to the administration of the Compact. The Executive Committee shall be composed of seven members from the current Commission and two of members from national professional and certification organizations.\r\n\r\n\tThe Commission may levy and collect an annual assessment from each participating state and impose fees on licensees to whom it grants compact privileges to cover the costs of the operations and activities of the Commission and its staff. \r\n\r\n\tCommissioners, officers, executive directors, employees, and agents of the Commission shall be immune from liability, both personally and in their official capacity, for any claim for damages arising out of any acts or omissions that occurred within the scope of the Commission's  employment, duties, or responsibilities, except for those damages caused by intentional or willful or wanton misconduct. The procurement of insurance by the Commission shall not limit such immunity. For any actions by or against the Commission, venue is proper in a court of competent jurisdiction where the principal office of the Commission is located.\r\n\r\n\tUpon enactment, the Compact shall be reviewed by the Commission to determine if it is materially different from the Model Compact and whether the state qualifies for participation in the Compact. Any state that adopts the Compact subsequent to the Commission\u2019s initial adoption of the rules and bylaws shall be subject to the rules and bylaws existing on the date on which the Compact becomes law.\r\n\r\n\tFinally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\n\r\n\tThis act is identical to HB 3129 (2026) and is similar to HB 1388 (2025).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the PA Licensure Compact"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1492"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2026-01-05T06:00:00+00:00",
+      "description": "SCS Voted Do Pass S Emerging Issues and Professional Registration Committee (6140S.02C)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-06T12:40:01Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-04-01T13:16:45Z"
       }
     },
     {
@@ -52,30 +61,53 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Emerging Issues and Professional Registration Committee",
-      "date": "2026-03-10T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2026-01-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
+        "log_file_created": "2026-01-06T12:40:01Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bean",
+      "name": "Bean, Jason",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bean\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1492.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6140S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1492.pdf",
@@ -90,19 +122,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=71188",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=71188",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=71188",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=71188",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6140S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-04-01T13:16:45Z"
   }
 }

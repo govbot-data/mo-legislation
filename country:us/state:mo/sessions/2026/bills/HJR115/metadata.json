@@ -147,6 +147,18 @@
       "_processing": {
         "log_file_created": "2026-03-27T13:01:19Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 0",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:16:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -597,6 +609,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carolyn Caton\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jamie Ray Gragg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Hein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Hein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Butz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Butz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitch Boggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mitch Boggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chanel Mosley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chanel Mosley\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -700,6 +760,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-04-01T13:16:45Z"
   }
 }
