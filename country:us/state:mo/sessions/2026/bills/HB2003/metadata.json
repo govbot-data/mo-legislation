@@ -236,6 +236,16 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:13:24Z"
       }
+    },
+    {
+      "description": "Second read and referred: Appropriations(S)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -503,6 +513,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:13:24Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

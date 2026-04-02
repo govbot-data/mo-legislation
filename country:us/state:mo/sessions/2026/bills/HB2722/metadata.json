@@ -1,25 +1,27 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2722",
-  "title": "Establishes a liaison for postsecondary education for homeless pupils within the department of higher education and workforce development",
+  "title": "Establishes the \"Success for Homeless and Foster Youth in Higher Education Act\"",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "BOARDS, COMMISSIONS, COMMITTEES, AND COUNCILS",
     "CHILDREN AND MINORS",
-    "EDUCATION, HIGHER",
-    "GOVERNOR AND LT. GOVERNOR"
+    "EDUCATION, HIGHER"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2722"
+      "title": "HCS HB 2722"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2722"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -74,6 +76,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 13 NOES: 2 PRESENT: 0",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,6 +129,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6266H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6266H.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -122,6 +169,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2722Testimony3-11.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -143,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

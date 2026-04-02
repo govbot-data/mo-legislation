@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 3 - AYES: 25 NOES: 5 PRESENT: 0",
+    "date": "2026-03-31T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2641"
+}

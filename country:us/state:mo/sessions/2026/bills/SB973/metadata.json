@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Commerce--(8:00 a.m. - HR 6)",
+      "description": "HCS Reported Do Pass H Commerce",
       "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-01T13:16:45Z"
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Commerce",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
       }
     },
     {
@@ -247,6 +261,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4981H.05C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0973.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4981S.04P - Perfected",
       "links": [
         {
@@ -322,7 +347,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4981S.04P"
+    "MO_BILL_LR": "4981H.05C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -331,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

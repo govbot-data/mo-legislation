@@ -19,7 +19,11 @@
       "title": "HB 2000"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2000"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -140,6 +144,28 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:07:47Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,6 +175,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"John Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Amato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Amato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Steinmeyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Steinmeyer\"}",
       "organization_id": null
     }
   ],
@@ -231,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:07:47Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

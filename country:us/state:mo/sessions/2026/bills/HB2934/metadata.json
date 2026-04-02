@@ -383,6 +383,52 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:13:24Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (S)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -453,6 +499,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6164H.01P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Truly Agreed and Finally Passed",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6164H.01T.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -569,6 +626,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:13:24Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

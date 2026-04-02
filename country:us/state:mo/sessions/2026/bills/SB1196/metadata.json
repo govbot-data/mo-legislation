@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1196",
-  "title": "SB 1196 - This act requires the Governor, in consultation with the Missouri Workforce Development Board, to approve workforce training programs that are eligible for federal Workforce Pell Grants if they prepare students for a high-skill industry sector or occupation, a high-wage industry sector or occupation, or an in-demand industry sector or occupation, as such terms are defined in the act.\r\n\r\n\tThe Board shall establish a process for institutions and programs to apply for approval and appeal denials of Workforce Pell Grants, shall coordinate approval of eligible workforce training programs with other state and federal workforce programs, and shall require eligible workforce training programs to provide verifiable data demonstrating program outcomes.\r\nJOSH NORBERG",
+  "title": "SS/SB 1196 - This act modifies provisions relating to grants for certain workforce training programs.\r\n\r\nFAST TRACK WORKFORCE INCENTIVE GRANT\r\n\tThis act increases the maximum gross income for eligibility for the Fast Track Workforce Incentive Grant from $80,000 to $100,000 for taxpayers who are married filing jointly and from $40,000 to $50,000 for all other taxpayers. (Section 173.2553)\r\n\r\n\tThis provision is substantially similar to SB 1451 (2026), SB 416 (2025), HB 855 (2025), SB 1056 (2024), and HB 2278 (2024), and to a provision in SCS/HCS/HB 1569 (2024).\r\n\r\nWORKFORCE PELL GRANTS\r\n\tThis act allows the Governor, in consultation with the Missouri Workforce Development Board, to approve all eligible workforce training programs for participation in the workforce Pell grant program. The Board shall coordinate approval of eligible workforce training programs with other state and federal workforce programs. (Sections 620.511 to 620.514)\r\n\r\n\tThis act contains an emergency clause.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SB 1196 - This act requires the Governor, in consultation with the Missouri Workforce Development Board, to approve workforce training programs that are eligible for federal Workforce Pell Grants if they prepare students for a high-skill industry sector or occupation, a high-wage industry sector or occupation, or an in-demand industry sector or occupation, as such terms are defined in the act.\r\n\r\n\tThe Board shall establish a process for institutions and programs to apply for approval and appeal denials of Workforce Pell Grants, shall coordinate approval of eligible workforce training programs with other state and federal workforce programs, and shall require eligible workforce training programs to provide verifiable data demonstrating program outcomes.\r\nJOSH NORBERG"
+      "abstract": "SS/SB 1196 - This act modifies provisions relating to grants for certain workforce training programs.\r\n\r\nFAST TRACK WORKFORCE INCENTIVE GRANT\r\n\tThis act increases the maximum gross income for eligibility for the Fast Track Workforce Incentive Grant from $80,000 to $100,000 for taxpayers who are married filing jointly and from $40,000 to $50,000 for all other taxpayers. (Section 173.2553)\r\n\r\n\tThis provision is substantially similar to SB 1451 (2026), SB 416 (2025), HB 855 (2025), SB 1056 (2024), and HB 2278 (2024), and to a provision in SCS/HCS/HB 1569 (2024).\r\n\r\nWORKFORCE PELL GRANTS\r\n\tThis act allows the Governor, in consultation with the Missouri Workforce Development Board, to approve all eligible workforce training programs for participation in the workforce Pell grant program. The Board shall coordinate approval of eligible workforce training programs with other state and federal workforce programs. (Sections 620.511 to 620.514)\r\n\r\n\tThis act contains an emergency clause.\r\nJOSH NORBERG"
     }
   ],
   "other_titles": [
@@ -26,13 +26,33 @@
   ],
   "actions": [
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-03-26T05:00:00+00:00",
+      "description": "Perfected",
+      "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-26T13:10:22Z"
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "SS S offered & adopted (Henderson)--(5629S.04F)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
       }
     },
     {
@@ -116,10 +136,32 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5629S.04P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1196.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5629S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1196.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/1/2026 - SS S offered & adopted (Henderson)--(5629S.04F)\r\n                    \r\n                        4/1/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=378",
           "media_type": "application/pdf"
         }
       ],
@@ -136,7 +178,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5629S.01I"
+    "MO_BILL_LR": "5629S.04P"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -145,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:10:22Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

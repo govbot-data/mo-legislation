@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Financial Institutions--(12:00 p.m. or Upon Morning Recess - HR 1)",
+      "description": "HCS Reported Do Pass H Financial Institutions",
       "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-27T13:01:19Z"
+        "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Financial Institutions",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:08:08Z"
       }
     },
     {
@@ -237,6 +251,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5285H.07C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0835.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5285S.05P - Perfected",
       "links": [
         {
@@ -301,7 +326,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5285S.05P"
+    "MO_BILL_LR": "5285H.07C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -310,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-04-02T13:08:08Z"
   }
 }

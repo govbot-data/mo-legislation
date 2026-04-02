@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Truly Agreed To and Finally Passed",
+    "date": "2026-04-01T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2934"
+}
