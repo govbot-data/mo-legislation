@@ -1,19 +1,21 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 3314",
-  "title": "Modifies provisions to allow DCI to share confidential information and materials with the guaranty associations in case of a member insurer's insolvency",
+  "title": "Allows DCI to share confidential information with guaranty associations on insolvency matters, amends composition of board members, and suspends plan of operation for association if medical malpractice insurance is available in voluntary market",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "BUSINESS AND COMMERCE",
+    "CORPORATIONS",
     "INSURANCE - GENERAL"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 3314"
+      "title": "HCS HB 3314"
     }
   ],
   "other_identifiers": [
@@ -109,6 +111,18 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:16:45Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 10 NOES: 1 PRESENT: 0",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,6 +142,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/7088H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/7088H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -189,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

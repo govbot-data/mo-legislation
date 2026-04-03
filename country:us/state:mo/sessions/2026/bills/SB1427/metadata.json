@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1427",
-  "title": "SB 1427 - Currently, it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, or for a person to operate, use or maintain and discharge water contaminants from any water contaminant unless the person holds a permit. The act repeals these provisions.\r\nJULIA SHEVELEVA",
+  "title": "SCS/SB 1427 - The act provides that it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, subject to the exemptions that exempt agricultural storm water discharge from permitting requirements.\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges shall be exempt from certain permitting requirements under the Missouri Clean Water Law.\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SB 1427 - Currently, it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, or for a person to operate, use or maintain and discharge water contaminants from any water contaminant unless the person holds a permit. The act repeals these provisions.\r\nJULIA SHEVELEVA"
+      "abstract": "SCS/SB 1427 - The act provides that it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, subject to the exemptions that exempt agricultural storm water discharge from permitting requirements.\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges shall be exempt from certain permitting requirements under the Missouri Clean Water Law.\r\nJULIA SHEVELEVA"
     }
   ],
   "other_titles": [
@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled S Agriculture, Food Production and Outdoor Resources Committee",
+      "description": "SCS Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee (5875S.02C)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
       "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-24T13:06:49Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
       }
     },
     {
@@ -94,6 +106,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1427.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5875S.01I - Introduced",
       "links": [
         {
@@ -123,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

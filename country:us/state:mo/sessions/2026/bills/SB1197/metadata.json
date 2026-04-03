@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1197",
-  "title": "Enacts the \"Alexander Whalen Safe Highways Act\" pertaining to wrong-way vehicle detection systems",
+  "title": "SB 1197 - This act establishes the \"Alexander Whalen Safe Highways Act\", requiring the Department of Transportation to implement wrong-way vehicle detection systems (WWVDSs), as defined in the act.  Implementation shall begin no later than March 1, 2027, and shall prioritize certain interchanges, as specified in the act.\r\n\r\n\tThe Department shall evaluate the feasibility and effectiveness of notification systems for other drivers and for emergency responders.  The Department shall also provide educational information to inform drivers about wrong-way driving risks and safety measures, and shall produce annual reports on the implementation and effectiveness of WWVDSs.\r\n\r\n\tThis act is identical to SCS/SB 672 (2025) and is similar to HB 1387 (2025).\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Enacts the \"Alexander Whalen Safe Highways Act\" pertaining to wrong-way vehicle detection systems"
+      "abstract": "SB 1197 - This act establishes the \"Alexander Whalen Safe Highways Act\", requiring the Department of Transportation to implement wrong-way vehicle detection systems (WWVDSs), as defined in the act.  Implementation shall begin no later than March 1, 2027, and shall prioritize certain interchanges, as specified in the act.\r\n\r\n\tThe Department shall evaluate the feasibility and effectiveness of notification systems for other drivers and for emergency responders.  The Department shall also provide educational information to inform drivers about wrong-way driving risks and safety measures, and shall produce annual reports on the implementation and effectiveness of WWVDSs.\r\n\r\n\tThis act is identical to SCS/SB 672 (2025) and is similar to HB 1387 (2025).\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts the \"Alexander Whalen Safe Highways Act\" pertaining to wrong-way vehicle detection systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1197"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Hearing Scheduled S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:03Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-01-27T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
+        "log_file_created": "2025-12-02T22:15:03Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Gregory (15)",
+      "name": "Gregory (15), David",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (15)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (15), David\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4863S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1197.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=455",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=455",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=455",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=455",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4863S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:44:25Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

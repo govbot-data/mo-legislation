@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1646",
-  "title": "Modifies provisions relating to the use of certain tourism tax revenues",
+  "title": "SB 1646 - Current law authorizes the city of Branson to impose certain tourism taxes, with the revenue used for infrastructure improvements and tourism marketing. This act provides that the revenues used for infrastructure improvements may include constructing and maintaining tourism infrastructure facilities and parks, as well as for acquiring, constructing, and maintaining facilities for promoting tourism.\r\n\r\n\tTourism infrastructure facilities are defined as structures, fixtures, systems, and facilities of multipurpose sports and entertainment venues with seating capacity of less than 25,000, as described in the act.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,29 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to the use of certain tourism tax revenues"
+      "abstract": "SB 1646 - Current law authorizes the city of Branson to impose certain tourism taxes, with the revenue used for infrastructure improvements and tourism marketing. This act provides that the revenues used for infrastructure improvements may include constructing and maintaining tourism infrastructure facilities and parks, as well as for acquiring, constructing, and maintaining facilities for promoting tourism.\r\n\r\n\tTourism infrastructure facilities are defined as structures, fixtures, systems, and facilities of multipurpose sports and entertainment venues with seating capacity of less than 25,000, as described in the act.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the use of certain tourism tax revenues"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1646"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-02-09T06:00:00+00:00",
+      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
       }
     },
     {
@@ -40,22 +47,34 @@
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-17T12:58:31Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Henderson",
+      "name": "Henderson, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henderson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Henderson, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7104S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1646.pdf",
@@ -70,19 +89,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=4064825",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=4064825",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=4064825",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4064825",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7104S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -90,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

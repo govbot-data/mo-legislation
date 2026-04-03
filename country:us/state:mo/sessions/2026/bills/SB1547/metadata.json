@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1547",
-  "title": "Modifies provisions relating to benevolent tax credits",
+  "title": "SB 1547 - This act modifies provisions relating to benevolent tax credits.\r\n\r\nDOMESTIC VIOLENCE SHELTER TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a shelter for victims of domestic violence and rape crisis centers in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the shelter for victims of domestic violence or rape crisis center is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation. (Section 135.550)\r\n\r\nMATERNITY HOME TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a maternity home in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the maternity home is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, current law limits the maximum amount of tax credit that a taxpayer may claim in a tax year to $100,000. This act adjusts such amount annually for inflation.  (Section 135.600)\r\n\r\nDIAPER BANK TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a diaper bank in an amount equal to 50% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 70% of the contribution, or 100% of the contribution if the diaper bank is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation.\r\n\r\n\tCurrent law limits the total amount of tax credits in a fiscal year to $500,000. For all fiscal years beginning on or after July 1, 2026, this act removes such limit. \r\n\r\n\tFinally, current law provides that such tax credit shall sunset on December 31, 2031. This act repeals such sunset. (Section 135.621)\r\n\r\nPREGNANCY RESOURCE CENTER TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a pregnancy resource center in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the pregnancy resource center is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation. (Section 135.630)\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,29 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to benevolent tax credits"
+      "abstract": "SB 1547 - This act modifies provisions relating to benevolent tax credits.\r\n\r\nDOMESTIC VIOLENCE SHELTER TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a shelter for victims of domestic violence and rape crisis centers in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the shelter for victims of domestic violence or rape crisis center is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation. (Section 135.550)\r\n\r\nMATERNITY HOME TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a maternity home in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the maternity home is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, current law limits the maximum amount of tax credit that a taxpayer may claim in a tax year to $100,000. This act adjusts such amount annually for inflation.  (Section 135.600)\r\n\r\nDIAPER BANK TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a diaper bank in an amount equal to 50% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 70% of the contribution, or 100% of the contribution if the diaper bank is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation.\r\n\r\n\tCurrent law limits the total amount of tax credits in a fiscal year to $500,000. For all fiscal years beginning on or after July 1, 2026, this act removes such limit. \r\n\r\n\tFinally, current law provides that such tax credit shall sunset on December 31, 2031. This act repeals such sunset. (Section 135.621)\r\n\r\nPREGNANCY RESOURCE CENTER TAX CREDIT\r\n\tCurrent law authorizes a tax credit for contributions to a pregnancy resource center in an amount equal to 70% of the contribution. For all fiscal years beginning on or after July 1, 2026, this act increases such credit to 100% of the contribution if the pregnancy resource center is located in a rural area or serves a large number of residents of a rural area, as defined in the act.\r\n\r\n\tAdditionally, the act increases the maximum amount of tax credit that a taxpayer may claim in a tax year from $50,000 to $100,000, and adjusts such amount annually for inflation. (Section 135.630)\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to benevolent tax credits"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1547"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-12T06:00:00+00:00",
+      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-26T12:43:10Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
       }
     },
     {
@@ -40,22 +47,34 @@
       "_processing": {
         "log_file_created": "2026-02-06T12:54:35Z"
       }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-26T12:43:10Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Trent",
+      "name": "Trent, Curtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trent\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6582S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1547.pdf",
@@ -70,19 +89,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=627697",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=627697",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=627697",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=627697",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6582S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -90,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:35Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

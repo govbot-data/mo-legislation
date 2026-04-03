@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2904",
-  "title": "Modifies the offense of animal abuse",
+  "title": "Modifies and establishes provisions relating to animal abuse",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -15,7 +15,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2904"
+      "title": "HCS HB 2904"
     }
   ],
   "other_identifiers": [
@@ -91,6 +91,18 @@
       "_processing": {
         "log_file_created": "2026-04-02T13:08:08Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 13 NOES: 0 PRESENT: 0",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +135,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5546H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -131,6 +154,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2904I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2904C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -179,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

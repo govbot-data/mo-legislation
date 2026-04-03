@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported Do Not Pass (H) - AYES: 3 NOES: 6 PRESENT: 2",
+    "date": "2026-04-02T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2463"
+}

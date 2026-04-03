@@ -18,7 +18,11 @@
       "title": "HCS HBs 2968, 2427 & 3086"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2968"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -99,6 +103,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:55:14Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Administrative(H)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,10 +165,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2968C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6731H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6731H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6731H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6731H.02C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:55:14Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

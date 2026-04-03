@@ -14,7 +14,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 3256"
+      "title": "HCS HB 3256"
     }
   ],
   "other_identifiers": [
@@ -68,6 +68,40 @@
       "_processing": {
         "log_file_created": "2026-03-27T13:01:19Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 5 NOES: 1 PRESENT: 0",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -100,6 +134,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6319H.04C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -115,10 +160,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3256C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6319H.02I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6319H.02I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB3256Testimony3-26.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -145,6 +212,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

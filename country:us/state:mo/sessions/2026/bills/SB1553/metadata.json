@@ -26,6 +26,40 @@
   ],
   "actions": [
     {
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
       "description": "Perfected",
       "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -70,13 +104,13 @@
       }
     },
     {
-      "description": "SA 1 to SA 3 to SS S offered & adopted  (Gregory-21)--(6063S05.04S)",
+      "description": "SA 1 to SA 3 to SS S offered & adopted  (Gregory-21)--(6232S02.06S)",
       "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:08:08Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
       }
     },
     {
@@ -212,17 +246,6 @@
       "classification": ""
     },
     {
-      "note": "6232S02.06S - SA 1 SA 3 SS\r\n                    \r\n                        4/1/2026 - Adopted",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=364",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "4/1/2026 - SS S offered (Gregory-21)--(6232S.02F)\r\n                    \r\n                        4/1/2026 - Adopted, as amended",
       "links": [
         {
@@ -249,6 +272,17 @@
       "links": [
         {
           "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=363",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/1/2026 - SA 1 to SA 3 to SS S offered & adopted  (Gregory-21)--(6232S02.06S)\r\n                    \r\n                        4/1/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=364",
           "media_type": "application/pdf"
         }
       ],
@@ -297,6 +331,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

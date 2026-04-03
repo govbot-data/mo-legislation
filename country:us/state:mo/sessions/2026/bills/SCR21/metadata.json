@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SCR 21",
-  "title": "Encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250",
+  "title": "SCR 21 - This resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4th, 2026, and throughout the year.\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "concurrent resolution"
@@ -10,12 +10,43 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250"
+      "abstract": "SCR 21 - This resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4th, 2026, and throughout the year.\r\nJIM ERTLE"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scr21"
+    }
+  ],
   "actions": [
+    {
+      "description": "Hearing Scheduled S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
     {
       "description": "S Offered",
       "date": "2026-03-10T05:00:00+00:00",
@@ -27,34 +58,22 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
-    },
-    {
-      "description": "S Resolutions Calendar - To be Referred",
-      "date": "2026-03-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bernskoetter",
+      "name": "Bernskoetter, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bernskoetter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bernskoetter, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7532S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SCR21.pdf",
@@ -69,19 +88,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=8525943",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=8525943",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=8525943",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8525943",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7532S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -89,6 +102,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

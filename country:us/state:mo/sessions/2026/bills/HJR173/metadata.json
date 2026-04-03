@@ -295,13 +295,23 @@
       }
     },
     {
-      "description": "Public Hearing Scheduled (S) - Wednesday, April 1, 2026, 10:00 a.m., Senate Committee Report - 1st Floor",
+      "description": "Public Hearing Scheduled (S) - Wednesday, April 1, 2026, 10:45 a.m., Senate Committee Report - 1st Floor",
       "date": "2026-03-31T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-01T13:16:45Z"
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
       }
     }
   ],
@@ -503,6 +513,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

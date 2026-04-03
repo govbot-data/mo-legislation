@@ -18,7 +18,11 @@
       "title": "HB 2796"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2796"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -99,6 +103,18 @@
       "_processing": {
         "log_file_created": "2026-03-10T12:55:39Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,14 +124,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Marlon Anderson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Burt Whaley",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Burt Whaley\"}",
       "organization_id": null
     }
   ],
@@ -139,6 +147,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2796I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2796C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:39Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }

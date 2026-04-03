@@ -17,7 +17,11 @@
       "title": "HB 2370"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2370"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -62,6 +66,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:59:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +85,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tara Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connie Steinmetz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connie Steinmetz\"}",
       "organization_id": null
     }
   ],
@@ -88,7 +110,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2370I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 5863H.01I.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5863H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -108,6 +153,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-04-03T12:59:14Z"
   }
 }
