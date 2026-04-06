@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1082",
-  "title": "Modifies provisions relating to a tax credit for donated food",
+  "title": "SB 1082 - Current law authorizes a tax credit for donations of cash or food to local food pantries, local soup kitchens, and local homeless shelters in an amount equal to fifty percent of the value of the donation. For all tax years beginning on or after January 1, 2026, this act also authorizes a tax credit for donations of cash or food to local food banks, as defined in the act, and increases the tax credit amount to seventy percent of the value of the donation.\r\n\r\n\tAdditionally, the total amount of tax credits that may be authorized in a fiscal year shall not exceed $1.75 million. This act increases such amount to $3.5 million.\r\n\r\n\tFinally, the act extends the sunset date from December 31, 2026, to December 31, 2032, unless reauthorized by the General Assembly.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,72 +10,35 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to a tax credit for donated food"
+      "abstract": "SB 1082 - Current law authorizes a tax credit for donations of cash or food to local food pantries, local soup kitchens, and local homeless shelters in an amount equal to fifty percent of the value of the donation. For all tax years beginning on or after January 1, 2026, this act also authorizes a tax credit for donations of cash or food to local food banks, as defined in the act, and increases the tax credit amount to seventy percent of the value of the donation.\r\n\r\n\tAdditionally, the total amount of tax credits that may be authorized in a fiscal year shall not exceed $1.75 million. This act increases such amount to $3.5 million.\r\n\r\n\tFinally, the act extends the sunset date from December 31, 2026, to December 31, 2032, unless reauthorized by the General Assembly.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [
+  "other_titles": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-01-15T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
-      "date": "2026-03-11T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
-      }
+      "note": "",
+      "title": "Modifies provisions relating to a tax credit for donated food"
     }
   ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1082"
+    }
+  ],
+  "actions": [],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5426S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1082.pdf",
@@ -90,19 +53,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=117",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=117",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=117",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=117",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5426S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +67,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-04-06T13:04:38Z"
   }
 }
