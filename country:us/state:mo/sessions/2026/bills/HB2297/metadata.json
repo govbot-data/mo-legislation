@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2297",
-  "title": "Allows real property owners building a fence to enter an adjoining property up to ten feet without liability for trespassing",
+  "title": "Allows real property owners building a fence to enter an adjoining property up to 10 feet without liability for trespassing",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,7 +18,11 @@
       "title": "HCS HB 2297"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2297"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -153,6 +157,16 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -183,6 +197,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3890H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 3890H02.01H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/3890H02.01H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-04-08T13:16:13Z"
   }
 }

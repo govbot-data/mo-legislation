@@ -18,7 +18,11 @@
       "title": "HB 2267"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2267"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -153,6 +157,16 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:51:21Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-04-08T13:16:13Z"
   }
 }

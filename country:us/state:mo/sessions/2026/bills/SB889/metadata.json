@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Government Efficiency--(9:30 a.m. - HR 7)",
-      "date": "2026-04-02T05:00:00+00:00",
+      "description": "Reported Do Pass H Government Efficiency",
+      "date": "2026-04-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-01T13:16:45Z"
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Government Efficiency",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
       }
     },
     {
@@ -266,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-08T13:16:13Z"
   }
 }

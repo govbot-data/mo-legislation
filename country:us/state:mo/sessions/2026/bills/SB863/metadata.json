@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 863",
-  "title": "Requires the Governor to appoint a board of directors to oversee any statewide activities association that facilitates interscholastic activities for secondary school students",
+  "title": "SS/SB 863 - This act creates provisions governing organizations that facilitate interscholastic athletic activities for public secondary school students.  The act defines an \"activities association\" as a statewide nonprofit organization that includes at least one public school, charter school, or school district as a fee-paying member and that facilitates interscholastic activities, more than 50% of which are athletic activities, for secondary school students.  The term \"activities association\" does not include organizations that do not facilitate interscholastic athletic activities, such as career and technical student organizations and other organizations specified in the act.  A \"public school\" is defined as including both public schools and charter schools. \r\n\r\n\tUnder this act, an activities association shall be overseen by a board of directors appointed by the Governor, by and with the advice and consent of the Senate.  The board of directors shall be established within the Department of Elementary and Secondary Education (DESE) for administrative purposes, and DESE shall provide sufficient administrative and financial personnel to support the work of the board, as provided in the act.\r\n\r\n\tThe term of office of each director shall be four years, with the initial appointments staggered such that two members shall serve terms of two years and three members shall serve terms of four years.  If the General Assembly is not in session at the time for making an appointment, the Governor shall make a temporary appointment as in the case of a vacancy.\t\r\n\t\r\n\tThe act outlines the powers and duties of the board of directors.  The board shall:\r\n\t(1)  Employ an executive director to oversee the day to day operations of the activities association that directly or indirectly affect public schools, including oversight of the administrative procedures by which the association's bylaws or other policies are developed and submitted for consideration and adoption by the association's members;\r\n\t(2)  Serve as the appellate body responsible for handling appeals of decisions or rulings made by an activities association.  The State Board of Education shall promulgate rules as necessary to implement a fair and timely appeals process, including timelines for each stage of an appeal; and\r\n\t(3)  Serve as the intermediary for the collection and transfer of public school funds to an activities association in accordance with fee amounts set forth in the association's bylaws or other policies.  Public school funds shall be distributed to the activities association at least once annually.  The board of directors shall establish procedures for an activities association to request to change the amount or timing of the payments, as needed. \r\n\r\n\tPublic schools and school districts are prohibited from making direct payments to an activities association, and activities associations are prohibited from requesting or accepting such direct payments.  An activities association that violates this provision may be subject to a deduction from the public school funds to which the association would otherwise be entitled. \r\n\r\n\tAn activities association shall present comprehensive financial statements to the board of directors three times per year, on dates established by the board.  Each financial statement shall include sufficient detail to permit the board to assess the financial condition, revenues, expenditures, and compliance of the association, as provided in the act.\t\r\n\r\n\tThis act is similar to HB 2278 (2026).\r\nOLIVIA SHANNON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,15 +10,54 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires the Governor to appoint a board of directors to oversee any statewide activities association that facilitates interscholastic activities for secondary school students"
+      "abstract": "SS/SB 863 - This act creates provisions governing organizations that facilitate interscholastic athletic activities for public secondary school students.  The act defines an \"activities association\" as a statewide nonprofit organization that includes at least one public school, charter school, or school district as a fee-paying member and that facilitates interscholastic activities, more than 50% of which are athletic activities, for secondary school students.  The term \"activities association\" does not include organizations that do not facilitate interscholastic athletic activities, such as career and technical student organizations and other organizations specified in the act.  A \"public school\" is defined as including both public schools and charter schools. \r\n\r\n\tUnder this act, an activities association shall be overseen by a board of directors appointed by the Governor, by and with the advice and consent of the Senate.  The board of directors shall be established within the Department of Elementary and Secondary Education (DESE) for administrative purposes, and DESE shall provide sufficient administrative and financial personnel to support the work of the board, as provided in the act.\r\n\r\n\tThe term of office of each director shall be four years, with the initial appointments staggered such that two members shall serve terms of two years and three members shall serve terms of four years.  If the General Assembly is not in session at the time for making an appointment, the Governor shall make a temporary appointment as in the case of a vacancy.\t\r\n\t\r\n\tThe act outlines the powers and duties of the board of directors.  The board shall:\r\n\t(1)  Employ an executive director to oversee the day to day operations of the activities association that directly or indirectly affect public schools, including oversight of the administrative procedures by which the association's bylaws or other policies are developed and submitted for consideration and adoption by the association's members;\r\n\t(2)  Serve as the appellate body responsible for handling appeals of decisions or rulings made by an activities association.  The State Board of Education shall promulgate rules as necessary to implement a fair and timely appeals process, including timelines for each stage of an appeal; and\r\n\t(3)  Serve as the intermediary for the collection and transfer of public school funds to an activities association in accordance with fee amounts set forth in the association's bylaws or other policies.  Public school funds shall be distributed to the activities association at least once annually.  The board of directors shall establish procedures for an activities association to request to change the amount or timing of the payments, as needed. \r\n\r\n\tPublic schools and school districts are prohibited from making direct payments to an activities association, and activities associations are prohibited from requesting or accepting such direct payments.  An activities association that violates this provision may be subject to a deduction from the public school funds to which the association would otherwise be entitled. \r\n\r\n\tAn activities association shall present comprehensive financial statements to the board of directors three times per year, on dates established by the board.  Each financial statement shall include sufficient detail to permit the board to assess the financial condition, revenues, expenditures, and compliance of the association, as provided in the act.\t\r\n\r\n\tThis act is similar to HB 2278 (2026).\r\nOLIVIA SHANNON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires the Governor to appoint a board of directors to oversee any statewide activities association that facilitates interscholastic activities for secondary school students"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb863"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Perfected",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "SS#2 S offered & adopted  (Bean)--(5125S.07F)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "SS S withdrawn",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -27,33 +66,28 @@
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "SA 1 to SS S offered (Beck)--(5125S02.09S)",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:41:45Z"
       }
     },
     {
-      "description": "Second Read and Referred S Education Committee",
-      "date": "2026-01-08T06:00:00+00:00",
+      "description": "SS S offered (Bean)--(5125S.02F)",
+      "date": "2026-02-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:41:45Z"
       }
     },
     {
-      "description": "Hearing Conducted S Education Committee",
-      "date": "2026-01-22T06:00:00+00:00",
+      "description": "Reported from S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -74,8 +108,8 @@
       }
     },
     {
-      "description": "Reported from S Education Committee",
-      "date": "2026-01-29T06:00:00+00:00",
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-01-22T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -84,38 +118,33 @@
       }
     },
     {
-      "description": "SS S offered (Bean)--(5125S.02F)",
-      "date": "2026-02-03T06:00:00+00:00",
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:41:45Z"
       }
     },
     {
-      "description": "SA 1 to SS S offered (Beck)--(5125S02.09S)",
-      "date": "2026-02-03T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:41:45Z"
       }
     },
     {
-      "description": "Bill Placed on Informal Calendar",
-      "date": "2026-02-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
-      }
-    },
-    {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-03-09T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -126,18 +155,29 @@
   ],
   "sponsorships": [
     {
-      "name": "Bean",
+      "name": "Bean, Jason",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bean\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5125S.07P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB863.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5125S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB863.pdf",
@@ -146,25 +186,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "4/7/2026 - SS#2 S offered & adopted  (Bean)--(5125S.07F)\r\n                    \r\n                        4/7/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=381",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2/3/2026 - SS S offered (Bean)--(5125S.02F)\r\n                    \r\n                        4/7/2026 - Withdrawn",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=17",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/3/2026 - SA 1 to SS S offered (Beck)--(5125S02.09S)\r\n                    \r\n                        4/7/2026 - Moot",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=22",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=80",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=80",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=80",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=80",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5125S.07P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -172,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-04-08T13:16:13Z"
   }
 }

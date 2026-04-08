@@ -314,7 +314,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed - AYES: 29 NOES: 0 PRESENT: 5",
+      "description": "Truly Agreed To and Finally Passed - AYES: 29 NOES: 0 PRESENT: 0",
       "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -322,7 +322,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-25T13:04:55Z"
+        "log_file_created": "2026-04-08T13:16:13Z"
       }
     },
     {
@@ -363,6 +363,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-25T13:04:55Z"
+      }
+    },
+    {
+      "description": "Approved by Governor (G)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State (G)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
       }
     }
   ],
@@ -748,6 +770,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-25T13:04:55Z"
+    "logs_latest_update": "2026-04-08T13:16:13Z"
   }
 }

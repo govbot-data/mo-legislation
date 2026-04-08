@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing Scheduled H Emerging Issues--(12:00 p.m. or Upon or morning recess - HR 3)",
+    "date": "2026-04-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1421"
+}
