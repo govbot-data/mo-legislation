@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to Reconsider Adopted (H) - motion by which HCS HB 3239 was third read and defeated",
+    "date": "2026-04-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 3239"
+}

@@ -248,7 +248,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 145 NOES: 4 PRESENT: 1",
       "date": "2026-03-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -257,7 +257,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-31T13:13:24Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -270,6 +270,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-31T13:13:24Z"
+      }
+    },
+    {
+      "description": "Second read and referred: Select Committee on Property Taxes and the State Tax Commission(S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     }
   ],
@@ -518,6 +528,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:13:24Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

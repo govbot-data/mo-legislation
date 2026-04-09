@@ -6,18 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CIVIL RIGHTS",
-    "EDUCATION, ELEMENTARY AND SECONDARY",
-    "EDUCATION, HIGHER",
-    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF",
-    "HIGHER EDUCATION AND WORKFORCE DEVELOPMENT, DEPARTMENT OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2061"
+      "title": "SS HB 2061"
     }
   ],
   "other_identifiers": [
@@ -412,6 +406,75 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:16:13Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, adopted",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SS, as amended",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -537,10 +600,32 @@
       "classification": ""
     },
     {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4529S.04F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4529H03.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SENATE AMENDMENTS (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4529S04.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -635,6 +720,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

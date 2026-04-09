@@ -17,7 +17,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1910"
+      "title": "HCS HB 1910"
     }
   ],
   "other_identifiers": [
@@ -101,6 +101,18 @@
       "_processing": {
         "log_file_created": "2026-04-02T13:08:08Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 7 NOES: 0 PRESENT: 1",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,6 +132,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5538H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5538H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -181,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

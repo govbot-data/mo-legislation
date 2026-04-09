@@ -1,20 +1,23 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2576",
-  "title": "Designates the \"Dr Tommy Macdonnell Memorial Bridge\" in Webster County",
+  "title": "Creates several new state designations",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "EMBLEMS",
+    "HOLIDAYS AND OBSERVANCES",
     "ROADS AND HIGHWAYS",
+    "TOURISM",
     "TRANSPORTATION, DEPARTMENT OF"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2576"
+      "title": "HS HB 2576"
     }
   ],
   "other_identifiers": [
@@ -228,6 +231,18 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:16:13Z"
       }
+    },
+    {
+      "description": "HS Reported Do Pass (H) - AYES: 8 NOES: 0 PRESENT: 0",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -254,6 +269,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Brian Seitz\"}",
       "organization_id": null
+    },
+    {
+      "name": "Marla Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marla Smith\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -263,6 +286,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665H.02I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Substitute (House Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665H.04F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -361,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

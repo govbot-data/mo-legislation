@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Utilities--(8:00 a.m. - HR 1)",
-      "date": "2026-04-01T05:00:00+00:00",
+      "description": "Reported Do Pass H Utilities",
+      "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-31T13:13:24Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Utilities",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -301,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:13:24Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

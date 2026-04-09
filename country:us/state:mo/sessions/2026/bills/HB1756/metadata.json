@@ -243,6 +243,26 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:06:49Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Tuesday, April 8, 2026, 12:00 p.m., Senate Committee Room 1 - 1st Floor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - CORRECTED:  Tuesday, April 14, 2026, 12 p.m., SCR-1 - 1st Floor",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,11 +307,11 @@
       "organization_id": null
     },
     {
-      "name": "Jamie Gragg",
+      "name": "Jamie Ray Gragg",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jamie Gragg\"}",
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
       "organization_id": null
     },
     {
@@ -538,6 +558,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:06:49Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

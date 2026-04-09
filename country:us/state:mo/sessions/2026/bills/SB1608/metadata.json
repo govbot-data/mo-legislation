@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1608",
-  "title": "Authorizes a tax credit for contributions to certain youth police initiatives",
+  "title": "SB 1608 - For all tax years beginning on or after January 1, 2026, this act authorizes a taxpayer to claim a tax credit in an amount equal to 100% of contributions made to eligible entities. Eligible entities are defined as non-for-profit organizations that operate a youth police initiative in an urban area in this state. Youth police initiatives are defined as programs conducted by eligible entities for the purpose of engaging at-risk youth and local police officers in activities and conversation to build trust and break down stereotypes between youth and police.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five tax years and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $500,000.\r\n\r\n\tThe Department of Public Safety shall maintain a list of all eligible entities, and shall update such list at least annually. A taxpayer shall submit evidence of contributions to the Department.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 845 (2026).\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,22 +10,41 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes a tax credit for contributions to certain youth police initiatives"
+      "abstract": "SB 1608 - For all tax years beginning on or after January 1, 2026, this act authorizes a taxpayer to claim a tax credit in an amount equal to 100% of contributions made to eligible entities. Eligible entities are defined as non-for-profit organizations that operate a youth police initiative in an urban area in this state. Youth police initiatives are defined as programs conducted by eligible entities for the purpose of engaging at-risk youth and local police officers in activities and conversation to build trust and break down stereotypes between youth and police.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five tax years and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $500,000.\r\n\r\n\tThe Department of Public Safety shall maintain a list of all eligible entities, and shall update such list at least annually. A taxpayer shall submit evidence of contributions to the Department.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 845 (2026).\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for contributions to certain youth police initiatives"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1608"
+    }
+  ],
   "actions": [
     {
-      "description": "S First Read",
-      "date": "2026-01-29T06:00:00+00:00",
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-30T12:51:06Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -42,30 +61,32 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
-      "date": "2026-03-11T05:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-07T12:41:45Z"
+        "log_file_created": "2026-01-30T12:51:06Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Washington",
+      "name": "Washington, Barbara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Washington\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Washington, Barbara\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6612S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1608.pdf",
@@ -80,19 +101,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=2589609",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=2589609",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=2589609",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589609",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6612S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:41:45Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

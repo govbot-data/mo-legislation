@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SCR 21",
-  "title": "SCR 21 - This resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4th, 2026, and throughout the year.\r\nJIM ERTLE",
+  "title": "SCS/SCR 21 - This concurrent resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4, 2026, and throughout the year.\r\n\r\n\tThis concurrent resolution is identical to HCR 52 (2026).\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "concurrent resolution"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SCR 21 - This resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4th, 2026, and throughout the year.\r\nJIM ERTLE"
+      "abstract": "SCS/SCR 21 - This concurrent resolution encourages all Missouri citizens to engage in appropriate patriotic programs and events in observance of Show-Me America 250 on July 4, 2026, and throughout the year.\r\n\r\n\tThis concurrent resolution is identical to HCR 52 (2026).\r\nJIM ERTLE"
     }
   ],
   "other_titles": [
@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "description": "SCS Voted Do Pass S Rules, Joint Rules, Resolutions and Ethics Committee (7532S.02C)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Rules, Joint Rules, Resolutions and Ethics Committee",
       "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -73,6 +85,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SCR21.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "7532S.01I - Introduced",
       "links": [
         {
@@ -102,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:59:14Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

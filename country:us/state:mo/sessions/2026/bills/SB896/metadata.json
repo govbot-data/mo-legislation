@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 896",
-  "title": "Creates new provisions relating to elections",
+  "title": "SCS/SB 896 - The act creates new provisions relating to funds used for election administration. Specifically, government entities, as that term is defined in the act, are prohibited from soliciting, accepting, or using any funds or in-kind goods or services for election administration if those funds or in-kind goods or services are donated directly or indirectly by any person other than a government entity.  An election officer may, however, solicit, accept, or use funds or in-kind goods or services of de minimis value.\r\n\r\nGovernment entities are additionally prohibited from being members of or participate in programs run by organizations that engage in election administration and receive foreign funding.  Except as otherwise provided in the act, a government entity or election officer shall not join the membership of any entity, participate in any program, or purchase any services from any entity if such membership, program, or service relates to the administration of elections unless the entity complies with certain certification requirements as described in the act.\r\n\r\nAn election officer who, in his or her private capacity, joins or considers joining the membership of a person, or participates or considers participating in any program described above shall disclose his or her participation or membership, or potential participation or membership, and have the participation or potential participation or membership considered in a public hearing, and disclosed on his or her public website as provided by this act.\r\n\r\nViolation of these provisions is a class B misdemeanor. Moreover, any registered voter in the state is permitted to bring a cause of action to enforce this act. \r\n\r\nThe act preempts any local law in conflict with this act.\r\n\r\nThis act is substantially similar to provisions in HCS/HB 794 (2025).\r\nSCOTT SVAGERA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,29 +10,58 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates new provisions relating to elections"
+      "abstract": "SCS/SB 896 - The act creates new provisions relating to funds used for election administration. Specifically, government entities, as that term is defined in the act, are prohibited from soliciting, accepting, or using any funds or in-kind goods or services for election administration if those funds or in-kind goods or services are donated directly or indirectly by any person other than a government entity.  An election officer may, however, solicit, accept, or use funds or in-kind goods or services of de minimis value.\r\n\r\nGovernment entities are additionally prohibited from being members of or participate in programs run by organizations that engage in election administration and receive foreign funding.  Except as otherwise provided in the act, a government entity or election officer shall not join the membership of any entity, participate in any program, or purchase any services from any entity if such membership, program, or service relates to the administration of elections unless the entity complies with certain certification requirements as described in the act.\r\n\r\nAn election officer who, in his or her private capacity, joins or considers joining the membership of a person, or participates or considers participating in any program described above shall disclose his or her participation or membership, or potential participation or membership, and have the participation or potential participation or membership considered in a public hearing, and disclosed on his or her public website as provided by this act.\r\n\r\nViolation of these provisions is a class B misdemeanor. Moreover, any registered voter in the state is permitted to bring a cause of action to enforce this act. \r\n\r\nThe act preempts any local law in conflict with this act.\r\n\r\nThis act is substantially similar to provisions in HCS/HB 794 (2025).\r\nSCOTT SVAGERA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to elections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb896"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported from S Local Government, Elections and Pensions Committee w/SCS",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5016S.02C)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
@@ -52,22 +81,22 @@
       }
     },
     {
-      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
-      "date": "2026-02-02T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
       }
     },
     {
-      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5016S.02C)",
-      "date": "2026-02-09T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
@@ -76,21 +105,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Ben Brown (26)",
+      "name": "Brown (26), Ben",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ben Brown (26)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5016S.02C - Senate Committee Substitute",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB896.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB896.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -98,10 +127,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Committee Substitute - Committee Version",
+      "note": "5016S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB896.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB896.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -113,19 +142,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=249",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=249",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=249",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=249",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5016S.02C"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -133,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

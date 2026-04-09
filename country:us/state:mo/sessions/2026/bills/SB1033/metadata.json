@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1033",
-  "title": "Exempts certain farm vehicles from emissions inspection requirements",
+  "title": "SB 1033 - This act provides that motor vehicle emissions inspection requirements shall not apply to motor vehicles over 10 years old that are registered as local commercial vehicles and used for farm or farming transportation operations, or that are otherwise defined as \"covered farm vehicles\" under federal law.\r\n\r\n\tThis act is identical to SB 200 (2025) and SB 1306 (2024).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,29 +10,58 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Exempts certain farm vehicles from emissions inspection requirements"
+      "abstract": "SB 1033 - This act provides that motor vehicle emissions inspection requirements shall not apply to motor vehicles over 10 years old that are registered as local commercial vehicles and used for farm or farming transportation operations, or that are otherwise defined as \"covered farm vehicles\" under federal law.\r\n\r\n\tThis act is identical to SB 200 (2025) and SB 1306 (2024).\r\nJULIA SHEVELEVA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Exempts certain farm vehicles from emissions inspection requirements"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1033"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-01T12:43:02Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-01T12:43:02Z"
@@ -52,22 +81,22 @@
       }
     },
     {
-      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-02-02T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-01T12:43:02Z"
       }
     },
     {
-      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-02-09T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-01T12:43:02Z"
@@ -76,18 +105,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Bean",
+      "name": "Bean, Jason",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bean\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4510S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1033.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=79",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=79",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=79",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=79",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4510S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-01T12:43:02Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

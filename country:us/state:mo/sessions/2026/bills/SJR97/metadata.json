@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 97",
-  "title": "Modifies term limits for members of the General Assembly",
+  "title": "SJR 97 - This proposed constitutional amendment, if approved by the voters, modifies term limits for members of the General Assembly.  Beginning December 3, 2026, no one shall be elected to serve more than sixteen years total in both houses of the General Assembly.  Service in the General Assembly resulting from an election prior to December 3, 2026, shall be counted.\r\n\r\n\tThis proposed constitutional amendment is similar to HJR 2 (2025).\r\n\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "joint resolution"
@@ -10,17 +10,51 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies term limits for members of the General Assembly"
+      "abstract": "SJR 97 - This proposed constitutional amendment, if approved by the voters, modifies term limits for members of the General Assembly.  Beginning December 3, 2026, no one shall be elected to serve more than sixteen years total in both houses of the General Assembly.  Service in the General Assembly resulting from an election prior to December 3, 2026, shall be counted.\r\n\r\n\tThis proposed constitutional amendment is similar to HJR 2 (2025).\r\n\r\nJIM ERTLE"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies term limits for members of the General Assembly"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr97"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Voted Do Pass S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
@@ -39,43 +73,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-03-11T05:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:51:21Z"
+        "log_file_created": "2026-02-17T12:58:31Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Nicola",
+      "name": "Nicola, Joe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "3828S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR97.pdf",
@@ -90,19 +111,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=173",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=173",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=173",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=173",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "3828S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:51:21Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

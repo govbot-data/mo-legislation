@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1376",
-  "title": "Modifies provisions relating to the boards of directors of certain insurance companies",
+  "title": "SB 1376 - Current law requires the boards of directors of 1) life, health, accident insurance stock companies (section 376.060), 2) mutual life insurance companies (section 376.100), 3) stock insurance companies (section 379.035), 4) mutual insurance companies (section 379.060), and 5) reorganized insurance companies (sections 379.520 and 379.590) to have a minimum of nine members on the board of directors. This act reduces such minimum requirement to five members.\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,61 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to the boards of directors of certain insurance companies"
+      "abstract": "SB 1376 - Current law requires the boards of directors of 1) life, health, accident insurance stock companies (section 376.060), 2) mutual life insurance companies (section 376.100), 3) stock insurance companies (section 379.035), 4) mutual insurance companies (section 379.060), and 5) reorganized insurance companies (sections 379.520 and 379.590) to have a minimum of nine members on the board of directors. This act reduces such minimum requirement to five members.\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the boards of directors of certain insurance companies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1376"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:03Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Reported from S Insurance and Banking Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Insurance and Banking Committee",
+      "date": "2026-03-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
       }
     },
     {
@@ -52,42 +81,42 @@
       }
     },
     {
-      "description": "Hearing Conducted S Insurance and Banking Committee",
-      "date": "2026-03-03T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Insurance and Banking Committee",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2025-12-02T22:15:03Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Trent",
+      "name": "Trent, Curtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trent\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4703S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1376.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=283",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=283",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=283",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=283",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4703S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

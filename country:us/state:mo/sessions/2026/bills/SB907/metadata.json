@@ -26,13 +26,49 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Commerce--(8:00 a.m. - HR 6)",
-      "date": "2026-04-08T05:00:00+00:00",
+      "description": "Executive Session Scheduled H Consent and Procedure--(4:30 p.m. or Upon Adj. - HR 1)",
+      "date": "2026-04-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-06T13:04:38Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Referred H Consent and Procedure",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Commerce - Consent",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Commerce - Consent",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -237,6 +273,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5627H.09C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0907.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5627S.07P - Perfected",
       "links": [
         {
@@ -313,7 +360,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5627S.07P"
+    "MO_BILL_LR": "5627H.09C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -322,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-06T13:04:38Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

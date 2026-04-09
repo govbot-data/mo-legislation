@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Third Read and Passed (H)",
+    "description": "Third Read and Passed (H) - AYES: 111 NOES: 24 PRESENT: 8",
     "date": "2026-04-07T05:00:00+00:00",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [

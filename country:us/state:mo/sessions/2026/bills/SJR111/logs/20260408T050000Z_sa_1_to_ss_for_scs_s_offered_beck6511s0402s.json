@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "SA 1 to SS for SCS S offered (Beck)--(6511S04.02S)",
+    "date": "2026-04-08T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR 111"
+}

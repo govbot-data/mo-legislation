@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 895",
-  "title": "Modifies provisions relating to temporary licensure for individuals with work experiences in certain occupations and professions in other jurisdictions",
+  "title": "SB 895 - Under this act, any person who has at least 3 years of work experience in an occupation or profession in another state or the District of Columbia that does not use a license to regulate that occupation or profession may submit an application for a license in Missouri, with proof of experience and U.S. citizenship, to the relevant oversight body. Within 45 days of receiving the application, the oversight body shall make a determination of qualification. The oversight body shall require an applicant to take and pass a profession-specific examination and may require an examination specific to Missouri laws.\r\n\r\n\tA license issued under this act shall be a one-time, non-renewable, two-year temporary license. If the applicant is not residing in Missouri, the oversight body shall conditionally approve the application. If an applicant fails to provide proof of domicile in Missouri within 90 days of receipt of temporary license, the oversight body may terminate the temporary license and the applicant may reapply for the temporary license.\r\n\r\n\tUpon expiration of the temporary license, individuals shall be required to apply for a permanent license, consistent with the licensure and application requirements of that license as set forth in statute and rule. A license issued under this act shall not be qualified for reciprocity with another state or as part of an interstate compact. The provisions of this act shall not apply to certain specified professions.\r\n\r\n\tThis act is identical to a provision in SS/SB 61 (2025) and in the perfected HB 478 (2025) and is similar to a provision in SB 817 (2024), in HCS/SS#2/SCS/SB 88 (2023) and HB 1900 (2022).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,71 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to temporary licensure for individuals with work experiences in certain occupations and professions in other jurisdictions"
+      "abstract": "SB 895 - Under this act, any person who has at least 3 years of work experience in an occupation or profession in another state or the District of Columbia that does not use a license to regulate that occupation or profession may submit an application for a license in Missouri, with proof of experience and U.S. citizenship, to the relevant oversight body. Within 45 days of receiving the application, the oversight body shall make a determination of qualification. The oversight body shall require an applicant to take and pass a profession-specific examination and may require an examination specific to Missouri laws.\r\n\r\n\tA license issued under this act shall be a one-time, non-renewable, two-year temporary license. If the applicant is not residing in Missouri, the oversight body shall conditionally approve the application. If an applicant fails to provide proof of domicile in Missouri within 90 days of receipt of temporary license, the oversight body may terminate the temporary license and the applicant may reapply for the temporary license.\r\n\r\n\tUpon expiration of the temporary license, individuals shall be required to apply for a permanent license, consistent with the licensure and application requirements of that license as set forth in statute and rule. A license issued under this act shall not be qualified for reciprocity with another state or as part of an interstate compact. The provisions of this act shall not apply to certain specified professions.\r\n\r\n\tThis act is identical to a provision in SS/SB 61 (2025) and in the perfected HB 478 (2025) and is similar to a provision in SB 817 (2024), in HCS/SS#2/SCS/SB 88 (2023) and HB 1900 (2022).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to temporary licensure for individuals with work experiences in certain occupations and professions in other jurisdictions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb895"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported from S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T12:58:31Z"
@@ -39,55 +93,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
-      "date": "2026-01-08T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-17T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
-      "date": "2026-03-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-11T12:55:26Z"
+        "log_file_created": "2026-02-17T12:58:31Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Ben Brown (26)",
+      "name": "Brown (26), Ben",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ben Brown (26)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5036S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB895.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=263",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=263",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=263",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=263",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5036S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

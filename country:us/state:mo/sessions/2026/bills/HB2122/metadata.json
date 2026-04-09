@@ -208,18 +208,6 @@
       }
     },
     {
-      "description": "Taken Up for Third Reading (H)",
-      "date": "2026-04-07T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-08T13:16:13Z"
-      }
-    },
-    {
       "description": "Placed on the Informal Third Reading Calendar (H)",
       "date": "2026-04-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -232,7 +220,19 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:16:13Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H) - AYES: 95 NOES: 53 PRESENT: 0",
       "date": "2026-04-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -241,7 +241,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-08T13:16:13Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported to the Senate and First Read (S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     }
   ],
@@ -405,6 +417,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

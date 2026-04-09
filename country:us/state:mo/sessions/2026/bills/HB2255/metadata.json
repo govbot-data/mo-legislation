@@ -17,7 +17,11 @@
       "title": "HB 2255"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2255"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -112,6 +116,26 @@
       "_processing": {
         "log_file_created": "2026-02-26T13:00:51Z"
       }
+    },
+    {
+      "description": "Executive Session Continued",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Action Postponed (H)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:51Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

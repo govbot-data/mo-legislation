@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 111",
-  "title": "SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG",
+  "title": "SS/SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG"
+      "abstract": "SS/SCS/SJR 111 - Current constitutional provisions require taxing jurisdictions to reduce property tax levies when the total assessed value of property in the taxing jurisdiction increases by more than the percent increase in inflation, with an exception made for levies imposed for the payment of principal and interest on bonds or other indebtedness. This constitutional amendment, if approved by the voters, removes the exemption for debt service levies.\r\n\r\n\tThe amendment also provides that, beginning January 1 following the effective date of the amendment, taxing jurisdictions shall calculate levies for each subclass of real property, and shall reduce the levy for any such class if the assessed valuation for such class increases over the previous year, as provided in the amendment. \r\n\r\n\tAdditionally, this amendment requires the value of new construction and improvements to be included in the calculation of total assessed valuation for the purpose of calculating property tax levies. (Section 22)\r\n\r\n\tThis amendment is substantially similar to HJR 148 (2026).\r\nJOSH NORBERG"
     }
   ],
   "other_titles": [
@@ -27,12 +27,42 @@
   "actions": [
     {
       "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-03-31T05:00:00+00:00",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-31T13:13:24Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered (Beck)--(6511S04.02S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Hudson)--(6511S.04F)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -138,7 +168,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "4/8/2026 - SS for SCS S offered (Hudson)--(6511S.04F)\r\n                    \r\n                        4/8/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=406",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/8/2026 - SA 1 to SS for SCS S offered (Beck)--(6511S04.02S)\r\n                    \r\n                        4/8/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=409",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -156,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:13:24Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

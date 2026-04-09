@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1083",
-  "title": "Modifies provisions relating to requirements for applicants for a respiratory care license",
+  "title": "SB 1083 - Currently, an applicant for a respiratory care license is required to submit written evidence of credentials from the cognitive competency testing organization authorized by the Missouri Board for Respiratory Care or current licensure or registration as a respiratory care practitioner in another jurisdiction that meets or exceeds Missouri licensure standards. This act instead provides that the applicant shall submit:\r\n(1)\tAn active credential as a registered respiratory therapist through the National Board for Respiratory Care (NBRC); \r\n(2)\tCurrent licensure or registration with an active credential as a respiratory care practitioner in another jurisdiction that meets or exceeds Missouri licensure standards; or \r\n(3)\tAn active credential as a certified respiratory therapist earned prior to January 1, 2027, through the NBRC.\r\n\r\n\tAdditionally, this act provides that license renewals shall be subject to random audits to ensure the licensee has an active credential through the NBRC.\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,17 +10,71 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to requirements for applicants for a respiratory care license"
+      "abstract": "SB 1083 - Currently, an applicant for a respiratory care license is required to submit written evidence of credentials from the cognitive competency testing organization authorized by the Missouri Board for Respiratory Care or current licensure or registration as a respiratory care practitioner in another jurisdiction that meets or exceeds Missouri licensure standards. This act instead provides that the applicant shall submit:\r\n(1)\tAn active credential as a registered respiratory therapist through the National Board for Respiratory Care (NBRC); \r\n(2)\tCurrent licensure or registration with an active credential as a respiratory care practitioner in another jurisdiction that meets or exceeds Missouri licensure standards; or \r\n(3)\tAn active credential as a certified respiratory therapist earned prior to January 1, 2027, through the NBRC.\r\n\r\n\tAdditionally, this act provides that license renewals shall be subject to random audits to ensure the licensee has an active credential through the NBRC.\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to requirements for applicants for a respiratory care license"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1083"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Reported from S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-01T12:43:34Z"
@@ -39,55 +93,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
-      "date": "2026-01-15T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-01T12:43:34Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-10T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-18T12:59:28Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
-      "date": "2026-02-17T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-18T12:59:28Z"
+        "log_file_created": "2026-02-01T12:43:34Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "4018S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1083.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=116",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=116",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=116",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=116",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4018S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:59:28Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

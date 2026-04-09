@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1477",
-  "title": "Provides that motorcycles may use any color auxiliary lighting, rather than only amber and white",
+  "title": "SB 1477 - This act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act is identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,61 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Provides that motorcycles may use any color auxiliary lighting, rather than only amber and white"
+      "abstract": "SB 1477 - This act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act is identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides that motorcycles may use any color auxiliary lighting, rather than only amber and white"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1477"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-29T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-30T12:39:23Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Reported from S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-03-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
       }
     },
     {
@@ -52,42 +81,42 @@
       }
     },
     {
-      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-03-02T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:18Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
+        "log_file_created": "2025-12-30T12:39:23Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Nicola",
+      "name": "Nicola, Joe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6236S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1477.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=52373",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=52373",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=52373",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52373",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6236S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }

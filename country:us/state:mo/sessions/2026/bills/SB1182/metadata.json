@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1182",
-  "title": "Authorizes counties to provide vehicle weight exemptions for certain vehicles",
+  "title": "SCS/SB 1182 - This act authorizes the Missouri Department of Transportation to allow any truck, tractor-trailer, or other combination engaged in transporting material or equipment to a construction site where economic activity occurs or will occur to operate with a weight not to exceed 22,400 pounds on one axle or a weight not to exceed 44,800 pounds on any tandem axle, provided that such vehicle shall not operate on the interstate highway system in excess of the weight limits imposed by federal statute and shall not exceed the width and length limitations provided in current law. One-way trips shall be limited to sixteen miles and round trips shall be limited to thirty-two miles. Qualifying trips are limited to multimodal trips within a single county. The Department shall grant such exemptions to any truck, tractor-trailer, train, or other combination that qualifies for such exemption regardless of reducibility of the weight of the load carried.\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,41 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes counties to provide vehicle weight exemptions for certain vehicles"
+      "abstract": "SCS/SB 1182 - This act authorizes the Missouri Department of Transportation to allow any truck, tractor-trailer, or other combination engaged in transporting material or equipment to a construction site where economic activity occurs or will occur to operate with a weight not to exceed 22,400 pounds on one axle or a weight not to exceed 44,800 pounds on any tandem axle, provided that such vehicle shall not operate on the interstate highway system in excess of the weight limits imposed by federal statute and shall not exceed the width and length limitations provided in current law. One-way trips shall be limited to sixteen miles and round trips shall be limited to thirty-two miles. Qualifying trips are limited to multimodal trips within a single county. The Department shall grant such exemptions to any truck, tractor-trailer, train, or other combination that qualifies for such exemption regardless of reducibility of the weight of the load carried.\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes the Missouri Department of Transportation to provide vehicle weight exemptions for certain vehicles"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1182"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "SCS Voted Do Pass S Transportation, Infrastructure and Public Safety Committee (5400S.03C)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:22:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:04Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-08T12:41:19Z"
+        "log_file_created": "2026-04-09T13:22:47Z"
       }
     },
     {
@@ -52,30 +61,53 @@
       }
     },
     {
-      "description": "Hearing Scheduled S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-03-02T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:19Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:54:29Z"
+        "log_file_created": "2025-12-02T22:15:04Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Trent",
+      "name": "Trent, Curtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trent\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1182.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5400S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1182.pdf",
@@ -90,19 +122,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=150",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=150",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=150",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=150",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5400S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-04-09T13:22:47Z"
   }
 }
