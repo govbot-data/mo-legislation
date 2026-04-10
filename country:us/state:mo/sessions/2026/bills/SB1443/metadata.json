@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1443",
-  "title": "Authorizes a tax credit for certain capital investments",
+  "title": "SB 1443 - The Missouri Works program is currently authorized to provide various incentives for the creation and retention of new and existing jobs. This act authorizes the Department of Economic Development to issue tax credits to qualified companies that expend at least $50 million in new capital investments for a project within two years of submitting a notice of intent with the Department.\r\n\r\n\tThe Department shall respond to a notice of intent within thirty days, provided, however, that a failure to respond within thirty days shall not be construed as an approval of a notice of intent.\r\n\r\n\tTax credits authorized by the act shall not exceed 2.5% of the new capital investment, and shall not exceed the least amount necessary to obtain the qualified company's commitment to initiate the project. Tax credits authorized by the act shall count toward the maximum amount of Missouri Works incentives allowed in a fiscal year as provided under current law.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,20 +10,42 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes a tax credit for certain capital investments"
+      "abstract": "SB 1443 - The Missouri Works program is currently authorized to provide various incentives for the creation and retention of new and existing jobs. This act authorizes the Department of Economic Development to issue tax credits to qualified companies that expend at least $50 million in new capital investments for a project within two years of submitting a notice of intent with the Department.\r\n\r\n\tThe Department shall respond to a notice of intent within thirty days, provided, however, that a failure to respond within thirty days shall not be construed as an approval of a notice of intent.\r\n\r\n\tTax credits authorized by the act shall not exceed 2.5% of the new capital investment, and shall not exceed the least amount necessary to obtain the qualified company's commitment to initiate the project. Tax credits authorized by the act shall count toward the maximum amount of Missouri Works incentives allowed in a fiscal year as provided under current law.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for certain capital investments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1443"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-16T06:00:00+00:00",
+      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-17T09:24:20Z"
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-06T12:54:36Z"
       }
     },
     {
@@ -39,33 +61,30 @@
       }
     },
     {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-02-05T06:00:00+00:00",
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-06T12:54:36Z"
+        "log_file_created": "2025-12-17T09:24:20Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Burger, Jamie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Burger\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Burger, Jamie\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5936S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1443.pdf",
@@ -80,19 +99,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=19778",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=19778",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=19778",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19778",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5936S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T12:54:36Z"
+    "logs_latest_update": "2026-04-10T13:04:47Z"
   }
 }

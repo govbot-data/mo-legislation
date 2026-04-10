@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1393",
-  "title": "Increases the number of circuit and associate circuit judges in the 11th Judicial Circuit, consisting of St. Charles County",
+  "title": "SB 1393 - Currently, there are six circuit judges and nine associate circuit judges in the 11th Judicial District, located in St. Charles County. This act provides for an additional two circuit judges and one associate circuit judge. The new judges shall be elected in 2028 with terms beginning January 1, 2029. The new associate circuit judge position shall not be included in the automatic increases in the number of associate judge positions provided by the statutory formula based on population.\r\n\r\n\tThis act is similar to a provision in HCS/SS/SB 221 (2025), SCS/HCS/HB 1259 (2025), HB 1390 (2025), HB 1426 (2025), HB 370 (2023), and HB 538 (2023).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,32 +10,61 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Increases the number of circuit and associate circuit judges in the 11th Judicial Circuit, consisting of St. Charles County"
+      "abstract": "SB 1393 - Currently, there are six circuit judges and nine associate circuit judges in the 11th Judicial District, located in St. Charles County. This act provides for an additional two circuit judges and one associate circuit judge. The new judges shall be elected in 2028 with terms beginning January 1, 2029. The new associate circuit judge position shall not be included in the automatic increases in the number of associate judge positions provided by the statutory formula based on population.\r\n\r\n\tThis act is similar to a provision in HCS/SS/SB 221 (2025), SCS/HCS/HB 1259 (2025), HB 1390 (2025), HB 1426 (2025), HB 370 (2023), and HB 538 (2023).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Increases the number of circuit and associate circuit judges in the 11th Judicial Circuit, consisting of St. Charles County"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1393"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-04-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:03Z"
+        "log_file_created": "2026-04-10T13:04:47Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-11T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:19Z"
+        "log_file_created": "2026-02-12T13:02:32Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T13:02:32Z"
       }
     },
     {
@@ -52,42 +81,42 @@
       }
     },
     {
-      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-04T06:00:00+00:00",
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:41:19Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-12T13:02:32Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-12T13:02:32Z"
+        "log_file_created": "2025-12-02T22:15:03Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Schroer",
+      "name": "Schroer, Nick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5766S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1393.pdf",
@@ -102,19 +131,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=558",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=558",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=558",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=558",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5766S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -122,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:02:32Z"
+    "logs_latest_update": "2026-04-10T13:04:47Z"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 13 NOES: 1 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-09T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "5b6dd6aa-34ca-11f1-9b07-5e8aebb150d4",
+  "bill_action": null,
+  "bill_identifier": "HB 2732",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2732&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

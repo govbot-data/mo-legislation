@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Special Committee on Tax Reform--(8:30 a.m. - HR 5)",
+      "description": "Executive Session Scheduled H Special Committee on Property Tax--(12:00 p.m. or Upon Morning recess - HR 6)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Special Committee on Property Tax",
       "date": "2026-04-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:08:08Z"
+        "log_file_created": "2026-04-10T13:04:47Z"
       }
     },
     {
@@ -355,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-10T13:04:47Z"
   }
 }

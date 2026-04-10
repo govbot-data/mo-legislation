@@ -26,13 +26,49 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Crime and Public Safety--(4:00 p.m. or Upon Adj. - HR 6)",
-      "date": "2026-04-08T05:00:00+00:00",
+      "description": "Executive Session Scheduled H Rules - Legislative--(3:45 p.m. - HR 4)",
+      "date": "2026-04-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-06T13:04:38Z"
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "HCS Referred H Rules - Legislative",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Crime and Public Safety",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Crime and Public Safety",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
       }
     },
     {
@@ -195,6 +231,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5756H.06C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0982.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5756S.02P - Perfected",
       "links": [
         {
@@ -226,7 +273,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5756S.02P"
+    "MO_BILL_LR": "5756H.06C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -235,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-06T13:04:38Z"
+    "logs_latest_update": "2026-04-10T13:04:47Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1351",
-  "title": "Changes the term of office for members of the Independence School District school board",
+  "title": "SB 1351 - This act changes the term of office for members of the Independence School District school board from six years to three years.  (Section 162.481)\r\n\r\n\tAdditionally, this act provides that a student enrolled in a public school governed by an urban school district shall not be considered absent for the time such student spends attending a scheduled primary, general, or special election with his or her parent, legal guardian, or person standing in loco parentis to the student.  A student may received only one excused absence during each scheduled election.  Upon his or her return to school, the student shall be encouraged by school officials to demonstrate his or her attendance at the election by wearing an official sticker, badge, or other item indicating that he or she attended the election.  (Section 167.1001)\r\n\r\n\tThis provision is similar to SB 962 (2026) and SB 344 (2025).\r\nOLIVIA SHANNON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,107 +10,75 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Changes the term of office for members of the Independence School District school board"
+      "abstract": "SB 1351 - This act changes the term of office for members of the Independence School District school board from six years to three years.  (Section 162.481)\r\n\r\n\tAdditionally, this act provides that a student enrolled in a public school governed by an urban school district shall not be considered absent for the time such student spends attending a scheduled primary, general, or special election with his or her parent, legal guardian, or person standing in loco parentis to the student.  A student may received only one excused absence during each scheduled election.  Upon his or her return to school, the student shall be encouraged by school officials to demonstrate his or her attendance at the election by wearing an official sticker, badge, or other item indicating that he or she attended the election.  (Section 167.1001)\r\n\r\n\tThis provision is similar to SB 962 (2026) and SB 344 (2025).\r\nOLIVIA SHANNON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Changes the term of office for members of the Independence School District school board"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1351"
+    }
+  ],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Executive Session Scheduled H Special Committee on Intergovernmental Affairs--(4:00 p.m. or Upon Adj. - HR 6)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-02T22:15:03Z"
+        "log_file_created": "2026-04-10T13:04:47Z"
       }
     },
     {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Hearing Conducted H Special Committee on Intergovernmental Affairs",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:47Z"
+      }
+    },
+    {
+      "description": "Referred H Special Committee on Intergovernmental Affairs",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T12:55:39Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-08T12:41:18Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Education Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-28T12:44:25Z"
-      }
-    },
-    {
-      "description": "Hearing Conducted S Education Committee",
-      "date": "2026-02-10T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-18T12:59:28Z"
-      }
-    },
-    {
-      "description": "Voted Do Pass S Education Committee",
-      "date": "2026-02-17T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-18T12:59:28Z"
-      }
-    },
-    {
-      "description": "Reported from S Education Committee",
-      "date": "2026-02-19T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-20T12:54:32Z"
-      }
-    },
-    {
-      "description": "SA 1 S offered & adopted  (Washington)--(3832S01.05S)",
-      "date": "2026-03-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-04T12:52:10Z"
-      }
-    },
-    {
-      "description": "Perfected, as amended",
-      "date": "2026-03-03T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-04T12:52:10Z"
-      }
-    },
-    {
-      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
-      "date": "2026-03-04T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:55:51Z"
+        "log_file_created": "2026-03-06T12:51:21Z"
       }
     },
     {
@@ -127,77 +95,117 @@
       }
     },
     {
-      "description": "H First Read",
-      "date": "2026-03-05T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:55:51Z"
+      }
+    },
+    {
+      "description": "Perfected, as amended",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "SA 1 S offered & adopted  (Washington)--(3832S01.05S)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:52:10Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:54:32Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Education Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:59:28Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:44:25Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-06T12:51:21Z"
+        "log_file_created": "2026-01-08T12:41:18Z"
       }
     },
     {
-      "description": "H Second Read",
-      "date": "2026-03-09T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-10T12:55:39Z"
-      }
-    },
-    {
-      "description": "Referred H Special Committee on Intergovernmental Affairs",
-      "date": "2026-03-12T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled H Special Committee on Intergovernmental Affairs--(4:30 p.m. or Upon Adj. - HR 6)",
-      "date": "2026-03-23T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
+        "log_file_created": "2025-12-02T22:15:03Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Nicola",
+      "name": "Nicola, Joe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicola\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1351.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Perfected",
+      "note": "3832S.01P - Perfected",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1351.pdf",
@@ -208,34 +216,39 @@
       "classification": ""
     },
     {
-      "note": "3832S01.05S - SA 1\u00a0Adopted",
+      "note": "3832S.01I - Introduced",
       "links": [
         {
-          "url": "http://www.senate.mo.gov/26info/BTS_Web/ShowAmendment.aspx?Id=170",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1351.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
-      "classification": "amendment"
+      "classification": ""
+    },
+    {
+      "note": "3/3/2026 - SA 1 S offered & adopted  (Washington)--(3832S01.05S)\r\n                    \r\n                        3/3/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=170",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=180",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=180",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=180",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=180",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "3832S.01P"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -243,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-10T13:04:47Z"
   }
 }

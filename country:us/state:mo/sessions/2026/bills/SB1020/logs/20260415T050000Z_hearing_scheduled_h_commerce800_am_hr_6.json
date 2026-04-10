@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing Scheduled H Commerce--(8:00 a.m. - HR 6)",
+    "date": "2026-04-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1020"
+}

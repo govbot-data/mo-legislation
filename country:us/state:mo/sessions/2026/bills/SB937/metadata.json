@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 937",
-  "title": "SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in the County of Marion to the State Highways and Transportation Commission. (Sections 11, 12)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 13)\r\n\r\n\tFinally, the act authorizes the conveyance of state property located in Nodaway County. (Section 14)\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA",
+  "title": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 11)\r\n\r\n\tThe act further authorizes the conveyance of state property located in:\r\n\t-\tNodaway County (Section 12);\r\n\t-\tthe City of Marshall, Saline County (Section 13);\r\n\t-\tthe City of Bowling Green, Pike County (Section 14);\r\n\t-\tthe City of Joplin, Jasper County (Section 15);\r\n\t-\tthe City of Potosi, Washington County (Section 16);\r\n\t-\tthe City of Springfield, Greene County (Section 17);\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in the County of Marion to the State Highways and Transportation Commission. (Sections 11, 12)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 13)\r\n\r\n\tFinally, the act authorizes the conveyance of state property located in Nodaway County. (Section 14)\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA"
+      "abstract": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 11)\r\n\r\n\tThe act further authorizes the conveyance of state property located in:\r\n\t-\tNodaway County (Section 12);\r\n\t-\tthe City of Marshall, Saline County (Section 13);\r\n\t-\tthe City of Bowling Green, Pike County (Section 14);\r\n\t-\tthe City of Joplin, Jasper County (Section 15);\r\n\t-\tthe City of Potosi, Washington County (Section 16);\r\n\t-\tthe City of Springfield, Greene County (Section 17);\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA"
     }
   ],
   "other_titles": [
@@ -25,6 +25,18 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-10T13:04:46Z"
+      }
+    },
     {
       "description": "HCS Reported Do Pass H Corrections and Public Institutions",
       "date": "2026-03-31T05:00:00+00:00",
@@ -281,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-10T13:04:46Z"
   }
 }
