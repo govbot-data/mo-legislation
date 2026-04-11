@@ -334,6 +334,16 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:22:47Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Wednesday, April 15, 2026, 8:30 a.m., SCR 1 - 1st Floor",
+      "date": "2026-04-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:53:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -875,6 +885,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-11T12:53:18Z"
   }
 }
