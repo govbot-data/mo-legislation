@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Corrections and Public Institutions--(4:30 p.m. or Upon Adj. - HR 6)",
+      "description": "Executive Session Scheduled H Corrections and Public Institutions--(12:15 p.m. or Upon Adj. of Financial Institutions - HR 1)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:57:18Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Corrections and Public Institutions",
       "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-06T13:04:38Z"
+        "log_file_created": "2026-04-12T12:57:18Z"
       }
     },
     {
@@ -225,6 +235,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-06T13:04:38Z"
+    "logs_latest_update": "2026-04-12T12:57:18Z"
   }
 }
