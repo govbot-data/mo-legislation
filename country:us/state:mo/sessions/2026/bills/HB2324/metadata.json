@@ -18,7 +18,11 @@
       "title": "HB 2324"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2324"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -63,6 +67,16 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
       }
+    },
+    {
+      "description": "Public Hearing Completed (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,10 +105,32 @@
   ],
   "documents": [
     {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2324I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5024H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5024H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2324Testimony4-13.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -121,6 +157,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

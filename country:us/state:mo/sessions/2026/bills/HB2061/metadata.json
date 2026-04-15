@@ -531,7 +531,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 100 NOES: 17 PRESENT: 19",
       "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -539,7 +539,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:47Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     }
   ],
@@ -745,6 +755,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2061T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4529H.03I.ORG",
       "links": [
         {
@@ -808,6 +829,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:47Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

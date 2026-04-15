@@ -70,6 +70,40 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:16:45Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 14 NOES: 0 PRESENT: 0",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,10 +143,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Committee)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3322C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 7044H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/7044H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB3322Testimony3-31.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -139,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

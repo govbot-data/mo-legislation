@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 3068",
-  "title": "Modifies provisions relating to the sex offender registry",
+  "title": "Modifies and establishes provisions relating to public safety",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -18,7 +18,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 3068 & 3049"
+      "title": "HS HCS HBs 3068 & 3049"
     }
   ],
   "other_identifiers": [
@@ -222,6 +222,40 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:22:47Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HS Voted Do Pass (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HS Reported Do Pass (H) - AYES: 8 NOES: 1 PRESENT: 0",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -268,6 +302,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6771H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Substitute (House Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6771H.03F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -692,6 +737,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

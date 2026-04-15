@@ -157,6 +157,46 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:16:13Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, adopted",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +214,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"LaKeySha Bosley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bridget Walsh Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bridget Walsh Moore\"}",
       "organization_id": null
     }
   ],
@@ -195,6 +251,28 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6579H.04C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6579H.04P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6579H04.02H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -278,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

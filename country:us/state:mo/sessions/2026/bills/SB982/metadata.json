@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Rules - Legislative--(3:45 p.m. - HR 4)",
-      "date": "2026-04-13T05:00:00+00:00",
+      "description": "H Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "reading-3"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:47Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Rules - Legislative",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Rules - Legislative",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -282,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:47Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

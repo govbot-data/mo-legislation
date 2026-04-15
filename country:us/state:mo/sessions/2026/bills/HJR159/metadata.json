@@ -177,6 +177,58 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:16:45Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, adopted",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,6 +255,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bill Irwin\"}",
       "organization_id": null
+    },
+    {
+      "name": "John Hewkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hewkin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -223,6 +283,28 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6074H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6074H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6074H02.02H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -254,6 +336,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HJR0159P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6074H.01I.ORG",
       "links": [
         {
@@ -269,6 +362,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6074H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6074H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6074H.02P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -306,6 +410,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

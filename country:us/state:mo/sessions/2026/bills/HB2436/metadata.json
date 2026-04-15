@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2436",
-  "title": "Modifies provisions relating to the impoundment of animals",
+  "title": "Modifies provisions relating to offenses involving animals.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -165,6 +165,36 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:16:45Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:15Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:15Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 1 to HA 3, HA 2 to HA 3, HA 3, as amended, adopted",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +219,83 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4194H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.01H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 2 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 4194H02.03H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 3, A.A. (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.04H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 HA 3 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.05H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 2 HA 3 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4194H02.07H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -208,6 +315,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2436C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2436P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -256,6 +374,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-15T13:20:15Z"
   }
 }

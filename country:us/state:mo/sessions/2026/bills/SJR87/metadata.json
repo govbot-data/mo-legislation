@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Crime and Public Safety--(12:00 p.m. or Upon Morning recess - HR 5)",
+      "description": "HCS Reported Do Pass H Crime and Public Safety",
       "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:46Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Crime and Public Safety",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -336,7 +350,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4330S.02P"
+    "MO_BILL_LR": "4330H.03C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -345,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:46Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

@@ -159,6 +159,56 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:16:45Z"
       }
+    },
+    {
+      "description": "Placed on the Informal Perfection Calendar (H)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Perfected (H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -657,6 +707,150 @@
       "primary": false,
       "person_id": "~{\"name\": \"Chanel Mosley\"}",
       "organization_id": null
+    },
+    {
+      "name": "Marlon Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marlon Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marlene Terry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marlene Terry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yolonda Fountain Henderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yolonda Fountain Henderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keri Ingle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keri Ingle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Woods",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric Woods\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Renee Reuter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Renee Reuter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly-Ann Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberly-Ann Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony Ealy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony Ealy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Sassmann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce Sassmann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pattie Mansur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pattie Mansur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Costlow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Costlow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willard Haley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willard Haley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yolanda Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yolanda Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Bromley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Bromley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Durnell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Durnell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deanna Self",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deanna Self\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Travis Wilson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -677,6 +871,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4527H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4527H.02P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -708,6 +913,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HJR0115P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4527H.01I.ORG",
       "links": [
         {
@@ -723,6 +939,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4527H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 4527H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4527H.02P.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -760,6 +987,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:16:45Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

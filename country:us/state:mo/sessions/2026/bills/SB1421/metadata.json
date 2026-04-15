@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Emerging Issues--(4:30 p.m. or Upon Adj. - HR 7)",
-      "date": "2026-04-13T05:00:00+00:00",
+      "description": "Reported Do Pass H Emerging Issues",
+      "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:46Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Emerging Issues",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -290,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:46Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 907",
-  "title": "SS/SCS/SBs 907, 1154 & 1272 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General on behalf of a class of residents of this state, the state, or a political subdivision that is subject to litigation that alleges any website access violation, or any resident of this state, the state, or a political subdivision of this state that is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. In determining whether a civil action alleging a website access claim is considered abusive, the court shall consider the totality of the circumstances to find whether the litigation was filed in good faith. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website access violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent claim for a website access violation is abusive. There shall not be a presumption if the alleged violation is not corrected within 90 days after written notice or service of the petition.\r\n\r\n\tAdditionally, nothing in this act shall prevent a defendant from filing a motion to dismiss or from notifying the plaintiff, prior to the end of the 90-day period, that the alleged access violation has been corrected in good faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire with respect to any entity that has filed as a corporation with the Secretary of State's office. \r\n\r\n\tThis act shall apply to litigation pending on August 28, 2026, and the 90-day correction period shall apply to any defendant in any pending litigation on August 28, 2026, that has complied with the requirements of this act prior to or within 90 days after such date.\r\n\r\n\tThis act is similar to HCS/HBs 1694, 1674, 1780, 2056, 2312 & 1755 (2026), HB 1842 (2026), and HB 2150 (2026).\r\nKATIE O'BRIEN",
+  "title": "HCS/SS/SCS/SBs 907, 1154 & 1272 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General on behalf of a class of residents of this state, the state, or a political subdivision that is subject to litigation that alleges any website access violation, or any resident of this state, the state, or a political subdivision of this state that is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. In determining whether a civil action alleging a website access claim is considered abusive, the court shall consider the totality of the circumstances to find whether the primary purpose of the litigation was to obtain payment from a defendant due to the costs of defending the action in court. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website access violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent claim for a website access violation is abusive. There shall not be a presumption if the alleged violation is not corrected within 90 days after written notice or service of the petition.\r\n\r\n\tAdditionally, nothing in this act shall prevent a defendant from filing a motion to dismiss or from notifying the plaintiff, prior to the end of the 90-day period, that the alleged access violation has been corrected in good faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees and costs to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire with respect to any entity that has registered as a corporation with the Secretary of State's office, and the state and any political subdivision thereof. \r\n\r\n\tThis act shall apply to litigation pending on August 28, 2026, and the 90-day correction period shall apply to any defendant in any pending litigation on August 28, 2026, that has complied with the requirements of this act prior to or within 90 days after such date.\r\n\r\n\tThis act is similar to HCS/HBs 1694, 1674, 1780, 2056, 2312 & 1755 (2026), and HCS/HBs 1842 & 2150 (2026).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SS/SCS/SBs 907, 1154 & 1272 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General on behalf of a class of residents of this state, the state, or a political subdivision that is subject to litigation that alleges any website access violation, or any resident of this state, the state, or a political subdivision of this state that is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. In determining whether a civil action alleging a website access claim is considered abusive, the court shall consider the totality of the circumstances to find whether the litigation was filed in good faith. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website access violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent claim for a website access violation is abusive. There shall not be a presumption if the alleged violation is not corrected within 90 days after written notice or service of the petition.\r\n\r\n\tAdditionally, nothing in this act shall prevent a defendant from filing a motion to dismiss or from notifying the plaintiff, prior to the end of the 90-day period, that the alleged access violation has been corrected in good faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire with respect to any entity that has filed as a corporation with the Secretary of State's office. \r\n\r\n\tThis act shall apply to litigation pending on August 28, 2026, and the 90-day correction period shall apply to any defendant in any pending litigation on August 28, 2026, that has complied with the requirements of this act prior to or within 90 days after such date.\r\n\r\n\tThis act is similar to HCS/HBs 1694, 1674, 1780, 2056, 2312 & 1755 (2026), HB 1842 (2026), and HB 2150 (2026).\r\nKATIE O'BRIEN"
+      "abstract": "HCS/SS/SCS/SBs 907, 1154 & 1272 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General on behalf of a class of residents of this state, the state, or a political subdivision that is subject to litigation that alleges any website access violation, or any resident of this state, the state, or a political subdivision of this state that is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. In determining whether a civil action alleging a website access claim is considered abusive, the court shall consider the totality of the circumstances to find whether the primary purpose of the litigation was to obtain payment from a defendant due to the costs of defending the action in court. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website access violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent claim for a website access violation is abusive. There shall not be a presumption if the alleged violation is not corrected within 90 days after written notice or service of the petition.\r\n\r\n\tAdditionally, nothing in this act shall prevent a defendant from filing a motion to dismiss or from notifying the plaintiff, prior to the end of the 90-day period, that the alleged access violation has been corrected in good faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees and costs to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire with respect to any entity that has registered as a corporation with the Secretary of State's office, and the state and any political subdivision thereof. \r\n\r\n\tThis act shall apply to litigation pending on August 28, 2026, and the 90-day correction period shall apply to any defendant in any pending litigation on August 28, 2026, that has complied with the requirements of this act prior to or within 90 days after such date.\r\n\r\n\tThis act is similar to HCS/HBs 1694, 1674, 1780, 2056, 2312 & 1755 (2026), and HCS/HBs 1842 & 2150 (2026).\r\nKATIE O'BRIEN"
     }
   ],
   "other_titles": [
@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Consent and Procedure--(4:30 p.m. or Upon Adj. - HR 1)",
-      "date": "2026-04-13T05:00:00+00:00",
+      "description": "H Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "reading-3"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-09T13:22:47Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Consent and Procedure",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Consent and Procedure",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -369,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

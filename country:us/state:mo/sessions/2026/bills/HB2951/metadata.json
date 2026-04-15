@@ -23,7 +23,11 @@
       "title": "HCS HBs 2951, 2958 & 2977"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2951"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -138,6 +142,18 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
       }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 11 NOES: 0 PRESENT: 0",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -251,6 +267,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

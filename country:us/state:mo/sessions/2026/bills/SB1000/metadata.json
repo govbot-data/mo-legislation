@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Special Committee on Tourism--(12:00 p.m. or Upon or morning recess - HR 6)",
+      "description": "Executive Session Scheduled H Special Committee on Tourism--(12:00 p.m. or Upon Morning recess - HR 6)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:15Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Special Committee on Tourism",
       "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-08T13:16:13Z"
+        "log_file_created": "2026-04-15T13:20:15Z"
       }
     },
     {
@@ -251,28 +261,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "4322S.02P - Perfected",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1000.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "4322S.01I - Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1000.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "2/18/2026 - SS S offered (Hudson)--(4322S.02F)\r\n                    \r\n                        2/18/2026 - Adopted, as amended",
       "links": [
         {
@@ -313,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-15T13:20:15Z"
   }
 }

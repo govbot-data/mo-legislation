@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Corrections and Public Institutions--(4:30 p.m. or upon adjournment - HR 6)",
-      "date": "2026-04-08T05:00:00+00:00",
+      "description": "HCS Reported Do Pass H Corrections and Public Institutions",
+      "date": "2026-04-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-08T13:16:13Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Corrections and Public Institutions",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -311,6 +325,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4254H.10C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0890.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4254S.06P - Perfected",
       "links": [
         {
@@ -409,7 +434,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4254S.06P"
+    "MO_BILL_LR": "4254H.10C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -418,6 +443,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

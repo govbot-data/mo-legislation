@@ -19,7 +19,11 @@
       "title": "HCS HB 2384"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2384"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -208,7 +212,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 92 NOES: 61 PRESENT: 0",
       "date": "2026-02-16T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -217,7 +221,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-17T12:58:31Z"
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     },
     {
@@ -240,6 +244,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:54:29Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Monday, April 13, 2026, Senate Lounge - 3rd Floor",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-15T13:20:14Z"
       }
     }
   ],
@@ -406,6 +430,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-04-15T13:20:14Z"
   }
 }

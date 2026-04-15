@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Informal Calendar S Bills for Third Reading",
+    "date": "2026-04-14T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 838"
+}
