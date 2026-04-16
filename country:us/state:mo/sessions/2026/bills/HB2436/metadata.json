@@ -195,6 +195,52 @@
       "_processing": {
         "log_file_created": "2026-04-15T13:20:15Z"
       }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 3 NOES: 2 PRESENT: 0",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -344,6 +390,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4194H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4194H.02P.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -374,6 +431,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:15Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

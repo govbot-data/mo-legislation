@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Corrections and Public Institutions--(2:30 p.m. - HR 3)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
       "description": "Referred H Corrections and Public Institutions",
       "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -333,6 +343,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

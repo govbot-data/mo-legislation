@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled S Economic and Workforce Development Committee",
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
       "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
@@ -103,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:59:14Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

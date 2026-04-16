@@ -167,6 +167,46 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:16:13Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Perfected (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +216,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kent Haden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitch Boggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mitch Boggs\"}",
       "organization_id": null
     }
   ],
@@ -197,6 +245,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3890H.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3890H.02P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -261,6 +320,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 3890H.02P.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3890H.02P.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -291,6 +361,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:16:13Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

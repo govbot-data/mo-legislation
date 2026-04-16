@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1477",
-  "title": "SB 1477 - This act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act is identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON",
+  "title": "SB 1477 - This act modifies provisions relating to accessories of motor vehicles.\r\n\r\nPROFESSIONAL SPORTS TEAM SPECIAL LICENSE PLATES (Section 301.472)\r\n\tThis act modifies the professional sports teams for which a person can receive a special license plate to include the National Women's Soccer League and the Women's National Basketball Association. The Kansas City Current shall forward all emblem-use fees received, less an amount not in excess of five percent of the costs of administration to the Kansas City Current Foundation or a team designated nonprofit that benefits youth in the Kansas City area.\r\n\r\nThis act contains provisions similar to HB 2446 (2026).\r\n\r\nMOTORCYCLE AUXILIARY LIGHTING (Section 307.128)\r\n\tThis act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act contains provisions identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,13 +10,13 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SB 1477 - This act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act is identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON"
+      "abstract": "SB 1477 - This act modifies provisions relating to accessories of motor vehicles.\r\n\r\nPROFESSIONAL SPORTS TEAM SPECIAL LICENSE PLATES (Section 301.472)\r\n\tThis act modifies the professional sports teams for which a person can receive a special license plate to include the National Women's Soccer League and the Women's National Basketball Association. The Kansas City Current shall forward all emblem-use fees received, less an amount not in excess of five percent of the costs of administration to the Kansas City Current Foundation or a team designated nonprofit that benefits youth in the Kansas City area.\r\n\r\nThis act contains provisions similar to HB 2446 (2026).\r\n\r\nMOTORCYCLE AUXILIARY LIGHTING (Section 307.128)\r\n\tThis act provides that motorcycles may be equipped with and use auxiliary lighting of any color, rather than only amber and white.\r\n\r\n\tThis act contains provisions identical to SB 711 (2025), HB 2123 (2022), HB 996 (2021), a provision in the truly agreed to and finally passed SS#2/HB 661 (2021), a provision in HCS/SS/SCS/SB 4 (2021), a provision in HCS/SB 38 (2021), a provision in HCS/SS/SB 46 (2021), and a provision in HCS/SS/SB 89 (2021).\r\nTAYLOR MIDDLETON"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Provides that motorcycles may use any color auxiliary lighting, rather than only amber and white"
+      "title": "Modifies provisions relating to accessories of motor vehicles"
     }
   ],
   "other_identifiers": [
@@ -26,13 +26,55 @@
   ],
   "actions": [
     {
-      "description": "Formal Calendar S Bills for Perfection",
-      "date": "2026-04-09T05:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-09T13:22:47Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Perfected, as amended",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "SA 2 S offered & defeated  (McCreery)--(6236S01.01S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "SA 1 S offered & adopted (Lewis)--(6236S01.03S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
@@ -116,6 +158,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "6236S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1477.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "6236S.01I - Introduced",
       "links": [
         {
@@ -125,9 +178,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "4/15/2026 - SA 1 S offered & adopted (Lewis)--(6236S01.03S)\r\n                    \r\n                        4/15/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=443",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "4/15/2026 - SA 2 S offered & defeated  (McCreery)--(6236S01.01S)\r\n                    \r\n                        4/15/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=445",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -136,7 +212,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "6236S.01I"
+    "MO_BILL_LR": "6236S.01P"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -145,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

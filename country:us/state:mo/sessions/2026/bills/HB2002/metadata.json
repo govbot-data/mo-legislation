@@ -308,33 +308,65 @@
       }
     },
     {
-      "description": "Public Hearing Scheduled (S) - Wednesday, April 15, 2026, 8:30 a.m., Senate Committee Room 1 - 1st Floor",
+      "description": "Public Hearing Scheduled (S) - AMENDED:  Wednesday, April 15, 2026, 9:30 a.m., Senate Committee Room 1 - 1st Floor",
       "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:46Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
-      "description": "Public Hearing Scheduled (S) - Thursday, April 16, 2026, 8:30 a.m., Senate Committee Room 2 - 1st Floor",
+      "description": "Public Hearing Scheduled (S) - CANCELLED: Thursday, April 16, 2026, 8:30 a.m., Senate Committee Room 2 - 1st Floor",
       "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:46Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
-      "description": "Public Hearing Scheduled (S) - Friday, April 17, 2026, 8:30 a.m., Senate Committee Room 2 - 1st Floor",
+      "description": "Public Hearing Scheduled (S) - CANCELLED: Friday, April 17, 2026, 8:30 a.m., Senate Committee Room 2 - 1st Floor",
       "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:46Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Executive Session Held (S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     }
   ],
@@ -651,6 +683,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:46Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

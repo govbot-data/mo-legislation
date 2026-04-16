@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2762",
-  "title": "Modifies and creates new provisions relating to utilities",
+  "title": "Modifies and creates new provisions relating to solar energy projects.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -134,6 +134,18 @@
       "_processing": {
         "log_file_created": "2026-03-27T13:01:19Z"
       }
+    },
+    {
+      "description": "Referred: Rules - Legislative(H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,10 +196,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2762C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6405H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6405H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6405H.05C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6405H.05C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -225,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-27T13:01:19Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

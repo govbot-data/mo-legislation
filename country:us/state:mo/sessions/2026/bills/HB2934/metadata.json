@@ -397,15 +397,15 @@
       }
     },
     {
-      "description": "Taken Up for Third Reading (H)",
+      "description": "Taken Up for Third Reading (S)",
       "date": "2026-04-01T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:08:08Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
@@ -428,6 +428,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-02T13:08:08Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker (H)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Signed by President Pro Tem (S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     }
   ],
@@ -574,6 +604,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2934T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6164H.01I.ORG",
       "links": [
         {
@@ -626,6 +667,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

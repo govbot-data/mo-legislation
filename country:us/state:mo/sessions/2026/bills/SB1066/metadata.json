@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Special Committee on Property Tax--(12:00 p.m. or Upon Morning recess - HR 6)",
-      "date": "2026-04-14T05:00:00+00:00",
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:47Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Special Committee on Property Tax",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Special Committee on Property Tax",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
@@ -46,7 +72,7 @@
       }
     },
     {
-      "description": "Referred H Special Committee on Tax Reform",
+      "description": "Referred H Special Committee on Property Tax",
       "date": "2026-03-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -54,7 +80,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-27T13:01:19Z"
+        "log_file_created": "2026-04-16T13:25:05Z"
       }
     },
     {
@@ -281,6 +307,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4335H.05C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1066.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4335S.04P - Perfected",
       "links": [
         {
@@ -356,7 +393,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4335S.04P"
+    "MO_BILL_LR": "4335H.05C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -365,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:47Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

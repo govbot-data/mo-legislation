@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass w/SCS SBs 1164 & 1476 Judiciary and Civil and Criminal Jurisprudence Committee (5210S.04C)",
+    "date": "2026-04-15T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1164"
+}

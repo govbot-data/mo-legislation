@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1006",
-  "title": "Requires motor vehicles to have a driver with active control present",
+  "title": "SB 1006 - This act provides that each motor vehicle, commercial motor vehicle, recreational motor vehicle, bus, and school bus operated on the roads and highways of this state shall have an appropriately endorsed driver who holds a valid license present with active control of the vehicle at all times.\r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,62 +10,35 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Requires motor vehicles to have a driver with active control present"
+      "abstract": "SB 1006 - This act provides that each motor vehicle, commercial motor vehicle, recreational motor vehicle, bus, and school bus operated on the roads and highways of this state shall have an appropriately endorsed driver who holds a valid license present with active control of the vehicle at all times.\r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [
+  "other_titles": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-15T12:44:17Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-15T12:44:17Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
-      "date": "2026-01-08T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-15T12:44:17Z"
-      }
+      "note": "",
+      "title": "Requires motor vehicles to have a driver with active control present"
     }
   ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1006"
+    }
+  ],
+  "actions": [],
   "sponsorships": [
     {
-      "name": "Gregory (21)",
+      "name": "Gregory (21), Kurtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (21)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "5564S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1006.pdf",
@@ -80,19 +53,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=546",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=546",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=546",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=546",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5564S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -100,6 +67,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-15T12:44:17Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }

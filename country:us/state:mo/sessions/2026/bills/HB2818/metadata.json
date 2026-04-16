@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "AIRCRAFT AND AIRPORTS",
-    "ANNEXATION",
-    "CITIES, TOWNS, AND VILLAGES"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2818"
+      "title": "SCS HB 2818"
     }
   ],
   "other_identifiers": [
@@ -290,6 +286,18 @@
       "_processing": {
         "log_file_created": "2026-04-15T13:20:14Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:25:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +328,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5978H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5978S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -414,6 +433,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-16T13:25:05Z"
   }
 }
