@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CORRECTIONS, DEPARTMENT OF",
-    "LAW ENFORCEMENT OFFICERS AND AGENCIES",
-    "SCIENCE AND TECHNOLOGY"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2587"
+      "title": "SCS HCS HB 2587"
     }
   ],
   "other_identifiers": [
@@ -352,6 +348,18 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:22:47Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -417,6 +425,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6127H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6127S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -522,6 +541,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

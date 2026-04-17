@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1671",
-  "title": "Authorizes the city of Lexington to impose a sales tax for public safety",
+  "title": "SB 1671 - Current law authorizes certain cities to impose a sales tax at a rate of 0.5% for the purpose of improving public safety. This act adds the city of Lexington to such list of cities.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes the city of Lexington to impose a sales tax for public safety"
+      "abstract": "SB 1671 - Current law authorizes certain cities to impose a sales tax at a rate of 0.5% for the purpose of improving public safety. This act adds the city of Lexington to such list of cities.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes the city of Lexington to impose a sales tax for public safety"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1671"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-17T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Gregory (21)",
+      "name": "Gregory (21), Kurtis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (21)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7254S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1671.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5229023",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=5229023",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5229023",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5229023",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7254S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:59:28Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

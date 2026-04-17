@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1669",
-  "title": "Modifies provisions relating to recreational vehicle (RV) dealers",
+  "title": "SB 1669 - This act modifies provisions relating to recreational vehicle (RV) dealers.\r\n\r\nWARRANTY SERVICE-COMPENSATION OF DEALER (Section 407.1338)\r\n\tUnder current law, the warrantor shall reimburse the dealer for warranty parts at actual wholesale cost, plus a minimum thirty-percent handling charge and the cost, if any, of freight to return warranty parts to the warrantor. This act provides that in addition, the warrantor shall supply parts and components for warranty service in such quantities and within such reasonable time as will enable the dealer to perform such service without undue delay and should the warrantor fail to ship parts or components within ten days of the dealer's order, the dealer may obtain substantially similar parts or components, within thirty days, and be reimbursed by the warrantor at one hundred percent of the cost paid by the dealer for any parts obtained from another source. \r\n\r\n\tWarrantors must compensate its dealers for at least seventy-five percent of a dealership's employee time spent traveling to and from mobile or other warranty repair work performed away from the dealership location, provided the travel time is documented and a claim is submitted to the warrantor within thirty days of completing the work. \r\n\r\nDISPUTE RESOLUTION (Section 407.1321)\r\n\tA dealer, manufacturer, distributor, or warrantor injured by another party's violation of this act may bring a civil action in circuit court to recover actual damages. Venue for any civil action must be exclusively in the county in which the dealership is located. \r\n\r\n\tThe party bringing suit shall serve a written demand for mediation upon the offending party. Notwithstanding the existence of any additional remedy at law, a party may apply to a circuit court for the grant of a temporary or permanent injunction, or both. Such injunction shall be issued without bond. A single action in violation of this act is sufficient to authorize issues of an injunction. \r\nTAYLOR MIDDLETON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to recreational vehicle (RV) dealers"
+      "abstract": "SB 1669 - This act modifies provisions relating to recreational vehicle (RV) dealers.\r\n\r\nWARRANTY SERVICE-COMPENSATION OF DEALER (Section 407.1338)\r\n\tUnder current law, the warrantor shall reimburse the dealer for warranty parts at actual wholesale cost, plus a minimum thirty-percent handling charge and the cost, if any, of freight to return warranty parts to the warrantor. This act provides that in addition, the warrantor shall supply parts and components for warranty service in such quantities and within such reasonable time as will enable the dealer to perform such service without undue delay and should the warrantor fail to ship parts or components within ten days of the dealer's order, the dealer may obtain substantially similar parts or components, within thirty days, and be reimbursed by the warrantor at one hundred percent of the cost paid by the dealer for any parts obtained from another source. \r\n\r\n\tWarrantors must compensate its dealers for at least seventy-five percent of a dealership's employee time spent traveling to and from mobile or other warranty repair work performed away from the dealership location, provided the travel time is documented and a claim is submitted to the warrantor within thirty days of completing the work. \r\n\r\nDISPUTE RESOLUTION (Section 407.1321)\r\n\tA dealer, manufacturer, distributor, or warrantor injured by another party's violation of this act may bring a civil action in circuit court to recover actual damages. Venue for any civil action must be exclusively in the county in which the dealership is located. \r\n\r\n\tThe party bringing suit shall serve a written demand for mediation upon the offending party. Notwithstanding the existence of any additional remedy at law, a party may apply to a circuit court for the grant of a temporary or permanent injunction, or both. Such injunction shall be issued without bond. A single action in violation of this act is sufficient to authorize issues of an injunction. \r\nTAYLOR MIDDLETON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to recreational vehicle (RV) dealers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1669"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-12T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Carter",
+      "name": "Carter, Jill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Carter, Jill\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7031S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1669.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=4514476",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=4514476",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=4514476",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4514476",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7031S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T12:58:31Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

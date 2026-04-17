@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1696",
-  "title": "Authorizes the Board of Curators of the University of Missouri to own or operate health care facilities",
+  "title": "SB 1696 - This act specifies that the Board of Curators of the University of Missouri may acquire, manage, lease, purchase, sell, contract for, or otherwise acquire an interest in or participate in the ownership or operation of hospital, medical, or other health care facilities or providers.  The Board of Curators and any public or private entities or individuals with which the Board of Curators collaborates for these purposes shall not be subject to penalties for violating state law prohibiting trade monopolies in the 25 counties specified in the act.\r\n\r\n\tThis act is similar to SB 1602 (2026).\r\n OLIVIA SHANNON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes the Board of Curators of the University of Missouri to own or operate health care facilities"
+      "abstract": "SB 1696 - This act specifies that the Board of Curators of the University of Missouri may acquire, manage, lease, purchase, sell, contract for, or otherwise acquire an interest in or participate in the ownership or operation of hospital, medical, or other health care facilities or providers.  The Board of Curators and any public or private entities or individuals with which the Board of Curators collaborates for these purposes shall not be subject to penalties for violating state law prohibiting trade monopolies in the 25 counties specified in the act.\r\n\r\n\tThis act is similar to SB 1602 (2026).\r\n OLIVIA SHANNON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes the Board of Curators of the University of Missouri to own or operate health care facilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1696"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-19T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Webber",
+      "name": "Webber, Stephen",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Webber\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Webber, Stephen\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7123S.02I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1696.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5553759",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=5553759",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5553759",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5553759",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7123S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

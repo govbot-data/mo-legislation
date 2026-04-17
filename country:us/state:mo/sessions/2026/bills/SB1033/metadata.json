@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Exempts certain farm vehicles from emissions inspection requirements"
+      "title": "Creates provisions relating to the regulation of air quality"
     }
   ],
   "other_identifiers": [
@@ -27,14 +27,36 @@
   "actions": [
     {
       "description": "Formal Calendar S Bills for Third Reading",
-      "date": "2026-04-16T05:00:00+00:00",
+      "date": "2026-04-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-16T13:25:05Z"
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
+    {
+      "description": "Hearing Scheduled S Fiscal Oversight Committee",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
       }
     },
     {
@@ -199,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

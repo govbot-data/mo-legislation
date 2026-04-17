@@ -255,6 +255,16 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:22:47Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Tuesday, April 21, 2026, 10:00 a.m., Senate Committee Room - 1st Floor",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -379,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

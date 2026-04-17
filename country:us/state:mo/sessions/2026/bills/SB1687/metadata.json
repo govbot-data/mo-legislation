@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1687",
-  "title": "Modifies provisions relating to MO HealthNet third party liability",
+  "title": "SB 1687 - Under this act, any health benefit plan, third-party administrator, administrative service organization, or pharmacy benefits manager paying all properly submitted medical assistance subrogation claims or MO HealthNet subrogation claims shall respond to any inquiry by the state regarding a claim for payment for any health care item or service not later than 60 days after receiving the inquiry.  Additionally, such entity shall not deny a claim submitted by the state for failure to provide prior authorization for the item or service, except that this provision shall not apply to certain programs or plans, including the original Medicare fee-for-service program, a Medicare Advantage plan, a reasonable cost reimbursement plan, a health care prepayment plan, or a prescription drug plan.  \r\n\r\n\tA health benefit plan, third-party administrator, administrative service organization, or pharmacy benefits manager shall accept authorization provided by the state that an item or service is covered under the state plan or a waiver for the individual as if the authorization were the prior authorization made by the third party, except that this provision shall not apply to certain programs or plans, including the original Medicare fee-for-service program, a Medicare Advantage plan, a reasonable cost reimbursement plan, a health care prepayment plan, or a prescription drug plan. \r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to MO HealthNet third party liability"
+      "abstract": "SB 1687 - Under this act, any health benefit plan, third-party administrator, administrative service organization, or pharmacy benefits manager paying all properly submitted medical assistance subrogation claims or MO HealthNet subrogation claims shall respond to any inquiry by the state regarding a claim for payment for any health care item or service not later than 60 days after receiving the inquiry.  Additionally, such entity shall not deny a claim submitted by the state for failure to provide prior authorization for the item or service, except that this provision shall not apply to certain programs or plans, including the original Medicare fee-for-service program, a Medicare Advantage plan, a reasonable cost reimbursement plan, a health care prepayment plan, or a prescription drug plan.  \r\n\r\n\tA health benefit plan, third-party administrator, administrative service organization, or pharmacy benefits manager shall accept authorization provided by the state that an item or service is covered under the state plan or a waiver for the individual as if the authorization were the prior authorization made by the third party, except that this provision shall not apply to certain programs or plans, including the original Medicare fee-for-service program, a Medicare Advantage plan, a reasonable cost reimbursement plan, a health care prepayment plan, or a prescription drug plan. \r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to MO HealthNet third party liability"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1687"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-19T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "McCreery",
+      "name": "McCreery, Tracy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"McCreery\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        McCreery, Tracy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "6990S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1687.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5552591",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=5552591",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5552591",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552591",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "6990S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

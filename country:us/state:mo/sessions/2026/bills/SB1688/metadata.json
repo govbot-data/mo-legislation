@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1688",
-  "title": "Authorizes incentives for downtown redevelopment",
+  "title": "SB 1688 - This act establishes the \"Missouri Downtown and Rural Economic Stimulus Act Extension Act\" (MODESAEA).\r\n\r\n\tThe act provides that provisions of expired law establishing the Missouri Downtown Rural Economic Stimulus Act (MODESA) are extended.\r\n\r\n\tThe act allows development areas and development project areas approved under both MODESAEA and MODESA to be modified. Any debt obligations issued to carry out a development project shall be extended to thirty-five years. One hundred percent of payments in lieu of taxes and eighty-five percent of economic activity taxes generated in relation to an expanded development project shall be used each year of the approved term to support development project costs. An office displacement and retail or restaurant displacement percentage shall not apply to an expanded development project. (Section 99.1260)\r\n\r\n\tThe act requires the Department of Economic Development to disburse the state construction income tax increment to support development project costs. Such disbursements shall cease within 180 days of the date on which the Department determines that the construction of the expanded development project is complete and has opened to the public.\r\n\r\n\tThe Department shall disburse the residential income tax increment to support development project costs for a period not to exceed thirty-five years. The developer shall elect how to calculate the amount of such disbursement. (Section 620.1265)\r\n\r\n\tA developer shall apply to the Department for approval of an expanded development project, as described in the act. (Section 620.1270)\r\n\r\n\tThe act authorizes the Department to promulgate temporary rules that shall expire not later than two years following the publication of the temporary rules. Thereafter, such rules shall be promulgated as provided in current law. (Section 620.1275)\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Authorizes incentives for downtown redevelopment"
+      "abstract": "SB 1688 - This act establishes the \"Missouri Downtown and Rural Economic Stimulus Act Extension Act\" (MODESAEA).\r\n\r\n\tThe act provides that provisions of expired law establishing the Missouri Downtown Rural Economic Stimulus Act (MODESA) are extended.\r\n\r\n\tThe act allows development areas and development project areas approved under both MODESAEA and MODESA to be modified. Any debt obligations issued to carry out a development project shall be extended to thirty-five years. One hundred percent of payments in lieu of taxes and eighty-five percent of economic activity taxes generated in relation to an expanded development project shall be used each year of the approved term to support development project costs. An office displacement and retail or restaurant displacement percentage shall not apply to an expanded development project. (Section 99.1260)\r\n\r\n\tThe act requires the Department of Economic Development to disburse the state construction income tax increment to support development project costs. Such disbursements shall cease within 180 days of the date on which the Department determines that the construction of the expanded development project is complete and has opened to the public.\r\n\r\n\tThe Department shall disburse the residential income tax increment to support development project costs for a period not to exceed thirty-five years. The developer shall elect how to calculate the amount of such disbursement. (Section 620.1265)\r\n\r\n\tA developer shall apply to the Department for approval of an expanded development project, as described in the act. (Section 620.1270)\r\n\r\n\tThe act authorizes the Department to promulgate temporary rules that shall expire not later than two years following the publication of the temporary rules. Thereafter, such rules shall be promulgated as provided in current law. (Section 620.1275)\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes incentives for downtown redevelopment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1688"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-19T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Gregory (15)",
+      "name": "Gregory (15), David",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gregory (15)\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (15), David\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7289S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1688.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=5552592",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=5552592",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=5552592",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552592",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7289S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T12:54:32Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }

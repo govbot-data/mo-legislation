@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H General Laws--(3:30 p.m. or Upon Adj. - HR 7)",
-      "date": "2026-04-15T05:00:00+00:00",
+      "description": "HCS Reported Do Pass H General Laws",
+      "date": "2026-04-16T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-15T13:20:14Z"
+        "log_file_created": "2026-04-17T13:14:31Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H General Laws",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-17T13:14:31Z"
       }
     },
     {
@@ -391,6 +405,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5396H.08C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1062.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5396S.07P - Perfected",
       "links": [
         {
@@ -522,7 +547,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5396S.07P"
+    "MO_BILL_LR": "5396H.08C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -531,6 +556,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-17T13:14:31Z"
   }
 }
