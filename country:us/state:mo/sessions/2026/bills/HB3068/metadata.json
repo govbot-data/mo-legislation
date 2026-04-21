@@ -256,6 +256,46 @@
       "_processing": {
         "log_file_created": "2026-04-15T13:20:14Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-21T13:21:18Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-21T13:21:18Z"
+      }
+    },
+    {
+      "description": "HS Adopted (H)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-21T13:21:18Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 15, HA 16, HA 17, adopted.",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-21T13:21:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,7 +360,18 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 1 (Adopted)",
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6771H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.01H.pdf",
@@ -331,7 +382,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 5 (Adopted)",
+      "note": "Amendment HA 5 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.02H.pdf",
@@ -353,7 +404,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 10 (Adopted)",
+      "note": "Amendment HA 10 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.04H.pdf",
@@ -364,7 +415,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 13 (Adopted)",
+      "note": "Amendment HA 13 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.05H.pdf",
@@ -386,7 +437,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 7 (Adopted)",
+      "note": "Amendment HA 7 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.08H.pdf",
@@ -408,7 +459,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 11 (Adopted)",
+      "note": "Amendment HA 11 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.10H.pdf",
@@ -430,7 +481,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 8 (Adopted)",
+      "note": "Amendment HA 8 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.12H.pdf",
@@ -452,7 +503,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 9 (Adopted)",
+      "note": "Amendment HA 9 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.15H.pdf",
@@ -562,7 +613,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 12 (Adopted)",
+      "note": "Amendment HA 12 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.30H.pdf",
@@ -573,7 +624,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 4 (Adopted)",
+      "note": "Amendment HA 4 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.31H.pdf",
@@ -595,7 +646,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 6 (Adopted)",
+      "note": "Amendment HA 6 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.33H.pdf",
@@ -617,7 +668,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 3 (Adopted)",
+      "note": "Amendment HA 3 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.35H.pdf",
@@ -628,7 +679,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 2 (Withdrawn)",
+      "note": "Amendment HA 2 (WITHDRAWN - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.37H.pdf",
@@ -639,7 +690,7 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 14 (Adopted)",
+      "note": "Amendment HA 14 (ADOPTED - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.38H.pdf",
@@ -650,10 +701,54 @@
       "classification": ""
     },
     {
-      "note": "Amendment HA 1 HA 11 (Withdrawn)",
+      "note": "Amendment HA 1 HA 11 (WITHDRAWN - HS OFFERED) (Substitute Offered)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H02.39H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 16 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H03.01H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 18 (Defeated)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H03.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 17 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H03.07H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 15 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6771H03.08H.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -685,6 +780,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Substitute (House Floor Substitute))",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3068F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6771H.01I.ORG",
       "links": [
         {
@@ -700,6 +806,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6771H.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 6771H.03F.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6771H.03F.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -737,6 +854,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-21T13:21:18Z"
   }
 }

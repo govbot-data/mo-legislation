@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Conservation and Natural Resources--(8:30 a.m. - HR 5)",
-      "date": "2026-04-16T05:00:00+00:00",
+      "description": "HCS Reported Do Pass H Conservation and Natural Resources",
+      "date": "2026-04-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-15T13:20:14Z"
+        "log_file_created": "2026-04-21T13:21:17Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Conservation and Natural Resources",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-21T13:21:17Z"
       }
     },
     {
@@ -239,6 +253,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4505H.04C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0953.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4505S.01P - Perfected",
       "links": [
         {
@@ -282,7 +307,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4505S.01P"
+    "MO_BILL_LR": "4505H.04C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -291,6 +316,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-21T13:21:17Z"
   }
 }
