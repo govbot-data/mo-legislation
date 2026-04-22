@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Transportation--(4:00 p.m. or Upon Adj. - HR 7)",
-      "date": "2026-04-14T05:00:00+00:00",
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-10T13:04:47Z"
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Transportation",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Transportation",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
       }
     },
     {
@@ -239,6 +265,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5907H.03C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1408.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5907S.01P - Perfected",
       "links": [
         {
@@ -270,7 +307,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5907S.01P"
+    "MO_BILL_LR": "5907H.03C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -279,6 +316,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:47Z"
+    "logs_latest_update": "2026-04-22T13:21:58Z"
   }
 }

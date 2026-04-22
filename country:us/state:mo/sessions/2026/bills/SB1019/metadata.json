@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Health and Mental Health--(9:00 a.m. 0 HR 6)",
+      "description": "HCS Reported Do Pass H Health and Mental Health",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-21T13:21:18Z"
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Health and Mental Health",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
       }
     },
     {
@@ -225,6 +239,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4774H.04C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1019.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4774S.01P - Perfected",
       "links": [
         {
@@ -268,7 +293,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4774S.01P"
+    "MO_BILL_LR": "4774H.04C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -277,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:18Z"
+    "logs_latest_update": "2026-04-22T13:21:58Z"
   }
 }

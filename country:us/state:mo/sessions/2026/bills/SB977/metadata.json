@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Government Efficiency--(9:00 a.m. - HR 1)",
+      "description": "Referred H Rules - Legislative",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-21T13:21:17Z"
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Government Efficiency",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Government Efficiency",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
       }
     },
     {
@@ -300,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:17Z"
+    "logs_latest_update": "2026-04-22T13:21:58Z"
   }
 }

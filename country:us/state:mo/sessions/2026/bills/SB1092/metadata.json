@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Emerging Issues--(4:30 p.m. or Upon Adj. - HR 7)",
-      "date": "2026-04-20T05:00:00+00:00",
+      "description": "HCS Reported Do Pass H Emerging Issues",
+      "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-17T13:14:31Z"
+        "log_file_created": "2026-04-22T13:21:58Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Emerging Issues",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T13:21:58Z"
       }
     },
     {
@@ -185,6 +199,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4990H.07C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1092.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4990S.01P - Perfected",
       "links": [
         {
@@ -216,7 +241,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4990S.01P"
+    "MO_BILL_LR": "4990H.07C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -225,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:14:31Z"
+    "logs_latest_update": "2026-04-22T13:21:58Z"
   }
 }
