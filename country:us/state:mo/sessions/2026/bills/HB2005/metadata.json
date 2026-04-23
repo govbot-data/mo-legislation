@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SCS HCS HB 2005"
+      "title": "SS SCS HCS HB 2005"
     }
   ],
   "other_identifiers": [
@@ -350,6 +350,53 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:21:17Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (S)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -402,6 +449,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2005S.04C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2005S.05F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -518,6 +576,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:17Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session Scheduled - Thursday, April 23, 2026, 9:45 a.m., Senate Lounge",
+    "date": "2026-04-22T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2637"
+}

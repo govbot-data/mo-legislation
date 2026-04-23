@@ -26,15 +26,25 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading (HCS)",
-      "date": "2026-04-16T05:00:00+00:00",
+      "description": "H Informal Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-04-23T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-16T13:25:05Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     },
     {
@@ -414,6 +424,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

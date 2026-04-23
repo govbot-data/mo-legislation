@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "description": "Bill Combined w/SCS SBs 1694 & 1688",
       "date": "2026-04-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-21T13:21:17Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     },
     {
@@ -103,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:17Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

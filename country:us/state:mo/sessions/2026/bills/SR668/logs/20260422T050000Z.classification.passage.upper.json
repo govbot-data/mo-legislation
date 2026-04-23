@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to table SA 1 to SR 668 S adopted (Coleman)",
+    "date": "2026-04-22T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 668"
+}

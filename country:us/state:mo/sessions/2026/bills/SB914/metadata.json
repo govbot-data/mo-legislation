@@ -26,15 +26,28 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading",
-      "date": "2026-04-16T05:00:00+00:00",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-04-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-16T13:25:05Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     },
     {
@@ -267,6 +280,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5507S.02T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SB914.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5507S.02P - Perfected",
       "links": [
         {
@@ -309,7 +333,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5507S.02P"
+    "MO_BILL_LR": "5507S.02T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -318,6 +342,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

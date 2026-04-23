@@ -6,15 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "LICENSES - MISCELLANEOUS",
-    "PROFESSIONAL REGISTRATION AND LICENSING"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2974"
+      "title": "SS HCS HB 2974"
     }
   ],
   "other_identifiers": [
@@ -315,17 +312,17 @@
       }
     },
     {
-      "description": "SS Adopted (S) - SA 1, adopted",
+      "description": "SS Adopted (S)",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-22T13:21:58Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SA 1",
+      "description": "Third Read and Passed with Amendments (S) - SA 1, adopted - AYES: 28 NOES: 3 PRESENT: 0",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -334,7 +331,29 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-22T13:21:58Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SS SCS, as amended",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     }
   ],
@@ -392,10 +411,32 @@
       "classification": ""
     },
     {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6590S.03F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment 6590H02.03H (Distributed)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6590H02.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SENATE AMENDMENTS (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6590S03.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -471,6 +512,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6590S.03A.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6590S.03A.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -501,6 +553,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:21:58Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

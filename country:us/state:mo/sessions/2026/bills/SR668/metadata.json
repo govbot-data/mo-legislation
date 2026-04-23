@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SR 668",
-  "title": "Modifies Senate Rule 96 to provide that, no later than April 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate",
+  "title": "SR 668 - This resolution modifies Senate Rule 96 to provide that, no later than April 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,55 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies Senate Rule 96 to provide that, no later than April 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate"
+      "abstract": "SR 668 - This resolution modifies Senate Rule 96 to provide that, no later than April 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\nJIM ERTLE"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Senate Rule 96 to provide that, no later than April 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sr668"
+    }
+  ],
   "actions": [
+    {
+      "description": "Motion to table SR 668 S adopted (Coleman)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Motion to table SA 1 to SR 668 S adopted (Coleman)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "SA 1 S offered (Moon)--(8100S26.01S)",
+      "date": "2026-04-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
     {
       "description": "S Offered",
       "date": "2026-02-11T06:00:00+00:00",
@@ -27,32 +70,22 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
-    },
-    {
-      "description": "Resolutions Calendar",
-      "date": "2026-03-19T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-13T12:54:27Z"
-      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Moon",
+      "name": "Moon, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Moon\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Moon, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7192S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SR668.pdf",
@@ -63,23 +96,29 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "4/22/2026 - SA 1 S offered (Moon)--(8100S26.01S)\r\n                    \r\n                        4/22/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=534",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=4373491",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=4373491",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=4373491",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4373491",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7192S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -87,6 +126,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

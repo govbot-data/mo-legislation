@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "S Bills with H Amendments",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
       "description": "H Third Read and Passed",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -329,6 +339,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:21:58Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }

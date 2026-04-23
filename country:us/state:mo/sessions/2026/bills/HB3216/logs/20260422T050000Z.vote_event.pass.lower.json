@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 11 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-22T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "35939e64-3f07-11f1-acea-22bef3bfdf4b",
+  "bill_action": null,
+  "bill_identifier": "HB 3216",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB3216&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Budget--(8:30 a.m. - HR 3)",
+      "description": "Executive Session Scheduled H Budget--(8:45 a.m. - HR 3)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:23:44Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Budget",
       "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-15T13:20:14Z"
+        "log_file_created": "2026-04-23T13:23:44Z"
       }
     },
     {
@@ -225,6 +235,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-23T13:23:44Z"
   }
 }
