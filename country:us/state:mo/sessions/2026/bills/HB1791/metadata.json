@@ -288,6 +288,16 @@
       "_processing": {
         "log_file_created": "2026-04-22T13:21:58Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Monday, April 27, 2026, 2:00 p.m., Senate Lounge - 3rd Floor",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -453,6 +463,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:21:58Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session Scheduled - Tuesday, April 28, 2026, 12:45 p.m., Senate Lounge - 3rd Floor",
+    "date": "2026-04-27T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2366"
+}

@@ -366,7 +366,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (S)",
+      "description": "Third Read and Passed (S) - AYES: 29 NOES: 2 PRESENT: 0",
       "date": "2026-04-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -375,7 +375,87 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-23T13:23:44Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SS SCS",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "House Refuses to Adopt, Requests Senate to Recede or Grant Conference (H)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Senate Refuses to Recede, Grants Conference (S)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "House Conference Committee Appointed (H) - REPRESENTATIVES DEATON, DAVIDSON, BOGGS, FOGLE, TAYLOR(84)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     }
   ],
@@ -611,6 +691,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

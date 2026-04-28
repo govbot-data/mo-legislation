@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Agriculture--(8:30 a.m. - HR 7)",
+      "description": "Executive Session Scheduled H Agriculture--(8:30 a.m. - HR 7)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Agriculture",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-17T13:14:31Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     },
     {
@@ -290,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:14:31Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

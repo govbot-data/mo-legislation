@@ -432,7 +432,7 @@
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 3 - AYES: 25 NOES: 5 PRESENT: 0",
+      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 3, adopted - AYES: 25 NOES: 5 PRESENT: 0",
       "date": "2026-03-31T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -441,17 +441,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:08:08Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     },
     {
-      "description": "Reported to the House with... (H) - SS as amended",
+      "description": "Reported to the House with... (H) - SS SCS, as amended",
       "date": "2026-04-01T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-02T13:08:08Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     },
     {
@@ -570,6 +570,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-16T13:25:05Z"
+      }
+    },
+    {
+      "description": "Approved by Governor (G)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State (G)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     }
   ],
@@ -824,6 +846,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

@@ -26,6 +26,18 @@
   ],
   "actions": [
     {
+      "description": "H Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
       "description": "Reported Do Pass H Rules - Legislative",
       "date": "2026-04-16T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -317,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:14:31Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

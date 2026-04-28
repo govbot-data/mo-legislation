@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Children and Families--(9:00 a.m. - HR 6)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
       "description": "Referred H Children and Families",
       "date": "2026-04-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -303,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

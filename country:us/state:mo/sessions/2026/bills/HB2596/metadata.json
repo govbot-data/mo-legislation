@@ -330,17 +330,17 @@
       }
     },
     {
-      "description": "SS Adopted (S) - SA 1, SA 2, adopted",
+      "description": "SS Adopted (S)",
       "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-17T13:14:31Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SS, as amended - AYES: 26 NOES: 2 PRESENT: 0",
+      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, adopted - AYES: 26 NOES: 2 PRESENT: 0",
       "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -349,7 +349,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-17T13:14:31Z"
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     },
     {
@@ -436,6 +436,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-21T13:21:18Z"
+      }
+    },
+    {
+      "description": "Senate Refuses to Recede, Grants Conference (S)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee Appointed (S) - CRAWFORD, GREGORY(21), TRENT, MCCREERY, LEWIS",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
       }
     }
   ],
@@ -667,6 +707,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:18Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }

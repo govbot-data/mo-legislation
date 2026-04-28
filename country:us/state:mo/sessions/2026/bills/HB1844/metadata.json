@@ -17,7 +17,11 @@
       "title": "HB 1844"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1844"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -239,6 +243,16 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Tuesday, April 28, 2026, 10:00 a.m., Senate Committee Room 1 - 1st Floor",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -371,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-28T13:59:46Z"
   }
 }
