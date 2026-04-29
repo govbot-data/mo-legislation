@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CHILDREN AND MINORS",
-    "EDUCATION, ELEMENTARY AND SECONDARY",
-    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2872"
+      "title": "SCS HCS HB 2872"
     }
   ],
   "other_identifiers": [
@@ -336,13 +332,57 @@
       }
     },
     {
-      "description": "Executive Session Scheduled - Thursday, April 23, 2026, 9:30 a.m., Senate Committee Room 2 - 1st Floor",
+      "description": "Executive Session Scheduled - CANCELLED: Thursday, April 23, 2026, 9:30 a.m., Senate Committee Room 2 - 1st Floor",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-22T13:21:58Z"
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Executive Session Scheduled - Tuesday, April 28, 2026, 8:00 a.m., Senate Lounge - 3rd Floor",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Executive Session Held (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     }
   ],
@@ -401,6 +441,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6553H.04P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6553S.05C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -550,6 +601,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:21:58Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

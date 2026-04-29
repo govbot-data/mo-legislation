@@ -160,6 +160,66 @@
       "_processing": {
         "log_file_created": "2026-04-02T13:08:08Z"
       }
+    },
+    {
+      "description": "Taken Up for Perfection (H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Laid Over (H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "HCS Adopted (H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Perfected with Amendments (H) - HA 1 adopted",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -186,6 +246,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Matthew Overcast\"}",
       "organization_id": null
+    },
+    {
+      "name": "Burt Whaley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burt Whaley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deanna Self",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deanna Self\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holly Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holly Jones\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -211,6 +295,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Perfected",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4672H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA 1 (Adopted)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4672H02.02H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 4672H02.03H (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4672H02.03H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -230,6 +347,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2426C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Summary (Perfected)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2426P.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -289,6 +417,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:08:08Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

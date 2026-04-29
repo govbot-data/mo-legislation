@@ -1,17 +1,27 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2637",
-  "title": "Modifies provisions relating to criminal offenses, including minimum prison terms and conditional release",
+  "title": "Modifies and establishes provisions relating to public safety",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "ATTORNEYS",
+    "CHILDREN AND MINORS",
+    "COURTS",
+    "COURTS, JUVENILE",
+    "CRIMES AND PUNISHMENT",
+    "CRIMINAL PROCEDURE",
+    "HIGHWAY PATROL",
+    "LAW ENFORCEMENT OFFICERS AND AGENCIES",
+    "SEXUAL OFFENSES"
+  ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "SS SCS HCS HBs 2637 & 3155"
+      "title": "CCR SS SCS HCS HBs 2637 & 3155"
     }
   ],
   "other_identifiers": [
@@ -577,7 +587,27 @@
       }
     },
     {
+      "description": "Taken Up",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
       "description": "House Refuses to Adopt, Requests Senate to Recede or Grant Conference (H)",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
       "date": "2026-04-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -634,6 +664,48 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-28T13:59:46Z"
+      }
+    },
+    {
+      "description": "Conferee Removed - removed Parker and appointed Dolan",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "House Distributes Conference Committee Report (H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     }
   ],
@@ -721,6 +793,17 @@
       "classification": ""
     },
     {
+      "note": "Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6162H.09S.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment 6162H04.01H (Distributed)",
       "links": [
         {
@@ -758,6 +841,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6162S08.01F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment CCR (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/6162H09.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -885,6 +979,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

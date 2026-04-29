@@ -256,6 +256,16 @@
       "_processing": {
         "log_file_created": "2026-04-22T13:21:58Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - AMENDED: Wednesday, April 29, 2026, 8:00 a.m.,  Senate Committee Room 1 - 1st Floor",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -458,6 +468,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-22T13:21:58Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

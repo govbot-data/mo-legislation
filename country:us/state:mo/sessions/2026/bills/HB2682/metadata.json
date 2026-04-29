@@ -19,7 +19,11 @@
       "title": "HCS HB 2682"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2682"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -267,23 +271,25 @@
       }
     },
     {
-      "description": "Reported to the Senate",
+      "description": "Delivered to the Senate",
       "date": "2026-02-26T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     },
     {
-      "description": "Read First Time (S)",
+      "description": "Reported to the Senate and First Read (S)",
       "date": "2026-03-02T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-03T12:53:07Z"
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     },
     {
@@ -294,6 +300,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
+      }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Thursday, April 30, 2026, 8:45 a.m., Senate Lounge - 3rd Floor",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     }
   ],
@@ -473,6 +489,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

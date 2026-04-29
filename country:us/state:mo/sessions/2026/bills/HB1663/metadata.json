@@ -21,7 +21,11 @@
       "title": "HCS HBs 1663, 1607 & 1973"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1663"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -299,6 +303,26 @@
       "_processing": {
         "log_file_created": "2026-03-13T12:54:27Z"
       }
+    },
+    {
+      "description": "Public Hearing Scheduled (S) - Tuesday, April 28, 2026, 8:00 a.m., Senate Lounge - 3rd Floor",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -560,6 +584,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T12:54:27Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

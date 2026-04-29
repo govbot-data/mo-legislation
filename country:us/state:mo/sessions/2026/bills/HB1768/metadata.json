@@ -6,20 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "COUNTIES",
-    "HOUSING",
-    "LANDLORDS AND TENANTS",
-    "PROPERTY, REAL AND PERSONAL",
-    "STATE TAX COMMISSION",
-    "TAXATION AND REVENUE - PROPERTY",
-    "TAXATION AND REVENUE - SALES AND USE"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 1768 & 2060"
+      "title": "SCS HCS HBs 1768 & 2060"
     }
   ],
   "other_identifiers": [
@@ -348,6 +340,18 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:21:18Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -429,6 +433,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4108H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4108S.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -534,6 +549,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:18Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

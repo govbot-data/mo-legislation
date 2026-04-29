@@ -288,7 +288,7 @@
       }
     },
     {
-      "description": "SCS Voted Do Pass (S)",
+      "description": "Voted Do Pass (S)",
       "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -296,7 +296,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-15T13:20:14Z"
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
       }
     }
   ],
@@ -468,6 +480,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-15T13:20:14Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

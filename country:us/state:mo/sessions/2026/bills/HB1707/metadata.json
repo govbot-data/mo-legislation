@@ -6,17 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "MERCHANDISING PRACTICES",
-    "REVENUE, DEPARTMENT OF",
-    "TAXATION AND REVENUE - GENERAL",
-    "TAXATION AND REVENUE - SALES AND USE"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1707"
+      "title": "SCS HB 1707"
     }
   ],
   "other_identifiers": [
@@ -323,6 +318,18 @@
       "_processing": {
         "log_file_created": "2026-04-16T13:25:05Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -377,6 +384,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3897H.01P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3897S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -482,6 +500,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

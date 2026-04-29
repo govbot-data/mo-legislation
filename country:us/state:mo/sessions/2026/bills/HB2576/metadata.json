@@ -6,18 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "EMBLEMS",
-    "HOLIDAYS AND OBSERVANCES",
-    "ROADS AND HIGHWAYS",
-    "TOURISM",
-    "TRANSPORTATION, DEPARTMENT OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HS HB 2576"
+      "title": "SCS HS HB 2576"
     }
   ],
   "other_identifiers": [
@@ -360,6 +354,30 @@
       "_processing": {
         "log_file_created": "2026-04-23T13:23:44Z"
       }
+    },
+    {
+      "description": "SCS Voted Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -433,6 +451,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665H.04P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.07C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -652,6 +681,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

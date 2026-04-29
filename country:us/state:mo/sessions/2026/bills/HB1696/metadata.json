@@ -6,15 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "FAMILY LAW",
-    "FUNERALS AND FUNERAL DIRECTORS"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 1696"
+      "title": "SCS HCS HB 1696"
     }
   ],
   "other_identifiers": [
@@ -317,6 +314,18 @@
       "_processing": {
         "log_file_created": "2026-04-16T13:25:05Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -390,6 +399,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3999H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3999S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -487,6 +507,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 3999S.03C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/3999S.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -517,6 +548,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

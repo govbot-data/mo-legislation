@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "FOOD",
-    "MEDICAID/MO HEALTHNET",
-    "SOCIAL SERVICES, DEPARTMENT OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2355"
+      "title": "SCS HCS HB 2355"
     }
   ],
   "other_identifiers": [
@@ -354,6 +350,18 @@
       "_processing": {
         "log_file_created": "2026-04-23T13:23:44Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -451,6 +459,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4711H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4711S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -603,6 +622,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4711S.03C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4711S.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -633,6 +663,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

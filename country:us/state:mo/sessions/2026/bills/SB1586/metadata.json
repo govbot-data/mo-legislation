@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Emerging Issues--(9:00 a.m. - HR 1)",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
+    },
+    {
       "description": "Referred H Emerging Issues",
       "date": "2026-04-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -334,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }

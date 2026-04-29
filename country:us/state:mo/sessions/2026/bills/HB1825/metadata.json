@@ -6,19 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "ATTORNEYS",
-    "BOARDS, COMMISSIONS, COMMITTEES, AND COUNCILS",
-    "COUNTIES",
-    "COUNTY OFFICIALS",
-    "LAW ENFORCEMENT OFFICERS AND AGENCIES",
-    "POLITICAL SUBDIVISIONS"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1825"
+      "title": "SCS HB 1825"
     }
   ],
   "other_identifiers": [
@@ -321,6 +314,18 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:21:17Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:50:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -351,6 +356,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5057H.01P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5057S.05C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -489,6 +505,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:17Z"
+    "logs_latest_update": "2026-04-29T13:50:15Z"
   }
 }
