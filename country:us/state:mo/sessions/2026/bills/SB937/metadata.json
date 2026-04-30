@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 937",
-  "title": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 11)\r\n\r\n\tThe act further authorizes the conveyance of state property located in:\r\n\t-\tNodaway County (Section 12);\r\n\t-\tthe City of Marshall, Saline County (Section 13);\r\n\t-\tthe City of Bowling Green, Pike County (Section 14);\r\n\t-\tthe City of Joplin, Jasper County (Section 15);\r\n\t-\tthe City of Potosi, Washington County (Section 16);\r\n\t-\tthe City of Springfield, Greene County (Section 17);\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA",
+  "title": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County);\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County);\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA\r\n\r\nHA#1: REMOVES A PROVISION RELATING TO THE CONVEYANCE OF STATE PROPERTY LOCATED IN COLE COUNTY TO THE CITY OF JEFFERSON.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County (Section 1);\r\n\t-\tthe City of Kirksville, Adair County (Section 2);\r\n\t-\tthe City of Springfield, Greene County (Sections 3, 4);\r\n\t-\tthe City of Festus, Jefferson County (Section 5);\r\n\t-\tthe City of Doniphan, Ripley County (Section 6);\r\n\t-\tthe City of Higginsville, Lafayette County (Section 7);\r\n\t-\tthe City of Jefferson, Cole County (Section 8);\r\n\t-\tthe City of Richwoods, Washington County (Section 9);\r\n\t-\tJackson County (Section 10)\r\n\r\n\tThe act further authorizes the conveyance of state property located in Cole County to the City of Jefferson. (Section 11)\r\n\r\n\tThe act further authorizes the conveyance of state property located in:\r\n\t-\tNodaway County (Section 12);\r\n\t-\tthe City of Marshall, Saline County (Section 13);\r\n\t-\tthe City of Bowling Green, Pike County (Section 14);\r\n\t-\tthe City of Joplin, Jasper County (Section 15);\r\n\t-\tthe City of Potosi, Washington County (Section 16);\r\n\t-\tthe City of Springfield, Greene County (Section 17);\r\n\r\n\tThe act has provisions identical to the provisions in SB 1414 (2026) and SB 1523 (2026).\r\nJULIA SHEVELEVA"
+      "abstract": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County);\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County);\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA\r\n\r\nHA#1: REMOVES A PROVISION RELATING TO THE CONVEYANCE OF STATE PROPERTY LOCATED IN COLE COUNTY TO THE CITY OF JEFFERSON."
     }
   ],
   "other_titles": [
@@ -26,15 +26,46 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading (HCS)",
-      "date": "2026-04-28T05:00:00+00:00",
+      "description": "S Bills with H Amendments",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "HCS, as amended, H adopted --(5447H.06C)",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "HA 1 to HCS H offered & adopted (Veit)--(5447H06.01H)",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
       }
     },
     {
@@ -329,6 +360,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-04-30T13:48:57Z"
   }
 }

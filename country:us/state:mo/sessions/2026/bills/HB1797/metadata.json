@@ -320,6 +320,16 @@
       "_processing": {
         "log_file_created": "2026-04-17T13:14:31Z"
       }
+    },
+    {
+      "description": "Placed on Informal Calendar",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -488,6 +498,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-17T13:14:31Z"
+    "logs_latest_update": "2026-04-30T13:48:57Z"
   }
 }

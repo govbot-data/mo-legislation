@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Rules - Legislative--(9:00 a.m. - HR 4)",
+      "description": "Reported Do Pass H Rules - Legislative",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Rules - Legislative",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
       }
     },
     {
@@ -347,6 +361,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-04-30T13:48:57Z"
   }
 }

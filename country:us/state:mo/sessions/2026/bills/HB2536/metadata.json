@@ -302,13 +302,23 @@
       }
     },
     {
-      "description": "Public Hearing Scheduled (S) - Wednesday, April 29, 2026, 8:00 a.m., Senate Lounge - 3rd Floor",
+      "description": "Public Hearing Scheduled (S) - AMENDED: Wednesday, April 29, 2026, 8:00 a.m.,  Senate Committee Room 1 - 1st Floor",
       "date": "2026-04-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "Public Hearing Held (S)",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
       }
     }
   ],
@@ -598,6 +608,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-04-30T13:48:57Z"
   }
 }

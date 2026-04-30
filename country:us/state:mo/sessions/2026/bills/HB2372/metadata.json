@@ -7,17 +7,13 @@
     "bill"
   ],
   "subject": [
-    "AMBULANCES AND AMBULANCE DISTRICTS",
-    "DRUGS AND CONTROLLED SUBSTANCES",
-    "EMERGENCIES",
-    "HEALTH CARE",
-    "HOSPITALS"
+    "HEALTH CARE"
   ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2372"
+      "title": "SCS HCS HB 2372"
     }
   ],
   "other_identifiers": [
@@ -366,7 +362,7 @@
       }
     },
     {
-      "description": "Voted Do Pass (S)",
+      "description": "SCS Voted Do Pass (S)",
       "date": "2026-04-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -374,7 +370,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-23T13:23:44Z"
+        "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-30T13:48:57Z"
       }
     }
   ],
@@ -449,6 +457,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5868H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5868S.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -917,6 +936,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-04-30T13:48:57Z"
   }
 }
