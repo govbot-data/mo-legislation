@@ -26,15 +26,52 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading (In Fiscal Review)",
-      "date": "2026-04-28T05:00:00+00:00",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-04-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Fiscal Review",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Fiscal Review",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
@@ -408,7 +445,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5125S.07P"
+    "MO_BILL_LR": "5125S.07T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -417,6 +454,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

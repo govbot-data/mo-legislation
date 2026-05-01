@@ -763,17 +763,17 @@
       }
     },
     {
-      "description": "House Adopts Conference Committee Report (H)",
+      "description": "House Adopts Conference Committee Report (H) - AYES: 124 NOES: 13 PRESENT: 6",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 119 NOES: 18 PRESENT: 7",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -782,11 +782,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
-      "description": "Emergency Clause Adopted (H)",
+      "description": "Emergency Clause Adopted (H) - AYES: 125 NOES: 15 PRESENT: 0",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -826,17 +836,17 @@
       }
     },
     {
-      "description": "Senate Adopts Conference Committee Report (S)",
+      "description": "Senate Adopts Conference Committee Report (S) - AYES: 23 NOES: 4 PRESENT: 0",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 25 NOES: 4 PRESENT: 0",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -844,17 +854,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
-      "description": "Emergency Clause Adopted on Truly Agreed to Bill",
+      "description": "Emergency Clause Adopted on Truly Agreed to Bill - AYES: 30 NOES: 0 PRESENT: 0",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
@@ -1160,6 +1170,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

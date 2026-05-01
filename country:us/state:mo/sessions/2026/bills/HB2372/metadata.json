@@ -384,6 +384,18 @@
       "_processing": {
         "log_file_created": "2026-04-30T13:48:57Z"
       }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -906,6 +918,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5868S.04C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5868S.04C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -936,6 +959,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

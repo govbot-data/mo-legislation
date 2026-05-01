@@ -26,13 +26,39 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Health and Mental Health--(9:00 a.m. - HR 6)",
+      "description": "HCS Referred H Rules - Legislative",
       "date": "2026-04-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "referral-committee"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Health and Mental Health",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Health and Mental Health",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
@@ -237,6 +263,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "5598H.07C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0878.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "5598S.05P - Perfected",
       "links": [
         {
@@ -312,7 +349,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5598S.05P"
+    "MO_BILL_LR": "5598H.07C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -321,6 +358,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

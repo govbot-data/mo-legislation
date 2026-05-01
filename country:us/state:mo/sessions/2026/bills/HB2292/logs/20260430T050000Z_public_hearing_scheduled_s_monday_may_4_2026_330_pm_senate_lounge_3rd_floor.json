@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Monday, May 4, 2026, 3:30 p.m., Senate Lounge - 3rd FLoor",
+    "date": "2026-04-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2292"
+}

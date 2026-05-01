@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Executive Session Scheduled H Government Efficiency--(9:00 a.m. - HR 6)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
       "description": "Returned to Committee of Origin (Government Efficiency)",
       "date": "2026-04-21T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -312,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Veterans and Armed Forces--(11:00 a.m. - HR 7)",
+      "description": "Executive Session Scheduled H Veterans and Armed Forces--(12:00 p.m. or Upon Adj. - HR 7)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Veterans and Armed Forces",
       "date": "2026-04-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
@@ -408,6 +418,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:59:14Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

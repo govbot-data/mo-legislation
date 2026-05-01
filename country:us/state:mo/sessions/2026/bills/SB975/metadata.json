@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "S Bills with H Amendments",
-      "date": "2026-04-28T05:00:00+00:00",
+      "description": "Requests to Recede or Grant Conference Calendar",
+      "date": "2026-05-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
+    },
+    {
+      "description": "S refuses to concur in HCS, as amended and requests H recede or grant conference",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
       }
     },
     {
@@ -424,6 +434,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "CONTRACTS AND CONTRACTORS",
     "INSURANCE - GENERAL",
     "INSURANCE - PROPERTY",
     "PROPERTY, REAL AND PERSONAL"
@@ -15,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 3328"
+      "title": "HCS HB 3328"
     }
   ],
   "other_identifiers": [
@@ -91,6 +92,18 @@
       "_processing": {
         "log_file_created": "2026-04-23T13:23:44Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 0",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:14:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +123,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6999H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6999H.02C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -171,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-05-01T13:14:51Z"
   }
 }
