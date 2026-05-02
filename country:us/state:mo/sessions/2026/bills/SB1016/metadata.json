@@ -24,14 +24,80 @@
       "identifier": "ocd-bill-mo-2026-sb1016"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Bill Combined w/SCS SBs 979 & 1016",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Lewis, Patty",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Lewis, Patty\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -67,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-02T13:05:47Z"
   }
 }

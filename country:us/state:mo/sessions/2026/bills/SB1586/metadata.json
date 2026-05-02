@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Emerging Issues--(9:00 a.m. - HR 1)",
+      "description": "Executive Session Scheduled H Emerging Issues--(9:00 a.m. - HR 1)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-02T13:05:47Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Emerging Issues",
       "date": "2026-04-29T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-29T13:50:15Z"
+        "log_file_created": "2026-05-02T13:05:47Z"
       }
     },
     {
@@ -252,7 +262,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -344,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-02T13:05:47Z"
   }
 }
