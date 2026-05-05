@@ -26,13 +26,51 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Rules - Administrative--(2:30 p.m. - HR 4)",
-      "date": "2026-05-04T05:00:00+00:00",
+      "description": "H Calendar Senate Bills for Third Reading (HCS) (In Fiscal Review)",
+      "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "reading-3"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "Referred H Fiscal Review Committee",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Rules - Administrative",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Rules - Administrative",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
       }
     },
     {
@@ -268,7 +306,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bean, Jason\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -338,6 +376,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-05T13:48:55Z"
   }
 }

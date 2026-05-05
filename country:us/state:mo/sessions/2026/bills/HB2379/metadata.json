@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2379",
-  "title": "Modifies provisions relating to sales taxes for early childhood education services",
+  "title": "Modifies provisions relating to sales taxes for early childhood services",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 2379"
+      "title": "HCS HB 2379"
     }
   ],
   "other_identifiers": [
@@ -100,6 +100,18 @@
       "_processing": {
         "log_file_created": "2026-04-28T13:59:46Z"
       }
+    },
+    {
+      "description": "HCS Reported Do Pass (H) - AYES: 7 NOES: 2 PRESENT: 0",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +136,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5899H.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -143,6 +166,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5899H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 5899H.03C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5899H.03C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -180,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-05-05T13:48:55Z"
   }
 }

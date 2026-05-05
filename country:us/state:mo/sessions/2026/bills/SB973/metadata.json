@@ -27,12 +27,32 @@
   "actions": [
     {
       "description": "Requests to Recede or Grant Conference Calendar",
-      "date": "2026-05-04T05:00:00+00:00",
+      "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-05T13:48:56Z"
+      }
+    },
+    {
+      "description": "House conferees appointed: Brown C., Hruza, Violet, Kimble, Butz",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:56Z"
+      }
+    },
+    {
+      "description": "H refuses to recede and grants conference",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:56Z"
       }
     },
     {
@@ -343,7 +363,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Trent, Curtis\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -445,6 +465,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-05T13:48:56Z"
   }
 }

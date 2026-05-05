@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Special Committee on Tourism--(12:00 p.m. or Upon Adj. - HR 6)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
       "description": "Referred H Special Committee on Tourism",
       "date": "2026-04-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -146,7 +156,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bernskoetter, Mike\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bernskoetter, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -193,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-05T13:48:55Z"
   }
 }

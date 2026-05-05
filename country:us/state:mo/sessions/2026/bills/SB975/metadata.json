@@ -27,12 +27,32 @@
   "actions": [
     {
       "description": "Requests to Recede or Grant Conference Calendar",
-      "date": "2026-05-04T05:00:00+00:00",
+      "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "House conferees appointed: Farnan, Hinman, Billington, Walsh Moore, Smith (74)",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "H refuses to recede and grants conference",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
       }
     },
     {
@@ -343,7 +363,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Black, Rusty\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Black, Rusty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -434,6 +454,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-05T13:48:55Z"
   }
 }

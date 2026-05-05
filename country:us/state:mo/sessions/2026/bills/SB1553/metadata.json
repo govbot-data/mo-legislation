@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Commerce--(4:30 p.m. or Upon Adj. - HR 1)",
+      "description": "Voted Do Pass H Commerce",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:48:55Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Commerce",
       "date": "2026-05-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-05T13:48:55Z"
       }
     },
     {
@@ -286,7 +298,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Gregory (21), Kurtis\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -400,6 +412,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-05T13:48:55Z"
   }
 }
