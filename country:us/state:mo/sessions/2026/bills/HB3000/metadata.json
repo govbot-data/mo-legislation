@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "AUDITOR, STATE",
-    "COUNTIES",
-    "POLITICAL SUBDIVISIONS"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 3000"
+      "title": "SCS HB 3000"
     }
   ],
   "other_identifiers": [
@@ -235,7 +231,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 149 NOES: 1 PRESENT: 0",
       "date": "2026-04-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -244,7 +240,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -310,6 +306,30 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:48:55Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -340,6 +360,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6765H.01P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6765S.04C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -415,6 +446,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6765S.04C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6765S.04C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -445,6 +487,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:48:55Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

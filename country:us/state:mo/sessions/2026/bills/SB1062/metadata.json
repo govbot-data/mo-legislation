@@ -26,15 +26,35 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading (HCS) (In Fiscal Review)",
-      "date": "2026-04-29T05:00:00+00:00",
+      "description": "H Informal Calendar Senate Bills for Third Reading (HCS) (In Fiscal Review)",
+      "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-29T13:50:15Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Executive Session Scheduled H Fiscal Review--(9:30 a.m. - HR 4)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -458,7 +478,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Carter, Jill\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -616,6 +636,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

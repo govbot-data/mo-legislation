@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CHILDREN AND MINORS",
-    "EDUCATION, ELEMENTARY AND SECONDARY",
-    "SCIENCE AND TECHNOLOGY"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 2230 & 2978"
+      "title": "SCS HCS HBs 2230 & 2978"
     }
   ],
   "other_identifiers": [
@@ -308,6 +304,18 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:50:15Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -444,6 +452,17 @@
       "classification": ""
     },
     {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5744S.05C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
@@ -534,6 +553,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5744S.05C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5744S.05C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -564,6 +594,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

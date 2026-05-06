@@ -26,15 +26,606 @@
   ],
   "actions": [
     {
-      "description": "H Informal Calendar Senate Bills for Third Reading",
-      "date": "2026-04-30T05:00:00+00:00",
+      "description": "Requests to Recede or Grant Conference Calendar",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "S refuses to concur in HAs and requests H recede or grant conference",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed, as amended EC - adopted",
+      "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 44 H offered & adopted (Sharp (37))--(5940S03.82H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 43 H offered & adopted (Smith (46))--(5940S03.02X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 42 H offered & adopted (Simmons)--(5940S03.49H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 41 H offered & adopted (Cook)--(5940S03.65H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 40 H offered & adopted (Miller)--(5940S03.46H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 39 H offered & adopted (Hewkin)--(5940S03.84H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 38 H offered & adopted (Irwin)--(5940S03.36H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 37 H offered & ruled out of order (Warwick)--(5940S03.01X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 36 H offered & adopted (Phelps)--(5940S03.14H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 35 H offered & adopted (Sassmann)--(5940S03.33H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 34 H offered & adopted (Reedy)--(5940S03.20H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 33 H offered & adopted (Mayhew)--(5940S03.71H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 32, as amended, H adopted --(5940S03.30H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 32 H offered & adopted (Veit)--(5940S03.24X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 32 H offered (Black)--(5940S03.30H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 31 H offered & adopted (Jones (88))--(5940S03.32H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 30 H offered & adopted (Costlow)--(5940S03.47H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 29 H offered & adopted (Caton)--(5940S03.73H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 28 H offered & adopted (Byrnes)--(5940S03.80H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 27 H offered & adopted (Hausman)--(5940S03.81H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 26 H withdrawn --(5940S03.19H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 2 to HA 26 H offered (Burton)--(5940S03.17X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 26 H offered & adopted (Brown C.)--(5940S03.11X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 26 H offered (Gallick)--(5940S03.19H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 25 H offered & adopted (Taylor (48))--(5940S03.51H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 24, as amended, H adopted --(5940S03.39H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 2 to HA 24 H offered & adopted (Reuter)--(5940S03.15X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 24 H offered & adopted (Collins)--(5940S03.13X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 24 H offered (Oehlerking)--(5940S03.39H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 23 H offered & adopted (Seitz)--(5940S03.04X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 22 H offered & adopted (Kelley)--(5940S03.44H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 21 H offered & adopted (Hovis)--(5940S03.21H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 20, as amended, H adopted --(5940S03.41H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 20 H offered & adopted (Myers)--(5940S03.10X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 20 H offered (Christ)--(5940S03.41H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 19 H offered & adopted (Hinman)--(5940S03.26H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 18, as amended, H adopted --(5940S03.94H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 2 to HA 18 H offered & ruled out of order (Oehlerking)--(5940S03.07X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 18 H offered & adopted (Peters)--(5940S03.09X)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 18 H offered (Casteel)--(5940S03.94H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 17 H offered & adopted (Proudie)--(5940S03.37H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 16 H offered & adopted (Roberts)--(5940S03.22H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 15 H offered & adopted (Parker)--(5940S03.25H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 14 H offered & adopted (Dolan)--(5940S03.43H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 13 H offered & adopted (Chappell)--(5940S03.97H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 12 H offered & adopted (Haley)--(5940S03.28H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 11 H offered & adopted (Schulte)--(5940S03.96H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 10 H offered & adopted (Simmons)--(5940S03.60H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 9 H offered & adopted (Vernetti)--(5940S03.18H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 8 H offered & ruled out of order (Hovis)--(5940S03.99H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 7 H offered & adopted (Van Schoiack)--(5940S03.27H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 6 H offered & adopted (Peters)--(5940S03.83H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 5 H offered & adopted (Falkner)--(5940S03.24H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 4 H offered & adopted (Overcast)--(5940S03.75H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 3 H offered & adopted (Davidson)--(5940S03.87H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 2 H offered & adopted (Jones (12))--(5940S03.09H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "HA 1 H offered & adopted (Jones (12))--(5940S03.03H)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -340,7 +931,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -398,6 +989,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

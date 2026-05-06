@@ -26,15 +26,25 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Bills for Third Reading",
-      "date": "2026-04-30T05:00:00+00:00",
+      "description": "H Informal Calendar Senate Bills for Third Reading",
+      "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -282,7 +292,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Schroer, Nick\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -362,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

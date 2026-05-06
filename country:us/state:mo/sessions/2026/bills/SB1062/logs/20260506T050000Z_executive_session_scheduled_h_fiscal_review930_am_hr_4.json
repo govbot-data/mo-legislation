@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session Scheduled H Fiscal Review--(9:30 a.m. - HR 4)",
+    "date": "2026-05-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1062"
+}

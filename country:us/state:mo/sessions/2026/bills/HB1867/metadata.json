@@ -6,19 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CAPITAL IMPROVEMENTS",
-    "CITIES, TOWNS, AND VILLAGES",
-    "MOTELS AND HOTELS",
-    "POLITICAL SUBDIVISIONS",
-    "TAXATION AND REVENUE - SALES AND USE",
-    "TOURISM"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1867"
+      "title": "SCS HB 1867"
     }
   ],
   "other_identifiers": [
@@ -311,6 +304,30 @@
       "_processing": {
         "log_file_created": "2026-04-21T13:21:17Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -341,6 +358,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4855H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4855S.03C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -405,6 +433,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4855S.03C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4855S.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -435,6 +474,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-21T13:21:17Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

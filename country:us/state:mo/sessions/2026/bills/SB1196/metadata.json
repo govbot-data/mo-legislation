@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Higher Education and Workforce Development--(12:00 p.m. or Upon Adj. - HR 1)",
+      "description": "HCS Voted Do Pass H Higher Education and Workforce Development",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Higher Education and Workforce Development",
       "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -232,7 +244,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Henderson, Mike\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -290,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }

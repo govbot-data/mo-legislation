@@ -26,13 +26,79 @@
   ],
   "actions": [
     {
-      "description": "Informal Calendar S Bills for Perfection",
-      "date": "2026-04-30T05:00:00+00:00",
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-05-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "SS for SCS S adopted",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & defeated  (Moon)--(7297S05.04S)",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S withdrawn",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-06T14:03:21Z"
       }
     },
     {
@@ -129,7 +195,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Roberts, Steven\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
       "organization_id": null
     },
     {
@@ -143,6 +209,17 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "7297S.05P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1694.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "7297S.03C - Senate Committee Substitute",
       "links": [
@@ -164,11 +241,9 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "4/29/2026 - SS for SCS S offered (Gregory-15)--(7297S.05F)\r\n                    \r\n                        4/29/2026 - Offered",
+      "note": "4/29/2026 - SS for SCS S offered (Gregory-15)--(7297S.05F)\r\n                    \r\n                        5/5/2026 - Adopted",
       "links": [
         {
           "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=626",
@@ -177,12 +252,25 @@
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
-      "note": "4/29/2026 - SA 1 to SS for SCS S offered (Webber)--(7297S05.01S)\r\n                    \r\n                        4/29/2026 - Offered",
+      "note": "4/29/2026 - SA 1 to SS for SCS S offered (Webber)--(7297S05.01S)\r\n                    \r\n                        5/5/2026 - Withdrawn",
       "links": [
         {
           "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=628",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5/5/2026 - SA 2 to SS for SCS S offered & defeated  (Moon)--(7297S05.04S)\r\n                    \r\n                        5/5/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=641",
           "media_type": "application/pdf"
         }
       ],
@@ -198,7 +286,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "7297S.03C"
+    "MO_BILL_LR": "7297S.05P"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -207,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-06T14:03:21Z"
   }
 }
