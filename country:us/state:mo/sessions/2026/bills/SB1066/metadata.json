@@ -27,12 +27,22 @@
   "actions": [
     {
       "description": "In Conference",
-      "date": "2026-05-04T05:00:00+00:00",
+      "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Senate conferees appointed: Brown (26), Crawford, Schroer, McCreery, Nurrenbern",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
       }
     },
     {
@@ -453,7 +463,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Brown (26), Ben\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -555,6 +565,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

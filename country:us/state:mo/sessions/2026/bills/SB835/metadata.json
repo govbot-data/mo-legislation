@@ -26,6 +26,18 @@
   ],
   "actions": [
     {
+      "description": "H Calendar Senate Bills for Third Reading",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
       "description": "Reported Do Pass H Rules - Administrative",
       "date": "2026-04-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -280,7 +292,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Crawford, Sandy\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -371,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:25:05Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

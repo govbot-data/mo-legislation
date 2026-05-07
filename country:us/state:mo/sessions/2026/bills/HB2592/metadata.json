@@ -6,20 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "COUNTIES",
-    "COUNTY OFFICIALS",
-    "CRIMES AND PUNISHMENT",
-    "ELECTIONS",
-    "POLITICAL SUBDIVISIONS",
-    "PROPERTY, REAL AND PERSONAL",
-    "TAXATION AND REVENUE - PROPERTY"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 2592, 2787 & 2834"
+      "title": "SCS HCS HBs 2592, 2787 & 2834"
     }
   ],
   "other_identifiers": [
@@ -312,6 +304,18 @@
       "_processing": {
         "log_file_created": "2026-04-30T13:48:57Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -414,6 +418,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4207S.03C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -484,6 +499,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4207S.03C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4207S.03C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -514,6 +540,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

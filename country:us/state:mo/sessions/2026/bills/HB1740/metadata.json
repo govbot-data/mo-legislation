@@ -6,17 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CRIMES AND PUNISHMENT",
-    "CRIMINAL PROCEDURE",
-    "DRUNK DRIVING/BOATING",
-    "MOTOR VEHICLES"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HB 1740"
+      "title": "SCS HB 1740"
     }
   ],
   "other_identifiers": [
@@ -300,7 +295,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 141 NOES: 5 PRESENT: 1",
       "date": "2026-04-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -309,7 +304,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-05-07T14:01:37Z"
       }
     },
     {
@@ -374,6 +369,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
       }
     }
   ],
@@ -538,6 +545,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5381S.05C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -597,6 +615,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5381S.05C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5381S.05C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -627,6 +656,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

@@ -26,6 +26,18 @@
   ],
   "actions": [
     {
+      "description": "Signed by Governor",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
       "description": "Delivered to Governor",
       "date": "2026-04-23T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -346,7 +358,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -415,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-28T13:59:46Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

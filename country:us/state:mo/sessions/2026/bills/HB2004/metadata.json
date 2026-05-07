@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "CCR SS SCS HCS HB 2004"
+      "title": "CCS SS SCS HCS HB 2004"
     }
   ],
   "other_identifiers": [
@@ -467,6 +467,81 @@
       "_processing": {
         "log_file_created": "2026-05-06T14:03:21Z"
       }
+    },
+    {
+      "description": "House Submits Conference Committee Report (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "House Adopts Conference Committee Report (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Senate Submits Conference Committee Report (S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Senate Adopts Conference Committee Report (S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -548,6 +623,17 @@
       "classification": ""
     },
     {
+      "note": "Truly Agreed and Finally Passed",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2004H.06T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
@@ -613,6 +699,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T14:03:21Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

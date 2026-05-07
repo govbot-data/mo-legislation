@@ -6,15 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "CONTRACTS AND CONTRACTORS",
-    "POLITICAL SUBDIVISIONS"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HB 2474"
+      "title": "SCS HCS HB 2474"
     }
   ],
   "other_identifiers": [
@@ -341,6 +338,30 @@
       "_processing": {
         "log_file_created": "2026-05-05T13:48:55Z"
       }
+    },
+    {
+      "description": "SCS Reported Do Pass (S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -382,6 +403,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5233H.02P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5233S.05C.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -479,6 +511,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5233S.05C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5233S.05C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -509,6 +552,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:48:55Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

@@ -26,13 +26,25 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Commerce--(12:00 p.m. or Upon Adj. - HR 3)",
+      "description": "Voted Do Pass H Commerce",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Commerce",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-05T13:48:55Z"
+        "log_file_created": "2026-05-07T14:01:37Z"
       }
     },
     {
@@ -334,6 +346,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:48:55Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }

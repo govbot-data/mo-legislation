@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "CCR SS SCS HCS HB 2013"
+      "title": "CCS SS SCS HCS HB 2013"
     }
   ],
   "other_identifiers": [
@@ -487,6 +487,49 @@
       "_processing": {
         "log_file_created": "2026-05-06T14:03:21Z"
       }
+    },
+    {
+      "description": "House Submits Conference Committee Report (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "House Adopts Conference Committee Report (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-07T14:01:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -622,6 +665,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-06T14:03:21Z"
+    "logs_latest_update": "2026-05-07T14:01:37Z"
   }
 }
