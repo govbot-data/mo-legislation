@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1730",
-  "title": "Modifies provisions relating to the Missouri Technology Corporation",
+  "title": "SB 1730 - This act establishes the \"Innovation Endowment Fund\" in the state treasury, to be used by the Missouri Technology Corporation to carry out its duties. The fund shall consist of appropriations made by the General Assembly, any gifts, bequests, and donations, 0.5% of data storage center project costs, as defined in the act, deposited in equal increments over a period of twenty years, and an amount equal to $100 per megawatt of nameplate capacity for each solar farm, as defined in the act, in this state. For any data storage center that includes at least 10,000 square feet of space dedicated to fostering workforce development or economic development and providing small business incubator and research space, the amount deposited in the fund shall be equal to 0.25% of data storage center project costs, to be deposited in equal increments over a period of twenty years.\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to the Missouri Technology Corporation"
+      "abstract": "SB 1730 - This act establishes the \"Innovation Endowment Fund\" in the state treasury, to be used by the Missouri Technology Corporation to carry out its duties. The fund shall consist of appropriations made by the General Assembly, any gifts, bequests, and donations, 0.5% of data storage center project costs, as defined in the act, deposited in equal increments over a period of twenty years, and an amount equal to $100 per megawatt of nameplate capacity for each solar farm, as defined in the act, in this state. For any data storage center that includes at least 10,000 square feet of space dedicated to fostering workforce development or economic development and providing small business incubator and research space, the amount deposited in the fund shall be equal to 0.25% of data storage center project costs, to be deposited in equal increments over a period of twenty years.\r\nJOSH NORBERG"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the Missouri Technology Corporation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1730"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-25T06:00:00+00:00",
@@ -31,33 +53,39 @@
   ],
   "sponsorships": [
     {
-      "name": "Henderson",
+      "name": "Henderson, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henderson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "7301S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1730.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6457869",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6457869",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6457869",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457869",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7301S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -65,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:51Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

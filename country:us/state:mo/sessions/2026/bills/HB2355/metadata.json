@@ -275,7 +275,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 121 NOES: 18 PRESENT: 12",
       "date": "2026-04-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -284,7 +284,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-03T12:59:14Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -373,6 +373,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-30T13:48:57Z"
+      }
+    },
+    {
+      "description": "Executive Session Held (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Placed on Informal Calendar",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     }
   ],
@@ -675,6 +719,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

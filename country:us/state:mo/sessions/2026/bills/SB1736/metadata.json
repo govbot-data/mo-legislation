@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1736",
-  "title": "Modifies the calculation of state aid for certain school districts",
+  "title": "SB 1736 - Under this act, certain school districts shall no longer receive hold-harmless state aid payments or Small Schools Grant payments.  Additionally, certain school districts shall have their foundation formula payments calculated using a new definition of the term \"local effort\" that is based on 2024 property values and local revenue from fiscal year 2025, rather than the 2004 property values and fiscal year 2005 revenue as provided under current law. \r\n\r\n\tThe following school districts shall not receive hold-harmless state aid payments or Small Schools Grant payments:  Northwestern, Keytesville, Blackwater, Cooper County, Otterville, Pilot Grove, and Higbee.  (Subsection 1)\r\n\r\n\tThe following school districts shall receive foundation formula payments calculated using a definition of the term \"local effort\" based on 2024 property values and fiscal year 2025 local revenue receipts, as provided in the act:  Prairie Home, Brunswick, New Franklin, and Glasgow.  Additionally, these school districts shall not receive state aid under hold harmless adjustments or the Small Schools Grant. (Subsection 2)\r\n\r\n\tThe following school districts shall receive foundation formula payments calculated using a definition of the term \"local effort\" based on 2024 property values and fiscal year 2025 local revenue receipts, as provided in the act:  Salisbury, Boonville, Fayette, and Westran.  None of these school districts shall receive state aid under hold harmless adjustments.  (Subsection 3)\r\nOLIVIA SHANNON",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies the calculation of state aid for certain school districts"
+      "abstract": "SB 1736 - Under this act, certain school districts shall no longer receive hold-harmless state aid payments or Small Schools Grant payments.  Additionally, certain school districts shall have their foundation formula payments calculated using a new definition of the term \"local effort\" that is based on 2024 property values and local revenue from fiscal year 2025, rather than the 2004 property values and fiscal year 2005 revenue as provided under current law. \r\n\r\n\tThe following school districts shall not receive hold-harmless state aid payments or Small Schools Grant payments:  Northwestern, Keytesville, Blackwater, Cooper County, Otterville, Pilot Grove, and Higbee.  (Subsection 1)\r\n\r\n\tThe following school districts shall receive foundation formula payments calculated using a definition of the term \"local effort\" based on 2024 property values and fiscal year 2025 local revenue receipts, as provided in the act:  Prairie Home, Brunswick, New Franklin, and Glasgow.  Additionally, these school districts shall not receive state aid under hold harmless adjustments or the Small Schools Grant. (Subsection 2)\r\n\r\n\tThe following school districts shall receive foundation formula payments calculated using a definition of the term \"local effort\" based on 2024 property values and fiscal year 2025 local revenue receipts, as provided in the act:  Salisbury, Boonville, Fayette, and Westran.  None of these school districts shall receive state aid under hold harmless adjustments.  (Subsection 3)\r\nOLIVIA SHANNON"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the calculation of state aid for certain school districts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1736"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-25T06:00:00+00:00",
@@ -31,33 +53,39 @@
   ],
   "sponsorships": [
     {
-      "name": "Washington",
+      "name": "Washington, Barbara",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Washington\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "7403S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1736.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6457875",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6457875",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6457875",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457875",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7403S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -65,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

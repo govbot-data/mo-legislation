@@ -26,15 +26,28 @@
   ],
   "actions": [
     {
-      "description": "Formal Calendar S Bills for Third Reading",
-      "date": "2026-05-05T05:00:00+00:00",
+      "description": "H First Read",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-05T13:48:55Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -411,6 +424,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-05T13:48:55Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

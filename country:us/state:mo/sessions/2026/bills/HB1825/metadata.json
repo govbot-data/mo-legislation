@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SCS HB 1825"
+      "title": "SS SCS HB 1825"
     }
   ],
   "other_identifiers": [
@@ -326,6 +326,85 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:50:15Z"
       }
+    },
+    {
+      "description": "Placed on Informal Calendar",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -366,7 +445,18 @@
       "note": "Senate Committee Substitute",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5057S.05C.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5057S.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5057S.04F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -475,6 +565,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5057S.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5057S.02C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -505,6 +606,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

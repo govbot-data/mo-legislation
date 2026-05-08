@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1770",
-  "title": "Prohibits state agencies from using the term \"West Bank\" in official government materials and instead requires the area to be referred to as Judea and Samaria",
+  "title": "SB 1770 - This act requires a state agency to refer to Judea and Samaria in any official government material and to not use the term \"West Bank\".  A state agency shall not use state moneys to create any official government material that refers to Judea and Samaria as \"West Bank\".  The act authorizes the director of a state agency to waive the provisions of the act if it is in the best interests of the state and notice is provided to the President Pro Tem of the Senate and the Speaker of the House of Representatives.\r\n\r\n\tThis act is identical to SB 1244 (2026).\r\nJIM ERTLE",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Prohibits state agencies from using the term \"West Bank\" in official government materials and instead requires the area to be referred to as Judea and Samaria"
+      "abstract": "SB 1770 - This act requires a state agency to refer to Judea and Samaria in any official government material and to not use the term \"West Bank\".  A state agency shall not use state moneys to create any official government material that refers to Judea and Samaria as \"West Bank\".  The act authorizes the director of a state agency to waive the provisions of the act if it is in the best interests of the state and notice is provided to the President Pro Tem of the Senate and the Speaker of the House of Representatives.\r\n\r\n\tThis act is identical to SB 1244 (2026).\r\nJIM ERTLE"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits state agencies from using the term \"West Bank\" in official government materials and instead requires the area to be referred to as Judea and Samaria"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1770"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-26T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Brattin",
+      "name": "Brattin, Rick",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brattin\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7495S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1770.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6616212",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6616212",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6616212",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616212",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7495S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

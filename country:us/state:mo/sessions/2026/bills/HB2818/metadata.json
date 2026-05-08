@@ -6,12 +6,15 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "ANNEXATION",
+    "CITIES, TOWNS, AND VILLAGES"
+  ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "SS SCS HB 2818"
+      "title": "CCR SS SCS HB 2818"
     }
   ],
   "other_identifiers": [
@@ -463,9 +466,9 @@
       }
     },
     {
-      "description": "House Message (H)",
+      "description": "Senate Conference Committee Appointed (S) - SENATORS BLACK, HENDERSON, SCHROER, MCCREERY, LEWIS",
       "date": "2026-05-06T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -473,9 +476,9 @@
       }
     },
     {
-      "description": "Senate Conference Committee Appointed (S) - SENATORS BLACK, HENDERSON, SCHROER, MCCREERY, LEWIS",
+      "description": "House Message (H)",
       "date": "2026-05-06T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -490,6 +493,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-07T14:01:37Z"
+      }
+    },
+    {
+      "description": "House Distributes Conference Committee Report (H)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     }
   ],
@@ -550,10 +575,32 @@
       "classification": ""
     },
     {
+      "note": "Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5978H.08S.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment SENATE AMENDMENTS (Distributed)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5978S06.01F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment CCR (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5978H08.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -670,6 +717,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T14:01:37Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

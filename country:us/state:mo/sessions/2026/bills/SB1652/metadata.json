@@ -26,13 +26,27 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Crime and Public Safety--(12:00 p.m. or Upon Adj. - HR 3)",
-      "date": "2026-05-05T05:00:00+00:00",
+      "description": "HCS Reported Do Pass H Crime and Public Safety",
+      "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-01T13:14:51Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Crime and Public Safety",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -242,12 +256,23 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Mosley, Angela\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "7082H.05C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB1652.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "7082S.04P - Perfected",
       "links": [
@@ -302,7 +327,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "7082S.04P"
+    "MO_BILL_LR": "7082H.05C"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -311,6 +336,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

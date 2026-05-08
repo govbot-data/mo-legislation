@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1791",
-  "title": "Establishes contribution limits for self-funded candidates",
+  "title": "SB 1791 - This act prohibits candidates for state office from making contributions to their own candidate committee in excess of the contribution limitation applicable to the elective office sought that is applicable pursuant to the Constitution.\r\nSCOTT SVAGERA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Establishes contribution limits for self-funded candidates"
+      "abstract": "SB 1791 - This act prohibits candidates for state office from making contributions to their own candidate committee in excess of the contribution limitation applicable to the elective office sought that is applicable pursuant to the Constitution.\r\nSCOTT SVAGERA"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes contribution limits for self-funded candidates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1791"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-26T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Cierpiot",
+      "name": "Cierpiot, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cierpiot\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Cierpiot, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7476S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1791.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6618185",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6618185",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6618185",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6618185",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7476S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

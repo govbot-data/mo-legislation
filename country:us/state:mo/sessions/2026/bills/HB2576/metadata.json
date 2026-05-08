@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SCS HS HB 2576"
+      "title": "SS SCS HS HB 2576"
     }
   ],
   "other_identifiers": [
@@ -378,6 +378,62 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:50:15Z"
       }
+    },
+    {
+      "description": "Placed on Informal Calendar",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S) - SA 1, SA 2, SA 3, SA 4, SA 5, SA 6, SA 7, SA 8, SA 9, adopted",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -462,6 +518,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.07C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.08F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -647,6 +714,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5665S.07C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5665S.07C.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -681,6 +759,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

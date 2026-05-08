@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 937",
-  "title": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County);\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County);\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA\r\n\r\nHA#1: REMOVES A PROVISION RELATING TO THE CONVEYANCE OF STATE PROPERTY LOCATED IN COLE COUNTY TO THE CITY OF JEFFERSON.",
+  "title": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County;\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County;\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County);\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County);\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA\r\n\r\nHA#1: REMOVES A PROVISION RELATING TO THE CONVEYANCE OF STATE PROPERTY LOCATED IN COLE COUNTY TO THE CITY OF JEFFERSON."
+      "abstract": "HCS/SS/SB 937 - The act authorizes the conveyance of state property located in:\r\n\t-\tthe City of Harrisonville, Cass County;\r\n\t-\tthe City of Kirksville, Adair County;\r\n\t-\tthe City of Springfield, Greene County;\r\n\t-\tthe City of Festus, Jefferson County;\r\n\t-\tthe City of Doniphan, Ripley County;\r\n\t-\tthe City of Higginsville, Lafayette County;\r\n\t-\tthe City of Jefferson, Cole County;\r\n\t-\tthe City of Richwoods, Washington County;\r\n\t-\tJackson County;\r\n\t-\tNodaway County;\r\n\t-\tthe City of Marshall, Saline County;\r\n\t-\tthe City of Bowling Green, Pike County;\r\n\t-\tthe City of Joplin, Jasper County;\r\n\t-\tthe City of Potosi, Washington County;\r\n\t-\tthe City of Springfield, Greene County.\r\n\r\n\tThe act has provisions identical to SB 1523 (2026).\r\nJULIA SHEVELEVA"
     }
   ],
   "other_titles": [
@@ -26,13 +26,38 @@
   ],
   "actions": [
     {
-      "description": "S Bills with H Amendments",
-      "date": "2026-04-30T05:00:00+00:00",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "S concurs in HCS, as amended",
+      "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-30T13:48:57Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -291,7 +316,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bernskoetter, Mike\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bernskoetter, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -351,7 +376,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5447H.06C"
+    "MO_BILL_LR": "5447H.06T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -360,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-30T13:48:57Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

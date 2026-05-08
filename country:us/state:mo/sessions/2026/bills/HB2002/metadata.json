@@ -571,17 +571,17 @@
       }
     },
     {
-      "description": "House Adopts Conference Committee Report (H)",
+      "description": "House Adopts Conference Committee Report (H) - AYES: 83 NOES: 66 PRESENT: 2",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-07T14:01:37Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 83 NOES: 68 PRESENT: 2",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -590,7 +590,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-07T14:01:37Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -614,17 +614,17 @@
       }
     },
     {
-      "description": "Senate Adopts Conference Committee Report (S)",
+      "description": "Senate Adopts Conference Committee Report (S) - AYES: 20 NOES: 13 PRESENT: 0",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-07T14:01:37Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 20 NOES: 13 PRESENT: 0",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -632,7 +632,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-07T14:01:37Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     }
   ],
@@ -1004,6 +1014,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T14:01:37Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

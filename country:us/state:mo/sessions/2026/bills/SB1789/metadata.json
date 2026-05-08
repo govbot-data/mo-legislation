@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1789",
-  "title": "Modifies provision relating to extended term of imprisonment",
+  "title": "SB 1789 - Under current law, the court may sentence a person to an extended sentence if the person meets certain criteria. This act requires that the court sentence a person to an extended sentence if they meet certain criteria.\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provision relating to extended term of imprisonment"
+      "abstract": "SB 1789 - Under current law, the court may sentence a person to an extended sentence if the person meets certain criteria. This act requires that the court sentence a person to an extended sentence if they meet certain criteria.\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provision relating to extended term of imprisonment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1789"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-26T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Bean",
+      "name": "Bean, Jason",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bean\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7468S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1789.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6618183",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6618183",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6618183",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6618183",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7468S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:54:29Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

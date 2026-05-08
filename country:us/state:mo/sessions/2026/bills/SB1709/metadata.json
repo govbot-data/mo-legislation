@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1709",
-  "title": "Designates the last week of September as Frontotemporal Degeneration Awareness Week",
+  "title": "SB 1709 - This act designates the last full week of September each year as \"Frontotemporal Degeneration (FTD) Awareness Week\" in Missouri. The citizens of this state are encouraged to participate in appropriate events and activities that will increase awareness of frontotemporal degeneration, to support programs of research and education surrounding frontotemporal degeneration, and to support individuals and families impacted by frontotemporal degeneration.\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Designates the last week of September as Frontotemporal Degeneration Awareness Week"
+      "abstract": "SB 1709 - This act designates the last full week of September each year as \"Frontotemporal Degeneration (FTD) Awareness Week\" in Missouri. The citizens of this state are encouraged to participate in appropriate events and activities that will increase awareness of frontotemporal degeneration, to support programs of research and education surrounding frontotemporal degeneration, and to support individuals and families impacted by frontotemporal degeneration.\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Designates the last week of September as Frontotemporal Degeneration Awareness Week"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1709"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Progress and Development Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-23T06:00:00+00:00",
@@ -31,33 +53,39 @@
   ],
   "sponsorships": [
     {
-      "name": "McCreery",
+      "name": "McCreery, Tracy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"McCreery\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "4881S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1709.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6114494",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6114494",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6114494",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6114494",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "4881S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -65,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-24T13:00:37Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

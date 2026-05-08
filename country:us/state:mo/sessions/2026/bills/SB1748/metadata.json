@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1748",
-  "title": "Creates the offense of disclosure of an intimate digital depiction",
+  "title": "SB 1748 - This act creates the offense of disclosure of an intimate digital depiction. A person shall be guilty of such offense if he or she discloses or threatens to disclose an intimate digital depiction with the intent to harass or threaten another person.\r\n\r\n\tA violation of such offense is a class D felony if the person discloses an intimate digital depiction and a class E felony if the person threatens to disclose an intimate digital depiction. Any second or subsequent violation of disclosure of an intimate digital depiction is a class C felony. It shall be a class D felony for a second or subsequent conviction of threatening to disclose an intimate digital depiction. Additionally, it shall be a class C felony if the disclosure interferes with a government proceeding or causes violence.\r\n\r\n\tThis act is substantially similar to a provision in SB 604 (2025), SB 1444 (2024), and is similar to a provision in HB 362 (2025), in SB 411 (2025), in SB 1424 (2024), and in HB 2573 (2024).\r\nTRISTAN BENSON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates the offense of disclosure of an intimate digital depiction"
+      "abstract": "SB 1748 - This act creates the offense of disclosure of an intimate digital depiction. A person shall be guilty of such offense if he or she discloses or threatens to disclose an intimate digital depiction with the intent to harass or threaten another person.\r\n\r\n\tA violation of such offense is a class D felony if the person discloses an intimate digital depiction and a class E felony if the person threatens to disclose an intimate digital depiction. Any second or subsequent violation of disclosure of an intimate digital depiction is a class C felony. It shall be a class D felony for a second or subsequent conviction of threatening to disclose an intimate digital depiction. Additionally, it shall be a class C felony if the disclosure interferes with a government proceeding or causes violence.\r\n\r\n\tThis act is substantially similar to a provision in SB 604 (2025), SB 1444 (2024), and is similar to a provision in HB 362 (2025), in SB 411 (2025), in SB 1424 (2024), and in HB 2573 (2024).\r\nTRISTAN BENSON, JR."
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the offense of disclosure of an intimate digital depiction"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1748"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-25T06:00:00+00:00",
@@ -31,33 +53,39 @@
   ],
   "sponsorships": [
     {
-      "name": "McCreery",
+      "name": "McCreery, Tracy",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"McCreery\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "5119S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1748.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6459806",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6459806",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6459806",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6459806",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "5119S.02I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -65,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

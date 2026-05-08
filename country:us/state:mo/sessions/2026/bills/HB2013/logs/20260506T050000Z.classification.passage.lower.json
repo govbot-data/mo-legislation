@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Third Read and Passed (H)",
+    "description": "Truly Agreed To and Finally Passed - AYES: 33 NOES: 1 PRESENT: 0",
     "date": "2026-05-06T05:00:00+00:00",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [
-      "passage",
-      "reading-3"
+      "passage"
     ],
     "related_entities": []
   },

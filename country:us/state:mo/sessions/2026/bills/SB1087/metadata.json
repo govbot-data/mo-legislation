@@ -26,15 +26,25 @@
   ],
   "actions": [
     {
-      "description": "H Informal Calendar Senate Bills for Third Reading (HCS)",
-      "date": "2026-04-23T05:00:00+00:00",
+      "description": "H Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-05-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-23T13:23:44Z"
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Formal Calendar",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
       }
     },
     {
@@ -322,7 +332,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Nicola, Joe\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -424,6 +434,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:23:44Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }

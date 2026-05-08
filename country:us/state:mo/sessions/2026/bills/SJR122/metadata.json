@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 122",
-  "title": "Provides for the election of all judges",
+  "title": "SJR 122 - Currently, judges of the Supreme Court of Missouri and of the Court of Appeals, judges in certain circuit courts, and certain associate circuit judges are selected by gubernatorial appointment following nominations from nonpartisan commissions. This proposed constitutional amendment, if approved by the voters, would require the election of all judges of the Supreme Court, of the Court of Appeals and of the circuit courts and associate circuit judges. A judge with an existing term as of January 1, 2027, may continue to serve until the expiration of his or her term. A vacancy in the office of judge shall be filled by an election.\r\n\r\n\tThis amendment is similar to HJR 16 (2017) and HJR 50 (2004).\r\nKATIE O'BRIEN",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "joint resolution"
@@ -10,12 +10,34 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Provides for the election of all judges"
+      "abstract": "SJR 122 - Currently, judges of the Supreme Court of Missouri and of the Court of Appeals, judges in certain circuit courts, and certain associate circuit judges are selected by gubernatorial appointment following nominations from nonpartisan commissions. This proposed constitutional amendment, if approved by the voters, would require the election of all judges of the Supreme Court, of the Court of Appeals and of the circuit courts and associate circuit judges. A judge with an existing term as of January 1, 2027, may continue to serve until the expiration of his or her term. A vacancy in the office of judge shall be filled by an election.\r\n\r\n\tThis amendment is similar to HJR 16 (2017) and HJR 50 (2004).\r\nKATIE O'BRIEN"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides for the election of all judges"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr122"
+    }
+  ],
   "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:27:33Z"
+      }
+    },
     {
       "description": "S First Read",
       "date": "2026-02-25T06:00:00+00:00",
@@ -31,18 +53,18 @@
   ],
   "sponsorships": [
     {
-      "name": "Moon",
+      "name": "Moon, Mike",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Moon\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "7358S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR122.pdf",
@@ -57,19 +79,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=6459804",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=6459804",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=6459804",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6459804",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "7358S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -77,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:00:50Z"
+    "logs_latest_update": "2026-05-08T13:27:33Z"
   }
 }
