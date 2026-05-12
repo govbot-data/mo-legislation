@@ -26,25 +26,70 @@
   ],
   "actions": [
     {
-      "description": "H Calendar Senate Joint Resolutions for Third Reading (HCS) (In Fiscal Review)",
+      "description": "S Bills with H Amendments",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
       "date": "2026-05-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-12T14:18:39Z"
       }
     },
     {
-      "description": "Executive Session Scheduled H Fiscal Review--(2:45 p.m. - HR 4)",
+      "description": "HCS, as amended, H adopted 4330H.03C",
       "date": "2026-05-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "HA 1 to HCS H offered & adopted (Butz)--(4330H03.02H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Fiscal Review",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Fiscal Review",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
       }
     },
     {
@@ -440,6 +485,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

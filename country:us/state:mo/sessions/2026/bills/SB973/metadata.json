@@ -36,6 +36,28 @@
       }
     },
     {
+      "description": "CCS S offered & withdrawn (4981S.06S)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "S adopted CCR (4981S06.1SR)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
       "description": "Referred H Fiscal Review Committee",
       "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -497,11 +519,9 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "4981S06.1SR - CCR HCS SS SCS\r\n                    \r\n                        5/6/2026 - Distributed",
+      "note": "5/11/2026 - S adopted CCR (4981S06.1SR)\r\n                    \r\n                        5/11/2026 - Adopted",
       "links": [
         {
           "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=727",
@@ -510,12 +530,14 @@
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
-      "note": "4981S.06S - CCS HCS SS SCS\r\n                    \r\n                        5/6/2026 - Distributed",
+      "note": "5/11/2026 - CCS S offered & withdrawn (4981S.06S)\r\n                    \r\n                        5/11/2026 - Withdrawn",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=732",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=760",
           "media_type": "application/pdf"
         }
       ],
@@ -531,7 +553,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4981H.05C"
+    "MO_BILL_LR": "4981S.06S"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -540,6 +562,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

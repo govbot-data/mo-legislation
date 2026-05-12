@@ -20,7 +20,11 @@
       "title": "HCS HB 1818"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1818"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -121,6 +125,26 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:54:33Z"
       }
+    },
+    {
+      "description": "Executive Session Continued",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Action Postponed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -130,6 +154,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Becky Laubinger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Myers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Myers\"}",
       "organization_id": null
     }
   ],
@@ -234,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:54:33Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

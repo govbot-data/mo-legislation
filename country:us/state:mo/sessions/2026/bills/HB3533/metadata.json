@@ -128,6 +128,26 @@
       "_processing": {
         "log_file_created": "2026-05-07T14:01:37Z"
       }
+    },
+    {
+      "description": "Executive Session Continued",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Action Postponed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,10 +198,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (House Committee Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB3533C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 7481H.01I.ORG",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/7481H.01I.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note 7481H.02C.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/7481H.02C.ORG.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -219,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T14:01:37Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

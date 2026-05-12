@@ -328,7 +328,7 @@
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SA 1",
+      "description": "Third Read and Passed with Amendments (S) - SA 1 - AYES: 29 NOES: 0 PRESENT: 0",
       "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -337,7 +337,29 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SCS, as amended",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
       }
     }
   ],
@@ -409,6 +431,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment SENATE AMENDMENTS (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/4851S02.01F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -468,6 +501,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 4851S.02A.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/4851S.02A.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4851S.02C.ORG",
       "links": [
         {
@@ -509,6 +553,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

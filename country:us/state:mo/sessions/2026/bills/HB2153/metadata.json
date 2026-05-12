@@ -18,7 +18,11 @@
       "title": "HB 2153"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2153"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -73,6 +77,26 @@
       "_processing": {
         "log_file_created": "2026-03-10T12:55:38Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Motion to Do Pass Failed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +122,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kimberly-Ann Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yolanda Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yolanda Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Boyko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Boyko\"}",
       "organization_id": null
     }
   ],
@@ -137,6 +177,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Summary (Witnesses)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/witnesses/HB2153Testimony3-9.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -158,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T12:55:38Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

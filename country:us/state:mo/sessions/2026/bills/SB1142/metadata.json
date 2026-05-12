@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Letter of approval from the Governor",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
       "description": "Signed by Governor",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -406,6 +416,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T14:01:37Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

@@ -96,6 +96,28 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:22:47Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,6 +167,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mike Costlow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Overcast",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Overcast\"}",
       "organization_id": null
     }
   ],
@@ -216,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-09T13:22:47Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

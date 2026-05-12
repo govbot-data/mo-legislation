@@ -147,6 +147,16 @@
       }
     },
     {
+      "description": "Hearing Conducted H Corrections and Public Institutions",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
       "description": "Referred H Corrections and Public Institutions",
       "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -373,12 +383,23 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Bean, Jason\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "5125S.07T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SB863.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "5125S.07P - Perfected",
       "links": [
@@ -454,6 +475,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:14:51Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

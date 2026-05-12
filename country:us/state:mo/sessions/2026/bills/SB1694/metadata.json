@@ -26,6 +26,28 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Rules - Legislative--(5:15 p.m. or Upon Adj. - HR 1)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
       "description": "H Second Read",
       "date": "2026-05-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -342,6 +364,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-09T13:12:21Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }

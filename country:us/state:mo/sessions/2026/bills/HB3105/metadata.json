@@ -17,7 +17,11 @@
       "title": "HCS HB 3105"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb3105"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -149,6 +153,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-11T12:55:26Z"
+      }
+    },
+    {
+      "description": "Executive Session Continued",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
+      }
+    },
+    {
+      "description": "Action Postponed (H)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:18:39Z"
       }
     }
   ],
@@ -304,6 +328,118 @@
       "primary": false,
       "person_id": "~{\"name\": \"Sean Pouche\"}",
       "organization_id": null
+    },
+    {
+      "name": "Josh Hurlbert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Hurlbert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carolyn Caton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carolyn Caton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Amato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Amato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rudy Veit",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rudy Veit\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie Ray Gragg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamie Ray Gragg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Hinman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Hinman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Fowler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willard Haley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willard Haley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Martin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Haden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Haden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Matthiesen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Matthiesen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -407,6 +543,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:55:26Z"
+    "logs_latest_update": "2026-05-12T14:18:39Z"
   }
 }
