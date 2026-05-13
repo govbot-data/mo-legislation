@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SS SCS HS HB 2576"
+      "title": "SS#2 SCS HS HB 2576"
     }
   ],
   "other_identifiers": [
@@ -434,6 +434,109 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:27:33Z"
       }
+    },
+    {
+      "description": "Executive Session Held (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Motion to Reconsider Adopted (S) - Adoption of  SS SCS, as amended",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "SS Withdrawn (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "SS#2 Offered (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "SS#2 Adopted (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -528,7 +631,7 @@
       "note": "Senate Substitute (Senate Floor Substitute)",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.08F.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.09F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -725,6 +828,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5665S.08A.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5665S.08A.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -759,6 +873,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

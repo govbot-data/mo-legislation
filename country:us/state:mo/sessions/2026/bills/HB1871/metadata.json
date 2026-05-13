@@ -392,7 +392,17 @@
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2 to SA 2, SA 2, as amended, SA 1 To SA 3, SA 3, as amended, HA 4, adopted",
+      "description": "SS Adopted (S)",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed with Amendments (S) - SA 2 to SA 2, SA 2, as amended, SA 1 To SA 3, SA 3, as amended, HA 4, adopted - AYES: 25 NOES: 6 PRESENT: 0",
       "date": "2026-05-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -401,7 +411,105 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-12T14:18:39Z"
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SS SCS, as amended",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 7 NOES: 0 PRESENT: 0",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "House Adopts (H) - SS SCS, as amended",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
       }
     }
   ],
@@ -481,6 +589,17 @@
       "classification": ""
     },
     {
+      "note": "Truly Agreed and Finally Passed",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5033S.06T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment HA 1 (Adopted)",
       "links": [
         {
@@ -551,6 +670,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5033H04.09H.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SENATE AMENDMENTS (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5033S06.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -637,6 +767,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5033S.06A.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5033S.06A.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -667,6 +808,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:18:39Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

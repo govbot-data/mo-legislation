@@ -26,13 +26,23 @@
   ],
   "actions": [
     {
-      "description": "Hearing Scheduled H Emerging Issues--(4:00 p.m. or Upon Adj. - HR 7)",
+      "description": "Voted Do Not Pass H Emerging Issues",
       "date": "2026-05-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-12T14:18:39Z"
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Emerging Issues",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
       }
     },
     {
@@ -458,6 +468,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:18:39Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

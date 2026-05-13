@@ -361,6 +361,82 @@
       "_processing": {
         "log_file_created": "2026-05-12T14:18:39Z"
       }
+    },
+    {
+      "description": "Executive Session Completed (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 5 NOES: 3 PRESENT: 0",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "House Adopts (H) - SCS, as amended",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -426,6 +502,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4851S.02C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Truly Agreed and Finally Passed",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4851S.02T.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -553,6 +640,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:18:39Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

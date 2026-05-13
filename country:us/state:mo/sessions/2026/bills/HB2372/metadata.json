@@ -6,14 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "HEALTH CARE"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "SCS HCS HB 2372"
+      "title": "SS SCS HCS HB 2372"
     }
   ],
   "other_identifiers": [
@@ -440,6 +438,52 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:27:33Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S) - SA 1, SA2, SA 3, SA 1 to SA 4, SA 4, as amended, SA 1 to SA 5, SA 5, as amended, & SA 6, adopted",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Oversight(S)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -524,6 +568,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5868S.04C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5868S.08F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -1003,6 +1058,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

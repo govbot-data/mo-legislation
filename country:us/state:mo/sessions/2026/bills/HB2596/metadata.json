@@ -1,17 +1,22 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2596",
-  "title": "Modifies provisions relating to multiple employer self-insured health plans",
+  "title": "Modifies provisions relating to health benefit plans",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "HEALTH CARE",
+    "HEALTH, PUBLIC",
+    "INSURANCE - HEALTH",
+    "PHARMACY"
+  ],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "SS HCS HB 2596"
+      "title": "CCR SS HCS HB 2596"
     }
   ],
   "other_identifiers": [
@@ -487,6 +492,28 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:27:33Z"
       }
+    },
+    {
+      "description": "House Distributes Conference Committee Report (H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:27:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -586,10 +613,32 @@
       "classification": ""
     },
     {
+      "note": "Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5996H.04S.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment SENATE AMENDMENTS (Distributed)",
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5996S03.01F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment CCR (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5996H04.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -665,6 +714,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5996H.04S.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5996H.04S.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5996S.03A.ORG",
       "links": [
         {
@@ -717,6 +777,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-13T14:27:46Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HA 1 to HCS H offered & adopted (Davidson)--(4505H04.17H)",
+    "date": "2026-05-12T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 953"
+}
