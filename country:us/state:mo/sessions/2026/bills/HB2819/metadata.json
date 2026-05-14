@@ -315,7 +315,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 22 NOES: 5 PRESENT: 0",
       "date": "2026-05-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -323,7 +323,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-13T14:27:46Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     }
   ],
@@ -427,6 +437,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2819T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 6240H.01I.ORG",
       "links": [
         {
@@ -490,6 +511,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:27:46Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

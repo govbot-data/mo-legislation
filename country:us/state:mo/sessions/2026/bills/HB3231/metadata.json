@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SS SCS HCS HBs 3231 & 2531"
+      "title": "SS#2 SCS HCS HBs 3231 & 2531"
     }
   ],
   "other_identifiers": [
@@ -476,13 +476,92 @@
       }
     },
     {
-      "description": "Placed on Informal Calendar - SA 1, adopted and SS SCS, pending",
+      "description": "Placed on Informal Calendar - SA 1, adopted and SS SCS, as amended, pending",
       "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Taken Up",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "SS Withdrawn (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "SS#2 Offered (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "SS#2 Adopted (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Reported to the House (H) - SS#2 SCS",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     }
   ],
@@ -562,7 +641,7 @@
       "note": "Senate Substitute (Senate Floor Substitute)",
       "links": [
         {
-          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6321S.10F.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6321S.11F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -660,6 +739,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6321S.11F.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6321S.11F.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -690,6 +780,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

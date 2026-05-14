@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 87",
-  "title": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.",
+  "title": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.\r\n\r\nHA #1 - EXCLUDES ST. LOUIS COUNTY, ST. CHARLES COUNTY, AND THE LAW ENFORCEMENT OFFICES WITHIN THOSE COUNTIES FROM THIS ACT.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR."
+      "abstract": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.\r\n\r\nHA #1 - EXCLUDES ST. LOUIS COUNTY, ST. CHARLES COUNTY, AND THE LAW ENFORCEMENT OFFICES WITHIN THOSE COUNTIES FROM THIS ACT."
     }
   ],
   "other_titles": [
@@ -26,13 +26,63 @@
   ],
   "actions": [
     {
-      "description": "S Bills with H Amendments",
-      "date": "2026-05-11T05:00:00+00:00",
+      "description": "In Conference",
+      "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-12T14:18:39Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Senate conferees appointed: Carter, Bernskoetter, Brown (26), May, Roberts",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "House conferees appointed: Cook, Roberts, Hewkin, Anderson, Butz",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "H refuses to recede and grants conference",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "S refuses to concur in HCS, as amended and requests H recede or grant conference",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Motion to concur in HCS, as amended S withdrawn",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     },
     {
@@ -485,6 +535,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:18:39Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

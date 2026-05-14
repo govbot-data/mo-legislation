@@ -27,12 +27,24 @@
   "actions": [
     {
       "description": "In Conference",
-      "date": "2026-05-07T05:00:00+00:00",
+      "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-07T14:01:37Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Motion to allow S conferees to exceed differences S adopted",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     },
     {
@@ -89,13 +101,13 @@
       }
     },
     {
-      "description": "HCS, as amended, H adopted --(4335H.05C)",
+      "description": "HCS, as amended, H adopted--(4335H.05C)",
       "date": "2026-04-23T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-28T13:59:46Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     },
     {
@@ -565,6 +577,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-07T14:01:37Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

@@ -27,12 +27,35 @@
   "actions": [
     {
       "description": "In Conference",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "CCS S Third Read and Passed",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "CCR S offered & adopted  (5251S11.1SR)",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-13T14:27:46Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     },
     {
@@ -464,25 +487,25 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "5215S11.1SR - CCR HCS SS SCS\r\n                    \r\n                        5/12/2026 - Distributed",
+      "note": "5/13/2026 - CCR S offered & adopted  (5251S11.1SR)\r\n                    \r\n                        5/13/2026 - Adopted",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=794",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=849",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
-      "note": "5215S.11S - CCS HCS SS SCS\r\n                    \r\n                        5/12/2026 - Distributed",
+      "note": "5/13/2026 - CCS S Third Read and Passed\r\n                    \r\n                        5/13/2026 - Passed",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=797",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=850",
           "media_type": "application/pdf"
         }
       ],
@@ -498,7 +521,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5215H.07C"
+    "MO_BILL_LR": "5215S.11S"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -507,6 +530,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:27:46Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "Hearing Scheduled H Legislative Review--(3:20 p.m. or Upon Adj. - HR 7)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
       "description": "Referred H Legislative Review",
       "date": "2026-04-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -234,7 +244,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Washington, Barbara\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -303,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-10T13:04:47Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }

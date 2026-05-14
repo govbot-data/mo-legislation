@@ -482,13 +482,13 @@
       }
     },
     {
-      "description": "Motion to Reconsider Adopted (S) - Adoption of  SS SCS, as amended",
+      "description": "Motion to Reconsider Adopted (S) - Adoption of  SS SCS, as amended - AYES: 30 NOES: 0 PRESENT: 0",
       "date": "2026-05-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-13T14:27:46Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     },
     {
@@ -526,7 +526,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (S)",
+      "description": "Third Read and Passed (S) - AYES: 28 NOES: 2 PRESENT: 0",
       "date": "2026-05-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -535,7 +535,29 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-13T14:27:46Z"
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Reported to the House (H) - SS#2 SCS",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-14T14:04:27Z"
       }
     }
   ],
@@ -630,6 +652,10 @@
     {
       "note": "Senate Substitute (Senate Floor Substitute)",
       "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.08F.pdf",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5665S.09F.pdf",
           "media_type": "application/pdf"
@@ -839,6 +865,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5665S.09F.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5665S.09F.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -873,6 +910,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:27:46Z"
+    "logs_latest_update": "2026-05-14T14:04:27Z"
   }
 }
