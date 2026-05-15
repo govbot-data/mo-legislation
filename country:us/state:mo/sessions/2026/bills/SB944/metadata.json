@@ -26,16 +26,6 @@
   ],
   "actions": [
     {
-      "description": "Executive Session Scheduled H Emerging Issues--(9:00 a.m. - HR 6)",
-      "date": "2026-05-14T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
-      }
-    },
-    {
       "description": "Hearing Conducted H Emerging Issues",
       "date": "2026-05-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -248,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T14:04:27Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

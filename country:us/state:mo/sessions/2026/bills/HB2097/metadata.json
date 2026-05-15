@@ -6,16 +6,12 @@
   "classification": [
     "bill"
   ],
-  "subject": [
-    "AGRICULTURE",
-    "EDUCATION, ELEMENTARY AND SECONDARY",
-    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF"
-  ],
+  "subject": [],
   "abstracts": [],
   "other_titles": [
     {
       "note": "official",
-      "title": "HCS HBs 2097 & 1905"
+      "title": "SS HCS HBs 2097 & 1905"
     }
   ],
   "other_identifiers": [
@@ -308,6 +304,75 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:27:33Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (S)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "SS Adopted (S)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 4, SA 5",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Reported to the House with... (H) - SS, as amended",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Referred: Fiscal Review(H)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -373,6 +438,28 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5237H.03P.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Substitute (Senate Floor Substitute)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5237S.06F.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SENATE AMENDMENTS (Distributed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/amendpdf/5237S06.01F.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -478,6 +565,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

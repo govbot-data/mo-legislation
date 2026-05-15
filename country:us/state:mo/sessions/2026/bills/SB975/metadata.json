@@ -26,13 +26,38 @@
   ],
   "actions": [
     {
-      "description": "In Conference",
+      "description": "Truly Agreed To and Finally Passed",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "CCS H Third Read and Passed --(5215S.11S)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "H adopts CCR --(5215S11.1SR)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     },
     {
@@ -521,7 +546,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "5215S.11S"
+    "MO_BILL_LR": "5215S.11T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -530,6 +555,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T14:04:27Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

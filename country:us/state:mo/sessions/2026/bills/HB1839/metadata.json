@@ -448,17 +448,17 @@
       }
     },
     {
-      "description": "House Concurs (H) -  in SA 1",
+      "description": "House Concurs (H) -  in SA 1 - AYES: 104 NOES: 30 PRESENT: 11",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 112 NOES: 25 PRESENT: 11",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -466,7 +466,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     }
   ],
@@ -659,6 +669,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1839T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 4734H.02I.ORG",
       "links": [
         {
@@ -733,6 +754,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T14:04:27Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

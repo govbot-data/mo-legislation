@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 87",
-  "title": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.\r\n\r\nHA #1 - EXCLUDES ST. LOUIS COUNTY, ST. CHARLES COUNTY, AND THE LAW ENFORCEMENT OFFICES WITHIN THOSE COUNTIES FROM THIS ACT.",
+  "title": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors. The sheriff is also tasked with attending each division of the circuit court in their county and executing process. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is substantially similar to SS/SCS/SJR 40 (2025) and HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSON, JR.\r\n\r\nHA #1 - EXCLUDES ST. LOUIS COUNTY, ST. CHARLES COUNTY, AND THE LAW ENFORCEMENT OFFICES WITHIN THOSE COUNTIES FROM THIS ACT."
+      "abstract": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR."
     }
   ],
   "other_titles": [
@@ -27,12 +27,42 @@
   "actions": [
     {
       "description": "In Conference",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "H distributes CCR",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "S distributes CCS (4330S.06S)",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "S distributes CCR (4330S06.1SR)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     },
     {
@@ -516,6 +546,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5/14/2026 - S distributes CCR (4330S06.1SR)\r\n                    \r\n                        5/14/2026 - Distributed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=878",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5/14/2026 - S distributes CCS (4330S.06S)\r\n                    \r\n                        5/14/2026 - Distributed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=879",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -535,6 +587,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T14:04:27Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

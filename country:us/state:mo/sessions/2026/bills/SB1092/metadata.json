@@ -26,6 +26,28 @@
   ],
   "actions": [
     {
+      "description": "H Informal Calendar Senate Bills for Third Reading (HCS)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
       "description": "HCS Reported Do Pass H Rules - Administrative",
       "date": "2026-04-28T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -228,7 +250,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                        Lewis, Patty\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
       "organization_id": null
     }
   ],
@@ -286,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:50:15Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "official",
-      "title": "SCS HCS HB 2292"
+      "title": "CCR SCS HCS HB 2292"
     }
   ],
   "other_identifiers": [
@@ -448,6 +448,50 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:27:33Z"
       }
+    },
+    {
+      "description": "Taken Up for Third Reading (H)",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "SS Offered",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Motion to Table Defeated (H) - SS SCS",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Motion to Table Adopted (S) - SA 2",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -556,6 +600,17 @@
       "links": [
         {
           "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4920S.05C.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4920S.05S.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -694,6 +749,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }

@@ -570,23 +570,53 @@
       }
     },
     {
-      "description": "House Adopts Conference Committee Report (H)",
+      "description": "House Adopts Conference Committee Report (H) - AYES: 120 NOES: 26 PRESENT: 0",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     },
     {
-      "description": "Third Read and Passed (H)",
+      "description": "Third Read and Passed (H) - AYES: 119 NOES: 27 PRESENT: 0",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "passage",
         "reading-3"
       ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Conferees to Exceed Differences (S) - in Section 1 of SS HCS HB 2596",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-14T14:04:27Z"
@@ -603,27 +633,17 @@
       }
     },
     {
-      "description": "Conferees to Exceed Differences (S) - in Section 1 of SS HCS HB 2596",
+      "description": "Senate Adopts Conference Committee Report (S) - AYES: 23 NOES: 8 PRESENT: 0",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     },
     {
-      "description": "Senate Adopts Conference Committee Report (S)",
-      "date": "2026-05-13T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
-      }
-    },
-    {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 22 NOES: 10 PRESENT: 0",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -631,7 +651,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-14T14:04:27Z"
+        "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Senate Message (S)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-15T14:01:24Z"
       }
     }
   ],
@@ -811,6 +841,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2596T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5996H.01I.ORG",
       "links": [
         {
@@ -907,6 +948,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-14T14:04:27Z"
+    "logs_latest_update": "2026-05-15T14:01:24Z"
   }
 }
