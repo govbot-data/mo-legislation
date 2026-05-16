@@ -26,15 +26,28 @@
   ],
   "actions": [
     {
-      "description": "H Informal Calendar Senate Bills for Third Reading",
-      "date": "2026-05-11T05:00:00+00:00",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "passage",
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -288,7 +301,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "6797S.01P"
+    "MO_BILL_LR": "6797S.01T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -297,6 +310,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:27:33Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

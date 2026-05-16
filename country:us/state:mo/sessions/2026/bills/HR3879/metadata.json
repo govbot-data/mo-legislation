@@ -14,7 +14,11 @@
       "title": "HR 3879"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hr3879"
+    }
+  ],
   "actions": [
     {
       "description": "Offered (H)",
@@ -26,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-08T12:41:19Z"
+      }
+    },
+    {
+      "description": "Referred: Emerging Issues(H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     }
   ],
@@ -55,19 +71,27 @@
       "organization_id": null
     },
     {
-      "name": "Kemp Strickler",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kemp Strickler\"}",
-      "organization_id": null
-    },
-    {
       "name": "LaDonna Appelbaum",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"LaDonna Appelbaum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregg Bush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregg Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doug Clemens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doug Clemens\"}",
       "organization_id": null
     }
   ],
@@ -105,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:41:19Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

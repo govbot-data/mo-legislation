@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 2970",
-  "title": "Prohibits telemarketers from calling Missouri resident on the no-call list",
+  "title": "Prohibits telemarketers from calling a Missouri resident on the no-call list",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -17,7 +17,11 @@
       "title": "HB 2970"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb2970"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and Read First Time (H)",
@@ -42,6 +46,18 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:40:03Z"
       }
+    },
+    {
+      "description": "Referred: Emerging Issues(H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -51,6 +67,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Connie Steinmetz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tonya Rush",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tonya Rush\"}",
       "organization_id": null
     }
   ],
@@ -68,7 +92,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Summary (Introduced)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2970I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -88,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:40:03Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

@@ -26,13 +26,38 @@
   ],
   "actions": [
     {
-      "description": "S Bills with H Amendments",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "S concurs in  HCS, as amended",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -69,13 +94,13 @@
       }
     },
     {
-      "description": "Motion to reconsider the adoption HA  1 to HCS H adopted",
+      "description": "Motion to reconsider the adoption HA 1 to HCS H adopted",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -483,7 +508,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4774H.04C"
+    "MO_BILL_LR": "4774H.04T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -492,6 +517,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-15T14:01:24Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

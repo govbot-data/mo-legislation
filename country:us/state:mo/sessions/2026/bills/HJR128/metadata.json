@@ -22,7 +22,11 @@
       "title": "HJR 128"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hjr128"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -54,6 +58,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-09T12:40:04Z"
+      }
+    },
+    {
+      "description": "Referred: Emerging Issues(H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     }
   ],
@@ -113,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:04Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

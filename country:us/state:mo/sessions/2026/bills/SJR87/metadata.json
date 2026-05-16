@@ -26,13 +26,71 @@
   ],
   "actions": [
     {
-      "description": "In Conference",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "CCS H Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "H adopts CCR --(4330S06.1SR)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "CCS S Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "CCR S offered & adopted CCR (4330S06.1SR)",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "S Conferees allowed to exceed the differences",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -533,6 +591,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "5/15/2026 - CCR S offered & adopted CCR (4330S06.1SR)\r\n                    \r\n                        5/15/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=935",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -548,21 +617,10 @@
       "classification": ""
     },
     {
-      "note": "5/14/2026 - S distributes CCR (4330S06.1SR)\r\n                    \r\n                        5/14/2026 - Distributed",
+      "note": "5/15/2026 - CCS S Third Read and Passed\r\n                    \r\n                        5/15/2026 - Passed",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=878",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "5/14/2026 - S distributes CCS (4330S.06S)\r\n                    \r\n                        5/14/2026 - Distributed",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=879",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=936",
           "media_type": "application/pdf"
         }
       ],
@@ -578,7 +636,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4330H.03C"
+    "MO_BILL_LR": "4330S.06T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -587,6 +645,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-15T14:01:24Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

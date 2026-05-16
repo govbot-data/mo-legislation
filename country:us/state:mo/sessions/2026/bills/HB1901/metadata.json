@@ -18,7 +18,11 @@
       "title": "HB 1901"
     }
   ],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hb1901"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled (H)",
@@ -50,6 +54,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-09T12:40:05Z"
+      }
+    },
+    {
+      "description": "Referred: Emerging Issues(H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     }
   ],
@@ -117,6 +133,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"LaDonna Appelbaum\"}",
       "organization_id": null
+    },
+    {
+      "name": "Anthony Ealy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony Ealy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Kimble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Kimble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Burton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Burton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -165,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:40:05Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

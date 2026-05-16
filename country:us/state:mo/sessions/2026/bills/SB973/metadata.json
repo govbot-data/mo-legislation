@@ -16,7 +16,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Creates provisions relating to real estate transactions"
+      "title": "Creates and modifies provisions relating to real estate transactions"
     }
   ],
   "other_identifiers": [
@@ -26,13 +26,51 @@
   ],
   "actions": [
     {
-      "description": "In Conference",
-      "date": "2026-05-11T05:00:00+00:00",
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "CCS H Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "H adopts CCR --(4981S06.1SR)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-08T13:27:33Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "CCS S Third Read and Passed (4981S.06S)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -534,10 +572,10 @@
   ],
   "documents": [
     {
-      "note": "5/11/2026 - CCS S offered & withdrawn (4981S.06S)\r\n                    \r\n                        5/11/2026 - Withdrawn",
+      "note": "5/15/2026 - CCS S Third Read and Passed (4981S.06S)\r\n                    \r\n                        5/15/2026 - Passed",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=760",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=940",
           "media_type": "application/pdf"
         }
       ],
@@ -553,7 +591,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4981S.06S"
+    "MO_BILL_LR": "4981S.06T"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -562,6 +600,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-12T14:18:39Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

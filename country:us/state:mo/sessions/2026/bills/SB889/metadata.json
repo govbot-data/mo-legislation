@@ -26,7 +26,7 @@
   ],
   "actions": [
     {
-      "description": "H Informal Calendar Senate Bills for Third Reading (HCS) (In Fiscal Review)",
+      "description": "H Informal Calendar Senate Bills for Third Reading (HCS)",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -34,7 +34,31 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Fiscal Review",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Fiscal Review",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
       }
     },
     {
@@ -427,6 +451,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-15T14:01:24Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }

@@ -36,6 +36,26 @@
       }
     },
     {
+      "description": "CCR S offered & withdrawn (4828S05.1SR)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "H distributes CCR",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
       "description": "S distributes CCS (4828S.05S)",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -586,10 +606,10 @@
   ],
   "documents": [
     {
-      "note": "5/14/2026 - S distributes CCR (4828S05.1SR)\r\n                    \r\n                        5/14/2026 - Distributed",
+      "note": "4828S.05S - CCS HCS\r\n                    \r\n                        5/15/2026 - Withdrawn",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=923",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=939",
           "media_type": "application/pdf"
         }
       ],
@@ -597,10 +617,10 @@
       "classification": ""
     },
     {
-      "note": "5/14/2026 - S distributes CCS (4828S.05S)\r\n                    \r\n                        5/14/2026 - Distributed",
+      "note": "5/15/2026 - CCR S offered & withdrawn (4828S05.1SR)\r\n                    \r\n                        5/15/2026 - Withdrawn",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=924",
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=938",
           "media_type": "application/pdf"
         }
       ],
@@ -616,7 +636,7 @@
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4828H.04C"
+    "MO_BILL_LR": "4828S.05S"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
@@ -625,6 +645,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-15T14:01:24Z"
+    "logs_latest_update": "2026-05-16T13:16:57Z"
   }
 }
