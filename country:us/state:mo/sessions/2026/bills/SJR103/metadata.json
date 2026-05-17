@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 103",
-  "title": "Modifies provisions relating to MO HealthNet",
+  "title": "SJR 103 - If approved by the voters, this constitutional amendment permits the General Assembly to authorize the implementation of work and community engagement requirements.\r\n\r\n\tThis joint resolution is identical to SCS/SJR 43 (2025) and similar to SJR 76 (2024), SJR 4 (2023), HCS/HJR 117 (2022), SJR 60 (2020), and SJR 32 (2020).\r\nSARAH HASKINS",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "joint resolution"
@@ -10,72 +10,35 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to MO HealthNet"
+      "abstract": "SJR 103 - If approved by the voters, this constitutional amendment permits the General Assembly to authorize the implementation of work and community engagement requirements.\r\n\r\n\tThis joint resolution is identical to SCS/SJR 43 (2025) and similar to SJR 76 (2024), SJR 4 (2023), HCS/HJR 117 (2022), SJR 60 (2020), and SJR 32 (2020).\r\nSARAH HASKINS"
     }
   ],
-  "other_titles": [],
-  "other_identifiers": [],
-  "actions": [
+  "other_titles": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-26T12:43:10Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-26T12:43:10Z"
-      }
-    },
-    {
-      "description": "Second Read and Referred S Families, Seniors and Health Committee",
-      "date": "2026-02-05T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-06T12:54:36Z"
-      }
-    },
-    {
-      "description": "Hearing Scheduled S Families, Seniors and Health Committee",
-      "date": "2026-02-11T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-11T13:04:38Z"
-      }
+      "note": "",
+      "title": "Modifies provisions relating to MO HealthNet"
     }
   ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr103"
+    }
+  ],
+  "actions": [],
   "sponsorships": [
     {
-      "name": "Carter",
+      "name": "Carter, Jill",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carter\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Introduced",
+      "note": "3379S.01I - Introduced",
       "links": [
         {
           "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR103.pdf",
@@ -90,19 +53,13 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=229",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=229",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=229",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=229",
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "MO_BILL_LR": "3379S.01I"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
     "name": "Missouri",
@@ -110,6 +67,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:04:38Z"
+    "logs_latest_update": "2026-05-17T13:15:25Z"
   }
 }
