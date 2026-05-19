@@ -561,13 +561,13 @@
       }
     },
     {
-      "description": "Reported to the House with... (H) - SS#2, as amended",
+      "description": "Reported to the House with... (H) - SS#2 SCS, as amended",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     },
     {
@@ -627,13 +627,13 @@
       }
     },
     {
-      "description": "House Adopts (H) - SS#2, as amended",
+      "description": "House Adopts (H) - SS#2 SCS, as amended",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     },
     {
@@ -646,6 +646,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     }
   ],
@@ -941,6 +951,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:16:57Z"
+    "logs_latest_update": "2026-05-19T14:55:34Z"
   }
 }

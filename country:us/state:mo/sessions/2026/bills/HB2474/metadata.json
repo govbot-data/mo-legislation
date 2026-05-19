@@ -430,13 +430,15 @@
       }
     },
     {
-      "description": "Placed on Informal Calendar - SCS, as amended pending",
+      "description": "Placed on Informal Calendar - SCS, as amended, pending for Third Reading",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "reading-3"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     },
     {
@@ -483,13 +485,13 @@
       }
     },
     {
-      "description": "Senate Message (S)",
+      "description": "Reported to the House with... (H) - SCS, as amended",
       "date": "2026-05-15T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     },
     {
@@ -498,38 +500,6 @@
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
-      }
-    },
-    {
-      "description": "Title of Bill - Agreed To",
-      "date": "2026-05-15T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
-      }
-    },
-    {
-      "description": "House Adopts (H) - SCS",
-      "date": "2026-05-15T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
-      }
-    },
-    {
-      "description": "Truly Agreed To and Finally Passed",
-      "date": "2026-05-15T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -556,6 +526,60 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass (H) - AYES: 6 NOES: 2 PRESENT: 0",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-19T14:55:34Z"
+      }
+    },
+    {
+      "description": "Title of Bill - Agreed To",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "House Adopts (H) - SCS, as amended",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-19T14:55:34Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:16:57Z"
+      }
+    },
+    {
+      "description": "House Message (H)",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-19T14:55:34Z"
       }
     }
   ],
@@ -780,6 +804,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:16:57Z"
+    "logs_latest_update": "2026-05-19T14:55:34Z"
   }
 }
