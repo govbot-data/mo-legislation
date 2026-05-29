@@ -289,13 +289,13 @@
       }
     },
     {
-      "description": "Perfected with Amendments (H) - HA 1, HA2, HA 3, HA 5, adopted",
+      "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 3, HA 5, adopted",
       "date": "2026-04-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-15T13:20:14Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -615,7 +615,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 134 NOES: 6 PRESENT: 1",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -623,7 +623,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -634,6 +634,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-19T14:55:34Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker (H)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Signed by President Pro Tem (S)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     }
   ],
@@ -974,6 +1004,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 5665S.09T.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/5665S.09T.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -1008,6 +1049,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-19T14:55:34Z"
+    "logs_latest_update": "2026-05-29T14:58:19Z"
   }
 }

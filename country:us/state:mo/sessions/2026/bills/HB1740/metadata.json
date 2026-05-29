@@ -474,7 +474,7 @@
       }
     },
     {
-      "description": "Third Read and Passed (S)",
+      "description": "Third Read and Passed (S) - AYES: 32 NOES: 0 PRESENT: 0",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -483,7 +483,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -563,7 +563,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 144 NOES: 2 PRESENT: 0",
       "date": "2026-05-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -571,7 +571,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-15T14:01:24Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -582,6 +582,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-15T14:01:24Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker (H)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Signed by President Pro Tem (S)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     }
   ],
@@ -816,6 +846,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB1740T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5381H.01I.ORG",
       "links": [
         {
@@ -890,6 +931,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-15T14:01:24Z"
+    "logs_latest_update": "2026-05-29T14:58:19Z"
   }
 }

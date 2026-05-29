@@ -452,13 +452,13 @@
       }
     },
     {
-      "description": "Motion to Reconsider Adopted (S) - adoption of the SCS, as amended",
+      "description": "Motion to Reconsider Adopted (S) - adoption of the SCS, as amended - AYES: 29 NOES: 0 PRESENT: 0",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -472,7 +472,7 @@
       }
     },
     {
-      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 4, adopted",
+      "description": "Third Read and Passed with Amendments (S) - SA 1, SA 2, SA 4, adopted - AYES: 27 NOES: 0 PRESENT: 0",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -481,7 +481,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -541,7 +541,7 @@
       }
     },
     {
-      "description": "Title of Bill - Agreed To",
+      "description": "Taken Up",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -561,7 +561,7 @@
       }
     },
     {
-      "description": "Truly Agreed To and Finally Passed",
+      "description": "Truly Agreed To and Finally Passed - AYES: 136 NOES: 5 PRESENT: 1",
       "date": "2026-05-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -569,7 +569,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-05-16T13:16:57Z"
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     },
     {
@@ -580,6 +580,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-05-19T14:55:34Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker (H)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Signed by President Pro Tem (S)",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
       }
     }
   ],
@@ -719,6 +749,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Summary (Truly Agreed and Finally Passed)",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2474T.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note 5233H.01I.ORG",
       "links": [
         {
@@ -804,6 +845,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-19T14:55:34Z"
+    "logs_latest_update": "2026-05-29T14:58:19Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR 87",
-  "title": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR.",
+  "title": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\n\tAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\n\tThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\nAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\nThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR."
+      "abstract": "CCS/HCS/SS/SJR 87 - This constitutional amendment, if approved by the voters, provides that each county shall elect a sheriff for a term of four years by a majority of the qualified voters of the county. This constitutional amendment shall not apply to St. Louis City, St. Louis County, or St. Charles County.\r\n\r\n\tAdditionally, the sheriff shall commit to jail all felons and traitors as well as other duties as provided in the act. The sheriff may be removed from office by a quo warranto petition brought by the Attorney General.\r\n\r\n\tThis amendment is identical to SS/SCS/SJR 40 (2025), is substantially similar to HJR 61 (2025) and HJR 71 (2025), and is similar to SJR 75 (2024).\r\nTRISTAN BENSJON, JR."
     }
   ],
   "other_titles": [
@@ -25,6 +25,46 @@
     }
   ],
   "actions": [
+    {
+      "description": "Delivered to Secretary of State",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Signed by Senate President Pro Tem",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
+    {
+      "description": "Reported Duly Enrolled Rules, Joint Rules, Resolutions & Ethics Committee",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-29T14:58:19Z"
+      }
+    },
     {
       "description": "Truly Agreed To and Finally Passed",
       "date": "2026-05-15T05:00:00+00:00",
@@ -538,6 +578,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "4330S.06T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SJR87.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "4330H.03C - House Committee Substitute",
       "links": [
         {
@@ -645,6 +696,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:16:57Z"
+    "logs_latest_update": "2026-05-29T14:58:19Z"
   }
 }
