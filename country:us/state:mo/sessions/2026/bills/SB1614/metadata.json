@@ -24,7 +24,33 @@
       "identifier": "ocd-bill-mo-2026-sb1614"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:46:03Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:46:03Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "McCreery, Tracy",
@@ -36,7 +62,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "4879S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1614.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -55,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-15T17:11:22Z"
+    "logs_latest_update": "2026-06-16T16:46:03Z"
   }
 }
