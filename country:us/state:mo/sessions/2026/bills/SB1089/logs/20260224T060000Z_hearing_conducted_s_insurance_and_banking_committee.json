@@ -1,13 +1,11 @@
 {
   "action": {
-    "description": "S First Read",
-    "occurred_at": "2026-01-07T06:00:00+00:00",
+    "description": "Hearing Conducted S Insurance and Banking Committee",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "2026",
     "entity_type": "bill",
-    "classifications": [
-      "reading-1"
-    ],
+    "classifications": [],
     "related_entities": [],
     "sources": [
       {
