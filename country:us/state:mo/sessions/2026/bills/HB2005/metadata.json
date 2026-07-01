@@ -622,6 +622,28 @@
       "_processing": {
         "log_file_created": "2026-05-29T14:58:19Z"
       }
+    },
+    {
+      "description": "Vetoed in Part by Governor (G)",
+      "date": "2026-06-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto-line-item"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:29:28Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State (G)",
+      "date": "2026-06-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:29:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -834,6 +856,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-29T14:58:19Z"
+    "logs_latest_update": "2026-07-01T14:29:28Z"
   }
 }
