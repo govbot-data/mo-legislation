@@ -725,6 +725,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T17:31:04Z"
+    "logs_latest_update": "2026-07-21T17:31:04Z",
+    "text_extraction_latest_update": "2026-07-21T22:35:39.406138Z"
   }
 }
