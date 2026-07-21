@@ -1,0 +1,60 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1074",
+  "title": "SB 1074 - This act repeals provisions establishing the Sentencing and Corrections Oversight Commission, which expired on August 28, 2025. Additionally, this act repeals compliance credits for those offenders on probation, parole, or conditional release and good-time credits for those offenders incarcerated with the Department of Corrections.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1074 - This act repeals provisions establishing the Sentencing and Corrections Oversight Commission, which expired on August 28, 2025. Additionally, this act repeals compliance credits for those offenders on probation, parole, or conditional release and good-time credits for those offenders incarcerated with the Department of Corrections.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to criminal sentencing, including compliance and good-time credits"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1074"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=293",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4021S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T17:31:02Z"
+  }
+}
