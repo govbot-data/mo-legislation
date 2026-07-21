@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB 1074",
-  "title": "SB 1074 - This act repeals provisions establishing the Sentencing and Corrections Oversight Commission, which expired on August 28, 2025. Additionally, this act repeals compliance credits for those offenders on probation, parole, or conditional release and good-time credits for those offenders incarcerated with the Department of Corrections.\r\nTRISTAN BENSON, JR.",
+  "identifier": "SB 1076",
+  "title": "SB 1076 - This act prohibits the seizure of personal property and certain real property that is used as the owner's primary residence solely because the owner of such property owes taxes on such property.  \r\n\r\n\tThis act is identical to HB 1743 (2026), SB 17 (2025 First Extraordinary Session), and HB 1212 (2025).\r\nJOSH NORBERG",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,23 +10,23 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "SB 1074 - This act repeals provisions establishing the Sentencing and Corrections Oversight Commission, which expired on August 28, 2025. Additionally, this act repeals compliance credits for those offenders on probation, parole, or conditional release and good-time credits for those offenders incarcerated with the Department of Corrections.\r\nTRISTAN BENSON, JR."
+      "abstract": "SB 1076 - This act prohibits the seizure of personal property and certain real property that is used as the owner's primary residence solely because the owner of such property owes taxes on such property.  \r\n\r\n\tThis act is identical to HB 1743 (2026), SB 17 (2025 First Extraordinary Session), and HB 1212 (2025).\r\nJOSH NORBERG"
     }
   ],
   "other_titles": [
     {
       "note": "",
-      "title": "Modifies provisions relating to criminal sentencing, including compliance and good-time credits"
+      "title": "Prohibits the seizure of certain property for delinquent taxes"
     }
   ],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mo-2026-sb1074"
+      "identifier": "ocd-bill-mo-2026-sb1076"
     }
   ],
   "actions": [
     {
-      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
       "date": "2026-01-15T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -63,21 +63,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Hudson, Brad",
+      "name": "Schnelting, Adam",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "4021S.01I - Introduced",
+      "note": "4833S.01I - Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1074.pdf",
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1076.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,12 +89,12 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=293",
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=362",
       "note": ""
     }
   ],
   "extras": {
-    "MO_BILL_LR": "4021S.01I"
+    "MO_BILL_LR": "4833S.01I"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:mo/government",
