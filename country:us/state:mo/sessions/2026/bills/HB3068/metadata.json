@@ -204,23 +204,13 @@
       }
     },
     {
-      "description": "SEE COMMENTS - HA 1, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, HA 9, HA 10, HA 11, HA 12, HA 13, HA 14, adopted",
+      "description": "Committed to: Legislative Review(H) - HA 1, HA 3, HA 4, HA 5, HA 6, HA 7, HA 8, HA 9, HA 10, HA 11, HA 12, HA 13, HA 14, adopted",
       "date": "2026-04-08T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T17:31:01Z"
-      }
-    },
-    {
-      "description": "Committed to: Legislative Review(H)",
-      "date": "2026-04-08T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T17:31:01Z"
+        "log_file_created": "2026-08-14T08:02:41Z"
       }
     },
     {
@@ -1011,7 +1001,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T17:31:01Z",
+    "logs_latest_update": "2026-08-14T08:02:41Z",
     "text_extraction_latest_update": "2026-07-21T18:21:38.536511Z"
   }
 }
