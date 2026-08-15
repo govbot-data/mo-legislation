@@ -24,7 +24,33 @@
       "identifier": "ocd-bill-mo-2026-sb1532"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:09:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T07:09:24Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Schroer, Nick",
@@ -36,7 +62,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "6593S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1532.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -55,7 +93,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-14T08:02:41Z",
+    "logs_latest_update": "2026-08-15T07:09:24Z",
     "text_extraction_latest_update": "2026-08-14T08:03:57.295723Z"
   }
 }
