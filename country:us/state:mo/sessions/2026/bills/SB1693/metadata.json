@@ -24,7 +24,33 @@
       "identifier": "ocd-bill-mo-2026-sb1693"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:18:34Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:18:34Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Lewis, Patty",
@@ -67,7 +93,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-24T07:22:39Z",
+    "logs_latest_update": "2026-08-25T07:18:34Z",
     "text_extraction_latest_update": "2026-08-24T07:23:51.831180Z"
   }
 }
