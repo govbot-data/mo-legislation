@@ -24,7 +24,55 @@
       "identifier": "ocd-bill-mo-2026-sb1557"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 1557 & 1054 Local Government, Elections and Pensions Committee (6554S.03C)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T10:41:43Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T10:41:43Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T10:41:43Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T10:41:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mike Henderson",
@@ -36,7 +84,30 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6554S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -55,7 +126,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T11:12:28Z",
+    "logs_latest_update": "2026-09-05T10:41:43Z",
     "text_extraction_latest_update": "2026-09-04T11:14:01.017103Z"
   }
 }

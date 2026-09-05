@@ -148,13 +148,25 @@
       }
     },
     {
-      "description": "H distributes CCR/CCS (4981S06.1SR)",
+      "description": "Referred H Fiscal Review Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T10:41:43Z"
+      }
+    },
+    {
+      "description": "H distributes CCR (4981S06.1SR)",
       "date": "2026-05-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-04T11:12:28Z"
+        "log_file_created": "2026-09-05T10:41:43Z"
       }
     },
     {
@@ -651,7 +663,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T11:12:28Z",
+    "logs_latest_update": "2026-09-05T10:41:43Z",
     "text_extraction_latest_update": "2026-09-04T11:14:00.946648Z"
   }
 }
