@@ -156,6 +156,16 @@
       }
     },
     {
+      "description": "H distributes CCR/CCS",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-06T10:55:43Z"
+      }
+    },
+    {
       "description": "Senate conferees appointed: Black, Bernskoetter, Henderson, Beck, May",
       "date": "2026-05-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -618,7 +628,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T10:41:43Z",
+    "logs_latest_update": "2026-09-06T10:55:43Z",
     "text_extraction_latest_update": "2026-09-05T10:42:59.802504Z"
   }
 }
