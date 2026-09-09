@@ -24,7 +24,135 @@
       "identifier": "ocd-bill-mo-2026-sb948"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "SA 3 to SS S offered (Carter)--(5621S05.09S)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS S offered & adopted (Beck)--(5621S05.04S)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS S offered & adopted (Nurrenbern)--(5621S05.02S)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "SS S offered (Brattin)--(5621S.05F)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T11:09:40Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Rick Brattin",
@@ -112,7 +240,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-08T11:11:17Z",
+    "logs_latest_update": "2026-09-09T11:09:40Z",
     "text_extraction_latest_update": "2026-09-08T11:12:26.924692Z"
   }
 }
