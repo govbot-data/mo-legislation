@@ -24,33 +24,7 @@
       "identifier": "ocd-bill-mo-2026-sb1704"
     }
   ],
-  "actions": [
-    {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-05-07T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-11T11:10:57Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-02-23T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-11T11:10:57Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "David Gregory",
@@ -93,7 +67,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T11:10:57Z",
+    "logs_latest_update": "2026-09-12T10:59:01Z",
     "text_extraction_latest_update": "2026-09-11T11:12:11.602367Z"
   }
 }
